@@ -1,0 +1,46 @@
+--- Glossário para uso na Tradução do Star Citizen ---
+
+--- Termos ---
+Heavy - Pesado
+Medium - Médio 
+Light - Leve
+Landing Services - Serviço de Aterrissagem? - Serviço de Pouso?
+Comm Array - Matriz de Comunicação
+Manufacturer - Fabricante
+Attachment Point - Ponto de Fixação? - Ponto de Conexão? - Ponto de Montagem?
+Flash Hider - Freio de Boca?
+Veil Flash Hider - 
+Tacit Supressor - Supressor Tácito
+Sion Compensator - 
+Underbarrel - Cano Inferior
+Barrel - Cano - Barril
+Docking - Acoplar - Acoplagem
+Quantum Travel - Viagem Quântica
+Power Supply - Fonte de Energia - Fornecimento de Energia
+Power Plant - Central Eléctrica
+Attachment - Anexo - Fixação
+Sprint - Corrida
+Upload - Carregamento
+Enabled - Habilitado
+Disabled - Desabilitado
+--- ---- ---
+
+--- Naves ---
+Bomber - Bombardeiro
+Corvette - Corveta
+Destroyer - Destróier
+Expedition - Expedição
+Gunship - Caça? Nave de Combate? Militar?
+Frigate - Fragata
+Salvage - Sucateiro
+Dropship - Desembarque de Tropa
+Mining - Mineração
+--- ---- ---
+
+--- Planetas/Cidades/Locais ---
+Lorville - Lorville
+Área18 - Área18
+Lorville - Lorville
+Orison - Orison
+--- ---- ---
+

@@ -1,0 +1,14 @@
+--- Nomes e Termos para não traduzir ---
+
+--- Naves ---
+Nenhum nome de nave
+--- ---- ---
+
+
+--- Planetas/Cidades/Locais ---
+Lorville
+--- ---- ---
+
+--- Fabricantes ---
+Behring
+--- ---- ---

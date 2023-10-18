@@ -1,0 +1,15 @@
+--- Palavras para pesquisar e Trocar ou Corrigir ----
+
+Local de montagem - Ponto de Fixação
+Barril - Cano
+font size=
+ \n
+,
+Monóxido
+ESP - E.S.P
+esquerda/direita - Esquerda / Direita
+aumentar/diminuir - Aumentar / Diminuir
+para cima/para baixo - Para Cima / Para Baixo
+Attachments
+off-line - Offline
+~mission(
