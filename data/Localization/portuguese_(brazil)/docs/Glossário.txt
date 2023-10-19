@@ -37,7 +37,12 @@ Slot - Slot - Espaço?
 Nose Mount - Fixação de Nariz
 Quantum Fuel - Combustível Quântico
 Gadget - Dispositivo
-Suply - Suprimento - Abastecimento
+Suply - Suprimento
+Journal - Jornal (remover Diario)
+Checkpoint=Ponto de controle/verificacao(?)
+Kiosk=quiosque
+strafe down=Movimentar(?) (para baixo)
+strafe up=Movimentar(?) (para cima)
 --- ---- ---
 
 --- Naves ---
