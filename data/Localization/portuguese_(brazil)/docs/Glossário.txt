@@ -23,7 +23,11 @@ Sprint - Corrida
 Upload - Carregamento
 Enabled - Habilitado
 Disabled - Desabilitado
---- ---- ---
+Journal - Jornal (remover Diario)
+Checkpoint=Ponto de controle/verificacao ?
+Kiosk=quiosque
+strafe down=Movimentar(?) (para baixo)
+strafe up=Movimentar(?) (para cima)
 
 --- Naves ---
 Bomber - Bombardeiro
@@ -35,12 +39,12 @@ Frigate - Fragata
 Salvage - Sucateiro
 Dropship - Desembarque de Tropa
 Mining - Mineração
---- ---- ---
+
 
 --- Planetas/Cidades/Locais ---
 Lorville - Lorville
 Área18 - Área18
 Lorville - Lorville
 Orison - Orison
---- ---- ---
+
 
