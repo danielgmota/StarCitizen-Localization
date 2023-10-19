@@ -4,7 +4,6 @@
 Nenhum nome de nave
 --- ---- ---
 
-
 --- Planetas/Cidades/Locais ---
 Lorville
 --- ---- ---
@@ -12,3 +11,6 @@ Lorville
 --- Fabricantes ---
 Behring
 --- ---- ---
+
+--- Termos ---
+Slot - Slot

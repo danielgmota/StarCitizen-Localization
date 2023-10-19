@@ -8,6 +8,7 @@ Landing Services - Serviço de Aterrissagem? - Serviço de Pouso?
 Comm Array - Matriz de Comunicação
 Manufacturer - Fabricante
 Attachment Point - Ponto de Fixação? - Ponto de Conexão? - Ponto de Montagem?
+Attachment - Anexo - Fixação - Acessório
 Flash Hider - Freio de Boca?
 Veil Flash Hider - 
 Tacit Supressor - Supressor Tácito
@@ -18,16 +19,26 @@ Docking - Acoplar - Acoplagem
 Quantum Travel - Viagem Quântica
 Power Supply - Fonte de Energia - Fornecimento de Energia
 Power Plant - Central Eléctrica
-Attachment - Anexo - Fixação
 Sprint - Corrida
 Upload - Carregamento
 Enabled - Habilitado
 Disabled - Desabilitado
-Journal - Jornal (remover Diario)
-Checkpoint=Ponto de controle/verificacao ?
-Kiosk=quiosque
-strafe down=Movimentar(?) (para baixo)
-strafe up=Movimentar(?) (para cima)
+Warning - Alerta
+Refueling - Reabastecimento
+Restocking - Reestoque
+Remaining Sites of Hostiles - Locais de Inimigos Restantes
+Target - Alvo
+Requeue - Reenfileiramento
+Rush Contract - Contrato Urgente
+Hurston Security - ? Deixar como Hurston Security ou traduzir para Segurança de Hurston?
+Gimbal - Giroscópio
+Jump Drive - Unidade de Salto
+Slot - Slot - Espaço?
+Nose Mount - Fixação de Nariz
+Quantum Fuel - Combustível Quântico
+Gadget - Dispositivo
+Suply - Suprimento - Abastecimento
+--- ---- ---
 
 --- Naves ---
 Bomber - Bombardeiro
@@ -39,12 +50,12 @@ Frigate - Fragata
 Salvage - Sucateiro
 Dropship - Desembarque de Tropa
 Mining - Mineração
-
+--- ---- ---
 
 --- Planetas/Cidades/Locais ---
 Lorville - Lorville
 Área18 - Área18
 Lorville - Lorville
 Orison - Orison
-
+--- ---- ---
 
