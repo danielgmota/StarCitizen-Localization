@@ -39,10 +39,12 @@ Quantum Fuel - Combustível Quântico
 Gadget - Dispositivo
 Suply - Suprimento
 Journal - Jornal (remover Diario)
-Checkpoint=Ponto de controle/verificacao(?)
-Kiosk=quiosque
-strafe down=Movimentar(?) (para baixo)
-strafe up=Movimentar(?) (para cima)
+Checkpoint - Ponto de controle/verificacao(?)
+Kiosk - quiosque
+strafe down - Movimentar(?) (para baixo)
+strafe up - Movimentar(?) (para cima)
+Thruster - Propulsor
+Quantum Drive - Motor Quântico - Impulso Quântico
 --- ---- ---
 
 --- Naves ---
