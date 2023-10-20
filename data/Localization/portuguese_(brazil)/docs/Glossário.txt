@@ -52,7 +52,7 @@ Bomber - Bombardeiro
 Corvette - Corveta
 Destroyer - Destróier
 Expedition - Expedição
-Gunship - Caça? Nave de Combate? Militar?
+Gunship - Caça? Nave de Combate? Militar? Nave de Guerra?
 Frigate - Fragata
 Salvage - Sucateiro
 Dropship - Desembarque de Tropa
