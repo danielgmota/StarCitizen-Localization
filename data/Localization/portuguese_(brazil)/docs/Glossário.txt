@@ -88,6 +88,9 @@ Uranium - Urânio
 Rock - Rocha
 Stileron - Estilete
 Tin - Estanho
+Party - equipe?
+group_invite_group_to_party=Convidar Grupo para Party
+group_invite_party_to_group=Convidar Party para Grupo
 --- ---- ---
 
 --- Frases ---
