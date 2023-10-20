@@ -1,0 +1,40 @@
+Nomenclaturas usadas em variáveis para encontrar certos tipos de objetos.
+
+
+---- Naves e Veículos ----
+Para nomes de naves e veículos:
+vehicle_Name
+
+
+Nomes das classes de naves e veículos:
+vehicle_class
+
+Descrição das naves e veículos de todas as fabricantes:
+vehicle_Desc
+
+Itens de interação das naves e veículos:
+vehicle_interactor_
+
+
+---- Itens ----
+Itens em geral:
+item_
+
+Nomes de itens:
+item_Name_
+item_Name
+
+Descrição dos itens:
+item_Desc_
+item_Desc
+
+Nomes e descrições para itens de commodities 
+items_commodities_
+
+Nomes dos Tipos de Itens
+item_Type
+
+Nomes dos SubTipos de Itens
+item_SubType
+
+56000

@@ -1,10 +1,16 @@
 --- Glossário para uso na Tradução do Star Citizen ---
 
 --- Termos ---
+Site - Local - Sítio
 Heavy - Pesado
 Medium - Médio 
 Light - Leve
+Light Fighter - Caça Leve
+Combat Fighter - Caça de Combate
+Light Freight - Frete Leve
+Pathfinder - Desbravador - Descobridor
 Landing Services - Serviço de Aterrissagem? - Serviço de Pouso?
+Landing System - Sistema de Aterrissagem
 Comm Array - Matriz de Comunicação
 Manufacturer - Fabricante
 Attachment Point - Ponto de Fixação? - Ponto de Conexão? - Ponto de Montagem?
@@ -19,6 +25,8 @@ Docking - Acoplar - Acoplagem
 Quantum Travel - Viagem Quântica
 Power Supply - Fonte de Energia - Fornecimento de Energia
 Power Plant - Central Eléctrica
+Cooler System - Sistema de Resfriamento - Sistema de Refrigeração - Sistema de Arrefecimento
+Cooling System - Sistema de Refrigeração
 Sprint - Corrida
 Upload - Carregamento
 Enabled - Habilitado
@@ -26,25 +34,70 @@ Disabled - Desabilitado
 Warning - Alerta
 Refueling - Reabastecimento
 Restocking - Reestoque
+Commodity - Mercadorias
 Remaining Sites of Hostiles - Locais de Inimigos Restantes
 Target - Alvo
 Requeue - Reenfileiramento
-Rush Contract - Contrato Urgente
-Hurston Security - ? Deixar como Hurston Security ou traduzir para Segurança de Hurston?
+Rush Contract - Contrato Urgente - Contrato de Urgência
 Gimbal - Giroscópio
 Jump Drive - Unidade de Salto
 Slot - Slot - Espaço?
 Nose Mount - Fixação de Nariz
 Quantum Fuel - Combustível Quântico
+Agricultural Supply - Suprimento Agrícola
+Medical Supply - Suprimentos Médicos
+Consumer Goods - Bens de Consumo
+Plasma Fuel - Combustível de Plasma
+Quantum Fuel - Combustível Quântico
 Gadget - Dispositivo
+Decoy - Decoy - Isca
 Suply - Suprimento
-Journal - Jornal (remover Diario)
-Checkpoint - Ponto de controle/verificacao(?)
-Kiosk - quiosque
-strafe down - Movimentar(?) (para baixo)
-strafe up - Movimentar(?) (para cima)
+Journal - Jornal
+Checkpoint - Ponto de Controle
+Kiosk - Quiosque
+Strafe Down - Movimentar(?) (para baixo)
+Strafe Up - Movimentar(?) (para cima)
 Thruster - Propulsor
+Thrusters - Propulsores
 Quantum Drive - Motor Quântico - Impulso Quântico
+Scan Mode - Modo de Escaneamento - Modo de Varredura
+Disabled - Desativado - Desabilitado
+Self Destruct - Autodestruição
+Undersuit - ?
+Jumpsuit - Macacão
+Quartz - Quartzo
+Scrap - Sucata
+Silicon - Silício
+Selenium - Selênio
+Sodium - Sódio
+Steel - Aço
+Stims - Estimulantes
+Sulfer Moss - Musgo Sulfer
+Taranite - Taranita
+Tellurium - Telúrio
+Thorium - Tório
+Tin Ore - Minério de Estanho
+Titanium - Titânio
+Tritium - Trítio
+Tungsten - Tungstênio
+Ore - Minério
+Alloy - Liga
+Nonmetals - Não metais
+Waste - Resíduos
+Uranium - Urânio
+Rock - Rocha
+Stileron - Estilete
+Tin - Estanho
+--- ---- ---
+
+--- Frases ---
+Group Warrant Issued - Mandado de Grupo Emitido
+
+--- Empresas ---
+BlacJac Security - BlacJac Security
+Hurston Security - Hurston Security
+Crusader Security - Crusader Security
+microTech Protection Services - microTech Protection Services
 --- ---- ---
 
 --- Naves ---
