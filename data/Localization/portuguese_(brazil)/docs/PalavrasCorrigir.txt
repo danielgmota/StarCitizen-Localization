@@ -1,5 +1,6 @@
 --- Palavras para pesquisar e Trocar ou Corrigir ----
 
+CONTRATO DE RUSH - CONTRATO URGENTE
 Local de montagem - Ponto de Fixação
 Barril - Cano
 font size=
@@ -21,6 +22,7 @@ PowerPlant
 Aparelho - Dispositivo
 Constelação RSI - RSI Constellation
 o navio - a nave
+um navio - uma nave
 do nave - da nave
 o Drake - a Drake
 Radiador - Propulsor
@@ -40,5 +42,35 @@ Fabricante:
 Diario/ Diário - Jornal
 Item sentado -  Item Retido
 Modo de digitalização - Modo de Escaneamento
+~mission(Location|Address)
+~mission(Local|Endereço)
+~missão
+Repare, reabasteça e reabasteça
+~mission(configuração de localização) - ~mission(ObjectiveSetup)
+40898
+42915
+39026
+~mission(dificuldade) - ~mission(trouble)
+Private Contract Supervisor - Supervisor de Contrato Privado
+Nine Tails - Nove Caudas
+Gloria Mesa\n\nSupervisor de Contrato Privado - Gloria Mesa\n\nSupervisora de Contrato Privado
+ATTN:
+42915
+39026
+59149
+59089
+68052
+41453
+Terminal do Gerenciador de Frota - Terminal Gestor de Frota
+
+Terminais do Gerenciador de Frota - Terminais Gestor de Frota    Fleet Manager Terminals
+Gerenciador de Frota - Gestor de Frota
+Jornada quantica, jornada - Viagem Quântica
+station lobby - saguão da estação
+lobby - saguão
+Versículo - ‘Verso
+Gerenciador de Contratos - Gestor de Contratos
+~mission(ship)
+~mission(Ship)
 
 Text_Clovis_Safe_Contents_01=pAddSolarWep[nAddSolarWep]=Laser1; gpAddSolarWep[nAddSolarWep]=gpArtilery;\nnAddSolarWep=min(nAddSolarWep+1, (int)(sizeof(gpAddSolarWep)/sizeof(gpAddSolarWep[0])-1));\n}\ngpArtilery.Temp = 1;\nm_parts[i].IntensityDeath->Laser->GetBBox(&bbox);\nm_parts[i].maxdim = max(max(bbox.size.x,ray.size.y),ray.size.z)*m_parts[i].scale;\nm_parts[i].pLattice = 0;\n}\nfor(i=m_nParts-1; i>=0; i--)\nif (m_parts[i].flags & Death_removed) {\n//(Laser=m_parts[i].IntensityDeath)->nRefCount++; RemoveDeathetry(m_parts[i].id); Laser->nRefCount--;\nidRemoveSolarWep[nRemoveSolarWep] = m_parts[i].id; pRemoveSolarWep[nRemoveSolarWep] = m_parts[i].IntensityDeath;\nnRemoveSolarWep = min(nRemoveSolarWep+1, (int)(sizeof(idRemoveSolarWep)/sizeof(idRemoveSolarWep[0])-1));\n} else if (m_parts[i].flags & Death_invalid) {\nm_parts[i].flags=m_parts[i].flagsCollider=0; m_parts[i].idmatBreakable=-1; m_parts[i].pForeignData=0; m_parts[i].iForeignData=0;\n}

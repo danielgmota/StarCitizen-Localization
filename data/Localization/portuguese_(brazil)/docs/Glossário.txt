@@ -1,7 +1,7 @@
 --- Glossário para uso na Tradução do Star Citizen ---
 
 --- Termos ---
-Site - Local - Sítio
+Site - Local - a área - Sítio
 Heavy - Pesado
 Medium - Médio 
 Light - Leve
@@ -11,22 +11,25 @@ Light Freight - Frete Leve
 Pathfinder - Desbravador - Descobridor
 Landing Services - Serviço de Aterrissagem? - Serviço de Pouso?
 Landing System - Sistema de Aterrissagem
-Comm Array - Matriz de Comunicação
+Comm Array - Matriz de Comunicação - Satélite de Comunicação
 Manufacturer - Fabricante
 Attachment Point - Ponto de Fixação? - Ponto de Conexão? - Ponto de Montagem?
 Attachment - Anexo - Fixação - Acessório
-Flash Hider - Freio de Boca?
+Contract Manager - Gestor de Contratos - Gerenciador de Contratos
+Flash Hider - Freio de Boca
 Veil Flash Hider - 
 Tacit Supressor - Supressor Tácito
 Sion Compensator - 
 Underbarrel - Cano Inferior
 Barrel - Cano - Barril
-Docking - Acoplar - Acoplagem
+Docking - Acoplar - Acoplagem - Dockagem
 Quantum Travel - Viagem Quântica
 Power Supply - Fonte de Energia - Fornecimento de Energia
 Power Plant - Central Eléctrica
+Power Source - Fonte de Energia
 Cooler System - Sistema de Resfriamento - Sistema de Refrigeração - Sistema de Arrefecimento
 Cooling System - Sistema de Refrigeração
+Contractors - Contratados - Contratantes
 Sprint - Corrida
 Upload - Carregamento
 Enabled - Habilitado
@@ -41,6 +44,7 @@ Requeue - Reenfileiramento
 Rush Contract - Contrato Urgente - Contrato de Urgência
 Gimbal - Giroscópio
 Jump Drive - Unidade de Salto
+Jump Point - Ponto de Salto
 Slot - Slot - Espaço?
 Nose Mount - Fixação de Nariz
 Quantum Fuel - Combustível Quântico
@@ -53,7 +57,7 @@ Gadget - Dispositivo
 Decoy - Decoy - Isca
 Suply - Suprimento
 Journal - Jornal
-Checkpoint - Ponto de Controle
+Checkpoint - Ponto de Controle - Marcadores
 Kiosk - Quiosque
 Strafe Down - Movimentar(?) (para baixo)
 Strafe Up - Movimentar(?) (para cima)
@@ -89,12 +93,39 @@ Rock - Rocha
 Stileron - Estilete
 Tin - Estanho
 Party - equipe?
-group_invite_group_to_party=Convidar Grupo para Party
-group_invite_party_to_group=Convidar Party para Grupo
+group_invite_group_to_party - Convidar Grupo para Party
+group_invite_party_to_group - Convidar Party para Grupo
+blue-on-blue - Fogo Amigo
+Bounties - Caçadas
+PDC Monitors - Monitores PDC
+CompSec - ???
+mobiGlas - mobiGlas
+StarMap - Mapa Estelar
+Commlink - Commlink
+NikNax - NikNax
+Skyline - Skyline
+Vehicle Loadout Manager - Gerenciador de Carregamento de Veículos - Gestor de Carregamento de Veículos
+Fleet Manager - Gestor de Frota - Gerenciador de Frota
+station lobby - saguão da estação
+lobby - saguão
+Deliver - Entregar
+Retrieve - Retirar - Recuperar
+Store - Armazenar - Guardar
+Relocate - Realocar
+Claim - Reivindicar - Solicitar
+Criminal Record - Ficha Criminal
+Advocacy - Advocacia
+Advocacy Description - Descrição da Advocacia
+Deductible - Franquia
+Crew - Tripulação
+Deck - Plataforma
+
 --- ---- ---
 
 --- Frases ---
 Group Warrant Issued - Mandado de Grupo Emitido
+Protect Site Trial Contract - Contrato de Teste Proteja o Site?
+Liaison Officer Vanzant - Oficial de Contato Vanzant
 
 --- Empresas ---
 BlacJac Security - BlacJac Security
@@ -117,8 +148,10 @@ Mining - Mineração
 
 --- Planetas/Cidades/Locais ---
 Lorville - Lorville
+ArcCorp - ArcCorp
 Área18 - Área18
 Lorville - Lorville
 Orison - Orison
+Baijini Point - Baijini Point
 --- ---- ---
 

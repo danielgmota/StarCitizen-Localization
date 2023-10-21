@@ -6,12 +6,28 @@ Nenhum nome de nave
 
 --- Planetas/Cidades/Locais ---
 Lorville
+ArcCorp
+Área18
+Orison
+Baijini Point
 --- ---- ---
 
---- Fabricantes ---
+--- Fabricantes/Fracções ---
 Behring
 Drake Interplanetary
+Nine Tails
+--- ---- ---
+
+--- Empresas ---
+microTech Protection Services
+BlacJac Security
+Hurston Security
+Crusader Security
 --- ---- ---
 
 --- Termos ---
-Slot - Slot
+Slot
+mobiGlas
+Commlink
+NikNax
+Skyline
