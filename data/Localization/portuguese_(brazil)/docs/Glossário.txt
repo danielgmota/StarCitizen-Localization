@@ -119,7 +119,9 @@ Advocacy Description - Descrição da Advocacia
 Deductible - Franquia
 Crew - Tripulação
 Deck - Plataforma
-
+Party - Grupo
+Group - Associação
+lobby - 
 --- ---- ---
 
 --- Frases ---
