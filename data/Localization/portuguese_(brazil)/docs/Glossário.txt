@@ -1,7 +1,7 @@
 --- Glossário para uso na Tradução do Star Citizen ---
 
 --- Termos ---
-Site - Local - a área - Sítio
+Site - Local - a área - Sítio - Complexo
 Heavy - Pesado
 Medium - Médio 
 Light - Leve
@@ -9,9 +9,13 @@ Light Fighter - Caça Leve
 Combat Fighter - Caça de Combate
 Light Freight - Frete Leve
 Pathfinder - Desbravador - Descobridor
-Landing Services - Serviço de Aterrissagem? - Serviço de Pouso?
-Landing System - Sistema de Aterrissagem
+Landing Services - Serviço de Aterrissagem? - Serviço de Pouso
+Landing Pad - Plataforma de Aterrissagem - Plataforma de Pouso
+Landing System - Sistema de Aterrissagem - Sistema de Pouso
 Comm Array - Matriz de Comunicação - Satélite de Comunicação
+Commlink - Commlink
+Comm Uplink - Uplink de Comunicação
+Uplink - Uplink
 Manufacturer - Fabricante
 Attachment Point - Ponto de Fixação? - Ponto de Conexão? - Ponto de Montagem?
 Attachment - Anexo - Fixação - Acessório
@@ -22,7 +26,7 @@ Tacit Supressor - Supressor Tácito
 Sion Compensator - 
 Underbarrel - Cano Inferior
 Barrel - Cano - Barril
-Docking - Acoplar - Acoplagem - Dockagem
+Docking - Acoplar - Acoplagem - Acoplamento - Dockagem
 Quantum Travel - Viagem Quântica
 Power Supply - Fonte de Energia - Fornecimento de Energia
 Power Plant - Central Eléctrica
@@ -43,7 +47,7 @@ Target - Alvo
 Requeue - Reenfileiramento
 Rush Contract - Contrato Urgente - Contrato de Urgência
 Gimbal - Giroscópio
-Jump Drive - Unidade de Salto
+Jump Drive - Unidade de Salto - Motor de Salto
 Jump Point - Ponto de Salto
 Slot - Slot - Espaço?
 Nose Mount - Fixação de Nariz
@@ -101,7 +105,6 @@ PDC Monitors - Monitores PDC
 CompSec - ???
 mobiGlas - mobiGlas
 StarMap - Mapa Estelar
-Commlink - Commlink
 NikNax - NikNax
 Skyline - Skyline
 Vehicle Loadout Manager - Gerenciador de Carregamento de Veículos - Gestor de Carregamento de Veículos
@@ -119,21 +122,36 @@ Advocacy Description - Descrição da Advocacia
 Deductible - Franquia
 Crew - Tripulação
 Deck - Plataforma
-Party - Grupo
-Group - Associação
-lobby - 
+Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
+Shipment - Transporte
+CRYPTOKEY - CRIPTOCHAVE
+systems-grok - Gênio em sistemas
+Passkey - Chave de Acesso
+Cockpit - Cabine
+orbital sentries - sentinelas orbitais
+Decline - Recusar
+Invite - Convidar
+Outcasts - Párias - Foragidos - Forasteiros
+Outlaw's - Criminosos
+QUANTUM SNARE - ARMADILHA QUÂNTICA
+QUANTUM DAMPENER - 
+ICU - UTI
 --- ---- ---
 
 --- Frases ---
 Group Warrant Issued - Mandado de Grupo Emitido
 Protect Site Trial Contract - Contrato de Teste Proteja o Site?
 Liaison Officer Vanzant - Oficial de Contato Vanzant
+big score - grande golpe
+--- ---- ---
 
 --- Empresas ---
 BlacJac Security - BlacJac Security
 Hurston Security - Hurston Security
 Crusader Security - Crusader Security
 microTech Protection Services - microTech Protection Services
+Covalex Shipping - Covalex Shipping
+ECKHART SECURITY - ECKHART SECURITY
 --- ---- ---
 
 --- Naves ---
