@@ -122,6 +122,7 @@ Deck - Plataforma
 Party - Grupo
 Group - Associação
 lobby - 
+Airlock=câmara de vácuo
 --- ---- ---
 
 --- Frases ---
