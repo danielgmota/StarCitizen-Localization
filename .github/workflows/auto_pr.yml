@@ -4,17 +4,26 @@ on:
     branches:
       - develop
 jobs:
-productionPromotion:
+  updateAuthor:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+      - name: checking out code
+        uses: actions/checkout@v2
+
+      - name: extract git commit data
+        uses: rlespinasse/git-commit-data-actions@v1.x
+
+      - name: Update Author Information
+        run: echo ${{ env.GIT_COMMIT_AUTHOR_NAME }} > AUTHOR
+
+      - name: Raise PR
+        uses: peter-evans/create-pull-request@v3
         with:
-        ref: production
-    - name: Reset branch
-        run: |
-        git fetch origin develop:develop
-        git reset --hard develop
-    - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-        branch: m0t4
+          branch: "m0t4"
+          base: main
+          title: "PR de Mota"
+          committer: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_NAME }}">
+          author: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_NAME }}">
+          body: Criacao automatica de PR
+          token: ${{ github.token }}
+          delete-branch: false
