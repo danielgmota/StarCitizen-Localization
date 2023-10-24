@@ -17,7 +17,7 @@ jobs:
         id: mota
         uses: peter-evans/create-pull-request@v3
         with:
-          branch: "develop"
+          branch: mota
           base: develop
           title: PR_
           committer: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_NAME }}">
