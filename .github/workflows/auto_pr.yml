@@ -17,24 +17,24 @@ jobs:
         id: mota
         uses: peter-evans/create-pull-request@v3
         with:
-          branch: "mota"
+          # branch: "mota"
           base: develop
-          title: "PR de Mota"
+          title: PR_
           committer: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_NAME }}">
           author: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_NAME }}">
           body: Criacao automatica de PR
           token: ${{ github.token }}
           delete-branch: false
 
-      - name: Raise PR Vinicius
-        id: vinicius
-        uses: peter-evans/create-pull-request@v3
-        with:
-          branch: "vinicius"
-          base: develop
-          title: "PR de Vinicius"
-          committer: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_EMAIL }}">
-          author: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_EMAIL }}">
-          body: Criacao automatica de PR
-          token: ${{ github.token }}
-          delete-branch: false
+      # - name: Raise PR Vinicius
+      #   id: vinicius
+      #   uses: peter-evans/create-pull-request@v3
+      #   with:
+      #     branch: "vinicius"
+      #     base: develop
+      #     title: "PR de Vinicius"
+      #     committer: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_EMAIL }}">
+      #     author: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_EMAIL }}">
+      #     body: Criacao automatica de PR
+      #     token: ${{ github.token }}
+      #     delete-branch: false
