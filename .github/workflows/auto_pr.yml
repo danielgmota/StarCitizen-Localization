@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: extract git commit data
-        uses: danielgmota/StarCitizen-Localization
+        uses: rlespinasse/git-commit-data-action@v1.x
 
       - name: Update Author Information
         run: echo ${{ env.GIT_COMMIT_AUTHOR_NAME }} > AUTHOR
