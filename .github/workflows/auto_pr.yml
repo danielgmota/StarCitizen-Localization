@@ -20,7 +20,7 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           branch: "m0t4"
-          base: main
+          base: develop
           title: "PR de Mota"
           committer: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_NAME }}">
           author: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_NAME }}">
