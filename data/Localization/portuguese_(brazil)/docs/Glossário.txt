@@ -71,7 +71,7 @@ Quantum Drive - Motor Quântico - Impulso Quântico
 Scan Mode - Modo de Escaneamento - Modo de Varredura
 Disabled - Desativado - Desabilitado
 Self Destruct - Autodestruição
-Undersuit - ?
+Undersuit - Sub Traje
 Jumpsuit - Macacão
 Quartz - Quartzo
 Scrap - Sucata
