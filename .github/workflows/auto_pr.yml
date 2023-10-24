@@ -13,7 +13,8 @@ jobs:
       - name: extract git commit data
         uses: rlespinasse/git-commit-data-action@v1.x
 
-      - name: Raise PR
+      - name: Raise PR Mota
+        id: mota
         uses: peter-evans/create-pull-request@v3
         with:
           branch: "mota"
@@ -21,6 +22,19 @@ jobs:
           title: "PR de Mota"
           committer: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_NAME }}">
           author: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_NAME }}">
+          body: Criacao automatica de PR
+          token: ${{ github.token }}
+          delete-branch: false
+
+      - name: Raise PR Vinicius
+        id: vinicius
+        uses: peter-evans/create-pull-request@v3
+        with:
+          branch: "vinicius"
+          base: develop
+          title: "PR de Vinicius"
+          committer: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_EMAIL }}">
+          author: ${{ env.GIT_COMMIT_AUTHOR_NAME }} <${{ env.GIT_COMMIT_AUTHOR_EMAIL }}">
           body: Criacao automatica de PR
           token: ${{ github.token }}
           delete-branch: false
