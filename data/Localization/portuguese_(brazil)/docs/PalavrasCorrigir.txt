@@ -13,9 +13,6 @@ aumentar/diminuir - Aumentar / Diminuir
 para cima/para baixo - Para Cima / Para Baixo
 Attachments
 off-line - Offline
-~mission(
-~mission(item)
-~mission(Item)
 Saltar unidade - Unidade de Salto
 Base de Mísseis - Rack de Mísseis
 PowerPlant
@@ -42,11 +39,8 @@ Fabricante:
 Diario/ Diário - Jornal
 Item sentado -  Item Retido
 Modo de digitalização - Modo de Escaneamento
-~mission(Location|Address)
-~mission(Local|Endereço)
 ~missão
 Repare, reabasteça e reabasteça
-~mission(configuração de localização) - ~mission(ObjectiveSetup)
 40898
 42915
 39026
@@ -68,14 +62,16 @@ station lobby - saguão da estação
 lobby - saguão
 Versículo - ‘Verso
 Gerenciador de Contratos - Gestor de Contratos
-~mission(ship)
-~mission(Ship)
 Verificar : pontuação - ver se golpe se encaixa
 CRYPTOKEY - CRIPTOCHAVE
 array - matriz
 Passkey - Chave de Acesso
 Guardas Orbitais - sentinelas orbitais
+~mission(
+~mission(configuração de localização) - ~mission(ObjectiveSetup)
 ~mission(GiftRecipient
+~mission(Location|Address)
+~mission(Local|Endereço)
 ~mission(Destination)
 ~mission(destination)
 ~mission(ship)
@@ -84,10 +80,17 @@ Guardas Orbitais - sentinelas orbitais
 ~mission(Title)
 ~mission(Item)
 ~mission(item)
+~mission(Client)
+~mission(client)
 ~mission(Location)
 ~mission(location)
-Abutre - Vulture
+~mission(Update)
+~mission(sShip)
+~mission(Contractor|AssassinationTimed)
 ~mission(De) - ~mission(From)
+~mission(droga) - ~mission(drug)
+~mission(analogy)
+Abutre - Vulture
 STATUS DO CONTRATANTE - STATUS DO CONTRATADO
 do Nine Tails - da Nine Tails
 Nove Caudas - Nine Tails
@@ -95,5 +98,6 @@ skimmer -
 Tamanho da Revista - Tamanho do Pente
 Alcance efetivo - Alcance Efetivo
 Livery
+
 
 Text_Clovis_Safe_Contents_01=pAddSolarWep[nAddSolarWep]=Laser1; gpAddSolarWep[nAddSolarWep]=gpArtilery;\nnAddSolarWep=min(nAddSolarWep+1, (int)(sizeof(gpAddSolarWep)/sizeof(gpAddSolarWep[0])-1));\n}\ngpArtilery.Temp = 1;\nm_parts[i].IntensityDeath->Laser->GetBBox(&bbox);\nm_parts[i].maxdim = max(max(bbox.size.x,ray.size.y),ray.size.z)*m_parts[i].scale;\nm_parts[i].pLattice = 0;\n}\nfor(i=m_nParts-1; i>=0; i--)\nif (m_parts[i].flags & Death_removed) {\n//(Laser=m_parts[i].IntensityDeath)->nRefCount++; RemoveDeathetry(m_parts[i].id); Laser->nRefCount--;\nidRemoveSolarWep[nRemoveSolarWep] = m_parts[i].id; pRemoveSolarWep[nRemoveSolarWep] = m_parts[i].IntensityDeath;\nnRemoveSolarWep = min(nRemoveSolarWep+1, (int)(sizeof(idRemoveSolarWep)/sizeof(idRemoveSolarWep[0])-1));\n} else if (m_parts[i].flags & Death_invalid) {\nm_parts[i].flags=m_parts[i].flagsCollider=0; m_parts[i].idmatBreakable=-1; m_parts[i].pForeignData=0; m_parts[i].iForeignData=0;\n}
