@@ -82,8 +82,6 @@ Guardas Orbitais - sentinelas orbitais
 ~mission(item)
 ~mission(Client)
 ~mission(client)
-~mission(Location)
-~mission(location)
 ~mission(Update)
 ~mission(sShip)
 ~mission(Contractor|AssassinationTimed)
