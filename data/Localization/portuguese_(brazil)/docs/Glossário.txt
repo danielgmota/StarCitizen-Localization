@@ -71,7 +71,7 @@ Quantum Drive - Motor Quântico - Impulso Quântico
 Scan Mode - Modo de Escaneamento - Modo de Varredura
 Disabled - Desativado - Desabilitado
 Self Destruct - Autodestruição
-Undersuit - ?
+Undersuit - Sub Traje
 Jumpsuit - Macacão
 Quartz - Quartzo
 Scrap - Sucata
@@ -123,6 +123,10 @@ Advocacy Description - Descrição da Advocacia
 Deductible - Franquia
 Crew - Tripulação
 Deck - Plataforma
+Party - Grupo
+Group - Associação
+lobby - 
+Airlock=câmara de vácuo
 Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
 Shipment - Transporte
 CRYPTOKEY - CRIPTOCHAVE
