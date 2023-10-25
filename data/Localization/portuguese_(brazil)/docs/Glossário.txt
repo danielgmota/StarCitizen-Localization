@@ -155,6 +155,9 @@ Magazine Size - Tamanho do Carregador
 Magazine Capacity - Capacidade Carregador
 cryopod - criópode
 Cloudrest Retreat - Retiro nas Nuvens
+DISPATCH - DISTRIBUIÇÃO
+Crimestat - Estatística de Crime
+Claimjumpers - ?
 --- ---- ---
 
 --- Frases ---
@@ -162,6 +165,8 @@ Group Warrant Issued - Mandado de Grupo Emitido
 Protect Site Trial Contract - Contrato de Teste Proteja o Site?
 Liaison Officer Vanzant - Oficial de Contato Vanzant
 big score - grande golpe
+score - um golpe
+over-achieving - super-ultrapassados
 --- ---- ---
 
 --- Empresas ---
