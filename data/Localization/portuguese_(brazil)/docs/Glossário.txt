@@ -158,6 +158,10 @@ Cloudrest Retreat - Retiro nas Nuvens
 DISPATCH - DISTRIBUIÇÃO
 Crimestat - Estatística de Crime
 Claimjumpers - ?
+Helmet = Capacete
+Core = Torso
+Arms = Braços
+Legs = Pernas
 
 --- ---- ---
 
