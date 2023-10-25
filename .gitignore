@@ -1,3 +1,5 @@
 *.old
 */**/node_modules
 .vscode/settings.json
+
+data/.DS_Store
