@@ -162,6 +162,7 @@ Helmet = Capacete
 Core = Torso
 Arms = Braços
 Legs = Pernas
+shield = escudo
 
 --- ---- ---
 
