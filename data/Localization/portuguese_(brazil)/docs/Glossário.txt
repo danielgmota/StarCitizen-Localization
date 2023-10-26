@@ -124,7 +124,7 @@ Deductible - Franquia
 Crew - Tripulação
 Deck - Plataforma
 Party - Grupo
-Group - Associação
+Group - Canal
 lobby - 
 Airlock=câmara de vácuo
 Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
