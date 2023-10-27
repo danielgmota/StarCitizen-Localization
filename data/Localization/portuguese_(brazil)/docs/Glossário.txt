@@ -1,206 +1,204 @@
 --- Glossário para uso na Tradução do Star Citizen ---
 
 --- Termos ---
-Site - Local
-Heavy - Pesado
-Medium - Médio 
-Light - Leve
-Light Fighter - Caça Leve
-Combat Fighter - Caça de Combate
-Light Freight - Frete Leve
-Pathfinder - Desbravador
-Landing Services - Serviço de Pouso
-Landing Pad - Plataforma de Pouso
-Landing System - Sistema de Pouso
-Comm Array - Matriz Comm
-Commlink - Commlink
-Uplink - Uplink
-Comm Uplink - Comm Uplink
-Manufacturer - Fabricante
-Attachment Point - Ponto de Fixação
+Advocacy - Advocacia
+Advocacy Description - Descrição da Advocacia
+Agricultural Supply - Suprimento Agrícola
+Airlock - Câmara a Vácuo
+Alloy - Liga
+Ancillary casualties - Vítimas secundárias
+Arms = Braços
 Attachment - Anexo - Fixação - Acessório
-Contract Manager - Gerenciador de Contratos
-Flash Hider - Freio de Boca
-Veil Flash Hider - Freio de Boca Veil
-Tacit Supressor - Supressor Tácito
-Sion Compensator - Compensador Sion
-Underbarrel - Cano Inferior
+Attachment Point - Ponto de Fixação
 Barrel - Cano
-Docking - Docagem
-Quantum Travel - Viagem Quântica
-Power Supply - Suprimento de Energia
-Power Plant - Gerador energia
-Power Source - Fonte de Energia
+blue-on-blue - Fogo Amigo
+Boost - Impulso
+Bounties - Caçadas
+Checkpoint - Ponto de Controle - Marcadores
+Claim - Solicitar
+Claimjumpers - Invasores
+Cloudrest Retreat - Cloudrest Retreat
+Cockpit - Cabine
+Combat Fighter - Caça de Combate
+Comm Array - Satélie
+Comm Uplink - Comm Uplink
+Commlink - Commlink
+Commodity - Mercadorias
+CompSec - ???
+Consumer Goods - Bens de Consumo
+Contract Manager - Gerenciador de Contratos
+Contractors - Contratados - Contratantes
 Cooler System - Sistema de Resfriamento
 Cooling System - Sistema de Refrigeração
-Contractors - Contratados - Contratantes
-Sprint - Corrida
-Upload - Carregamento
-Enabled - Habilitado
+Core = Torso
+Crew - Tripulação
+Crimestat - Status Criminal
+Criminal Record - Ficha Criminal
+cryopod - cryopod
+CRYPTOKEY - CRIPTOCHAVE
+Datapad - Datapad
+Deck - ÁREA
+Decline - Recusar
+Decoy - Decoy
+Deductible - Franquia
+Deliver - Entregar
 Disabled - Desabilitado
-Warning - Alerta
-Refueling - Reabastecimento
-Restocking - Reestocando / Remuniciando
-Commodity - Mercadorias
-Remaining Sites of Hostiles - Locais Restantes de Inimigos
-Target - Alvo
-Requeue - Reenfileiramento
-Rush Contract - Contrato Urgente
+Disabled - Desativado
+DISPATCH - DISTRIBUIÇÃO
+Docking - Docagem
+Enabled - Habilitado
+Environmental Hazard - Perigo Ambiental
+Flash Hider - Freio de Boca
+Fleet Manager - Gerenciador de Frota
+Gadget - Dispositivo
 Gimbal - Giroscópio
+Group - Canal
+group_invite_group_to_party - Convidar Grupo para Party
+group_invite_party_to_group - Convidar Party para Grupo
+Heavy - Pesado
+Helmet = Capacete
+ICU - UTI
+Invite - Convidar
+Journal - Jornal
 Jump Drive - Motor de Salto
 Jump Point - Ponto de Salto
-Slot - Slot
-Nose Mount - Suporte do Nariz
-Quantum Fuel - Combustível Quântico
-Agricultural Supply - Suprimento Agrícola
-Medical Supply - Suprimentos Médicos
-Consumer Goods - Bens de Consumo
-Plasma Fuel - Combustível de Plasma
-Quantum Fuel - Combustível Quântico
-Gadget - Dispositivo
-Decoy - Decoy
-Supply - Suprimento
-Journal - Jornal
-Checkpoint - Ponto de Controle - Marcadores
-Kiosk - Quiosque
-Boost - Impulso
-Strafe Down - Deslocar(?) (para baixo)
-Strafe Up - Deslocar(?) (para cima)
-Thruster - Propulsor
-Thrusters - Propulsores
-Quantum Drive - Motor Quântico
-Scan Mode - Modo Scan
-Disabled - Desativado
-Self Destruct - Autodestruição
-Undersuit - Sub Traje
 Jumpsuit - Macacão
+Kiosk - Quiosque
+Landing Pad - Plataforma de Pouso
+Landing Services - Serviço de Pouso
+Landing System - Sistema de Pouso
+Legs = Pernas
+Light - Leve
+Light Fighter - Caça Leve
+Light Freight - Frete Leve
+Loadout - Equipamento
+lobby - SAGUÃO
+Magazine Capacity - Capacidade do Carregador
+Magazine Size - Tamanho do Carregador
+Manufacturer - Fabricante
+Match - Partida - Jogos - Organização - Combinação
+Matchmaking - Organização de Partidas
+Medical Supply - Suprimentos Médicos
+Medium - Médio
+microTech Protection Services - Serviços de Proteção de microTech
+mobiGlas - mobiGlas
+NikNax - NikNax
+Nonmetals - Não metais
+Nose Mount - Suporte do Nariz
+orbital sentries - Sentinelas orbitais
+Ore - Minério
+Outcasts - Forasteiros
+Outlaw's - Foras da Lei
+Party - Grupo
+Passkey - Chave de Acesso
+Pathfinder - Desbravador
+PDC Monitors - Monitores PDC
+Plasma Fuel - Combustível de Plasma
+Power Plant - Gerador energia
+Power Source - Fonte de Energia
+Power Supply - Suprimento de Energia
+QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
+Quantum Drive - Motor Quântico
+Quantum Fuel - Combustível Quântico
+QUANTUM SNARE - ARMADILHA QUÂNTICA
+Quantum Travel - Viagem Quântica
 Quartz - Quartzo
+Refueling - Reabastecimento
+Relocate - Realocar
+Remaining Sites of Hostiles - Locais Restantes de Inimigos
+Requeue - Reenfileiramento
+Restocking - Reestocando / Remuniciando
+Retrieve - Retirar - Recuperar
+Rock - Rocha
+Rush Contract - Contrato Urgente
+Scan Mode - Modo Scan
 Scrap - Sucata
-Silicon - Silício
 Selenium - Selênio
+Self Destruct - Autodestruição
+Self-Destruct - Auto-Destruição
+shield = Escudo
+Shipment - Transporte
+Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
+Silicon - Silício
+Sion Compensator - Compensador Sion
+Site - Local
+Skimmer - Scummers?
+Skyline - Skyline
+Slot - Slot
 Sodium - Sódio
+Spawn - Nascimento
+Sprint - Corrida
+StarMap - Mapa Estelar
+station lobby - SAGUÃO DA ESTAÇÃO
 Steel - Aço
+Stileron - Estilete
 Stims - Estimulantes
+Store - Armazenar
+Strafe Down - Deslocar (para baixo)
+Strafe Up - Deslocar (para cima)
 Sulfer Moss - Musgo Sulfer
+Supply - Suprimento
+systems-grok - Gênio em sistemas
+Tacit Supressor - Supressor Tácito
 Taranite - Taranita
+Target - Alvo
 Tellurium - Telúrio
 Thorium - Tório
+Thruster - Propulsor
+Thrusters - Propulsores
+Tin - Estanho
 Tin Ore - Minério de Estanho
 Titanium - Titânio
 Tritium - Trítio
 Tungsten - Tungstênio
-Ore - Minério
-Alloy - Liga
-Nonmetals - Não metais
-Waste - Resíduos
+Underbarrel - Cano Inferior
+Undersuit - Sub Traje
+Uplink - Uplink
+Upload - Carregamento
 Uranium - Urânio
-Rock - Rocha
-Stileron - Estilete
-Tin - Estanho
-group_invite_group_to_party - Convidar Grupo para Party
-group_invite_party_to_group - Convidar Party para Grupo
-blue-on-blue - Fogo Amigo
-Bounties - Caçadas
-PDC Monitors - Monitores PDC
-CompSec - ???
-mobiGlas - mobiGlas
-StarMap - Mapa Estelar
-NikNax - NikNax
-Skyline - Skyline
 Vehicle Loadout Manager - Gerenciar Equipamento dos Veículos
-Loadout - Equipamento
-Fleet Manager - Gerenciador de Frota
-station lobby - SAGUÃO DA ESTAÇÃO
-lobby - SAGUÃO
-Deliver - Entregar
-Retrieve - Retirar - Recuperar
-Store - Armazenar
-Relocate - Realocar
-Claim - Solicitar
-Criminal Record - Ficha Criminal
-Advocacy - Advocacia
-Advocacy Description - Descrição da Advocacia
-Deductible - Franquia
-Crew - Tripulação
-Deck - ÁREA
-Party - Grupo
-Group - Canal
-Airlock - Câmara a Vácuo
-Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
-Shipment - Transporte
-CRYPTOKEY - CRIPTOCHAVE
-systems-grok - Gênio em sistemas
-Passkey - Chave de Acesso
-Cockpit - Cabine
-orbital sentries - Sentinelas orbitais
-Decline - Recusar
-Invite - Convidar
-Outcasts - Forasteiros
-Outlaw's - Foras da Lei
-QUANTUM SNARE - ARMADILHA QUÂNTICA
-QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
-ICU - UTI
-Datapad - Datapad
-microTech Protection Services - Serviços de Proteção de microTech
-ancillary casualties - vítimas secundárias
-ancillary causalities - vítimas secundárias
-Skimmer - Scummers?
-Spawn - Nascimento
-Environmental Hazard - Perigo Ambiental
-Self-Destruct - Auto-Destruição
-Match - Partida - Jogos - Organização - Combinação
-Matchmaking - Organização de Partidas
-Magazine Size - Tamanho do Carregador
-Magazine Capacity - Capacidade do Carregador
-cryopod - cryopod
-Cloudrest Retreat - Cloudrest Retreat
-DISPATCH - DISTRIBUIÇÃO
-Crimestat - Status Criminal
-Claimjumpers - Invasores
-Helmet = Capacete
-Core = Torso
-Arms = Braços
-Legs = Pernas
-shield = Escudo
+Veil Flash Hider - Freio de Boca Veil
+Warning - Alerta
+Waste - Resíduos
 
 --- ---- ---
 
 --- Frases ---
-Group Warrant Issued - Mandado de Grupo Emitido
-Protect Site Trial Contract - Contrato de Teste: Proteja o local
-Liaison Officer Vanzant - Oficial de Contato Vanzant
 big score - grande golpe
-score - um golpe
+Group Warrant Issued - Mandado de Grupo Emitido
+Liaison Officer Vanzant - Oficial de Contato Vanzant
 over-achieving - super-ultrapassados
+Protect Site Trial Contract - Contrato de Teste: Proteja o local
+score - um golpe
 --- ---- ---
 
 --- Empresas ---
 BlacJac Security - BlacJac Security
-Hurston Security - Hurston Security
-Crusader Security - Crusader Security
-microTech Protection Services - microTech Protection Services
 Covalex Shipping - Covalex Shipping
+Crusader Security - Crusader Security
 ECKHART SECURITY - ECKHART SECURITY
+Hurston Security - Hurston Security
+microTech Protection Services - microTech Protection Services
 --- ---- ---
 
 --- Naves ---
 Bomber - Bombardeiro
 Corvette - Corvette
 Destroyer - Destruidor
-Expedition - Expedição
-Gunship - Artilharia
-Frigate - Fragata
-Salvage - Sucateiro
 Dropship - Desembarque de Tropa
+Expedition - Expedição
+Frigate - Fragata
+Gunship - Artilharia
 Mining - Mineração
+Salvage - Sucateiro
 --- ---- ---
 
 --- Planetas/Cidades/Locais ---
-Lorville - Lorville
 ArcCorp - ArcCorp
-Área18 - Área18
+Baijini Point - Baijini Point
+Lorville - Lorville
 Lorville - Lorville
 Orison - Orison
-Baijini Point - Baijini Point
+Área18 - Área18
 --- ---- ---
 
