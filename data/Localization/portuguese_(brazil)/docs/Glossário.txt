@@ -63,8 +63,9 @@ Supply - Suprimento
 Journal - Jornal
 Checkpoint - Ponto de Controle - Marcadores
 Kiosk - Quiosque
-Strafe Down - Movimentar(?) (para baixo)
-Strafe Up - Movimentar(?) (para cima)
+Boost - Impulso
+Strafe Down - Deslocar(?) (para baixo)
+Strafe Up - Deslocar(?) (para cima)
 Thruster - Propulsor
 Thrusters - Propulsores
 Quantum Drive - Motor Quântico
