@@ -1,37 +1,37 @@
 --- Glossário para uso na Tradução do Star Citizen ---
 
 --- Termos ---
-Site - Local - a área - Sítio - Complexo
+Site - Local
 Heavy - Pesado
 Medium - Médio 
 Light - Leve
 Light Fighter - Caça Leve
 Combat Fighter - Caça de Combate
 Light Freight - Frete Leve
-Pathfinder - Desbravador - Descobridor
-Landing Services - Serviço de Aterrissagem? - Serviço de Pouso
-Landing Pad - Plataforma de Aterrissagem - Plataforma de Pouso
-Landing System - Sistema de Aterrissagem - Sistema de Pouso
-Comm Array - Matriz de Comunicação - Satélite de Comunicação
+Pathfinder - Desbravador
+Landing Services - Serviço de Pouso
+Landing Pad - Plataforma de Pouso
+Landing System - Sistema de Pouso
+Comm Array - Matriz Comm
 Commlink - Commlink
-Comm Uplink - Uplink de Comunicação
 Uplink - Uplink
+Comm Uplink - Comm Uplink
 Manufacturer - Fabricante
-Attachment Point - Ponto de Fixação? - Ponto de Conexão? - Ponto de Montagem?
+Attachment Point - Ponto de Fixação
 Attachment - Anexo - Fixação - Acessório
-Contract Manager - Gestor de Contratos - Gerenciador de Contratos
+Contract Manager - Gerenciador de Contratos
 Flash Hider - Freio de Boca
-Veil Flash Hider - 
+Veil Flash Hider - Freio de Boca Veil
 Tacit Supressor - Supressor Tácito
-Sion Compensator - 
+Sion Compensator - Compensador Sion
 Underbarrel - Cano Inferior
-Barrel - Cano - Barril
-Docking - Acoplar - Acoplagem - Acoplamento - Dockagem
+Barrel - Cano
+Docking - Docagem
 Quantum Travel - Viagem Quântica
-Power Supply - Fonte de Energia - Fornecimento de Energia
-Power Plant - Central Eléctrica
+Power Supply - Suprimento de Energia
+Power Plant - Gerador energia
 Power Source - Fonte de Energia
-Cooler System - Sistema de Resfriamento - Sistema de Refrigeração - Sistema de Arrefecimento
+Cooler System - Sistema de Resfriamento
 Cooling System - Sistema de Refrigeração
 Contractors - Contratados - Contratantes
 Sprint - Corrida
@@ -40,17 +40,17 @@ Enabled - Habilitado
 Disabled - Desabilitado
 Warning - Alerta
 Refueling - Reabastecimento
-Restocking - Reestoque
+Restocking - Reestocando / Remuniciando
 Commodity - Mercadorias
-Remaining Sites of Hostiles - Locais de Inimigos Restantes
+Remaining Sites of Hostiles - Locais Restantes de Inimigos
 Target - Alvo
 Requeue - Reenfileiramento
-Rush Contract - Contrato Urgente - Contrato de Urgência
+Rush Contract - Contrato Urgente
 Gimbal - Giroscópio
-Jump Drive - Unidade de Salto - Motor de Salto
+Jump Drive - Motor de Salto
 Jump Point - Ponto de Salto
-Slot - Slot - Espaço?
-Nose Mount - Fixação de Nariz
+Slot - Slot
+Nose Mount - Suporte do Nariz
 Quantum Fuel - Combustível Quântico
 Agricultural Supply - Suprimento Agrícola
 Medical Supply - Suprimentos Médicos
@@ -58,8 +58,8 @@ Consumer Goods - Bens de Consumo
 Plasma Fuel - Combustível de Plasma
 Quantum Fuel - Combustível Quântico
 Gadget - Dispositivo
-Decoy - Decoy - Isca
-Suply - Suprimento
+Decoy - Decoy
+Supply - Suprimento
 Journal - Jornal
 Checkpoint - Ponto de Controle - Marcadores
 Kiosk - Quiosque
@@ -67,9 +67,9 @@ Strafe Down - Movimentar(?) (para baixo)
 Strafe Up - Movimentar(?) (para cima)
 Thruster - Propulsor
 Thrusters - Propulsores
-Quantum Drive - Motor Quântico - Impulso Quântico
-Scan Mode - Modo de Escaneamento - Modo de Varredura
-Disabled - Desativado - Desabilitado
+Quantum Drive - Motor Quântico
+Scan Mode - Modo Scan
+Disabled - Desativado
 Self Destruct - Autodestruição
 Undersuit - Sub Traje
 Jumpsuit - Macacão
@@ -96,7 +96,6 @@ Uranium - Urânio
 Rock - Rocha
 Stileron - Estilete
 Tin - Estanho
-Party - equipe?
 group_invite_group_to_party - Convidar Grupo para Party
 group_invite_party_to_group - Convidar Party para Grupo
 blue-on-blue - Fogo Amigo
@@ -107,68 +106,67 @@ mobiGlas - mobiGlas
 StarMap - Mapa Estelar
 NikNax - NikNax
 Skyline - Skyline
-Vehicle Loadout Manager - Gerenciador de Carregamento de Veículos - Gestor de Carregamento de Veículos
-Loadout - Carregamento
-Fleet Manager - Gestor de Frota - Gerenciador de Frota
-station lobby - saguão da estação
-lobby - saguão
+Vehicle Loadout Manager - Gerenciar Equipamento dos Veículos
+Loadout - Equipamento
+Fleet Manager - Gerenciador de Frota
+station lobby - SAGUÃO DA ESTAÇÃO
+lobby - SAGUÃO
 Deliver - Entregar
 Retrieve - Retirar - Recuperar
-Store - Armazenar - Guardar
+Store - Armazenar
 Relocate - Realocar
-Claim - Reivindicar - Solicitar
+Claim - Solicitar
 Criminal Record - Ficha Criminal
 Advocacy - Advocacia
 Advocacy Description - Descrição da Advocacia
 Deductible - Franquia
 Crew - Tripulação
-Deck - Plataforma
+Deck - ÁREA
 Party - Grupo
 Group - Canal
-lobby - 
-Airlock=câmara de vácuo
+Airlock - Câmara a Vácuo
 Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
 Shipment - Transporte
 CRYPTOKEY - CRIPTOCHAVE
 systems-grok - Gênio em sistemas
 Passkey - Chave de Acesso
 Cockpit - Cabine
-orbital sentries - sentinelas orbitais
+orbital sentries - Sentinelas orbitais
 Decline - Recusar
 Invite - Convidar
-Outcasts - Párias - Foragidos - Forasteiros
-Outlaw's - Foras da Lei - Criminosos
+Outcasts - Forasteiros
+Outlaw's - Foras da Lei
 QUANTUM SNARE - ARMADILHA QUÂNTICA
-QUANTUM DAMPENER - 
+QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
 ICU - UTI
 Datapad - Datapad
 microTech Protection Services - Serviços de Proteção de microTech
 ancillary casualties - vítimas secundárias
 ancillary causalities - vítimas secundárias
-Skimmer - ? - Scummers?
+Skimmer - Scummers?
 Spawn - Nascimento
 Environmental Hazard - Perigo Ambiental
 Self-Destruct - Auto-Destruição
 Match - Partida - Jogos - Organização - Combinação
 Matchmaking - Organização de Partidas
 Magazine Size - Tamanho do Carregador
-Magazine Capacity - Capacidade Carregador
-cryopod - criópode
-Cloudrest Retreat - Retiro nas Nuvens
+Magazine Capacity - Capacidade do Carregador
+cryopod - cryopod
+Cloudrest Retreat - Cloudrest Retreat
 DISPATCH - DISTRIBUIÇÃO
-Crimestat - Estatística de Crime
-Claimjumpers - ?
+Crimestat - Status Criminal
+Claimjumpers - Invasores
 Helmet = Capacete
 Core = Torso
 Arms = Braços
 Legs = Pernas
-shield = escudo
+shield = Escudo
 
 --- ---- ---
 
 --- Frases ---
 Group Warrant Issued - Mandado de Grupo Emitido
-Protect Site Trial Contract - Contrato de Teste Proteja o Site?
+Protect Site Trial Contract - Contrato de Teste: Proteja o local
 Liaison Officer Vanzant - Oficial de Contato Vanzant
 big score - grande golpe
 score - um golpe
@@ -186,10 +184,10 @@ ECKHART SECURITY - ECKHART SECURITY
 
 --- Naves ---
 Bomber - Bombardeiro
-Corvette - Corveta
-Destroyer - Destróier
+Corvette - Corvette
+Destroyer - Destruidor
 Expedition - Expedição
-Gunship - Caça? Nave de Combate? Militar? Nave de Guerra?
+Gunship - Artilharia
 Frigate - Fragata
 Salvage - Sucateiro
 Dropship - Desembarque de Tropa
