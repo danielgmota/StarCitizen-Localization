@@ -1,97 +1,160 @@
 --- Glossário para uso na Tradução do Star Citizen ---
 
 --- Termos ---
-Site - Local - a área - Sítio - Complexo
+Advocacy - Advocacia
+Advocacy Description - Descrição da Advocacia
+Agricultural Supply - Suprimento Agrícola
+Airlock - Câmara a Vácuo
+Alloy - Liga
+Ancillary casualties - Vítimas secundárias
+Arms = Braços
+Attachment - Anexo - Fixação - Acessório
+Attachment Point - Ponto de Fixação
+Barrel - Cano
+blue-on-blue - Fogo Amigo
+Boost - Impulso
+Bounties - Caçadas
+Checkpoint - Ponto de Controle - Marcadores
+Claim - Solicitar
+Claimjumpers - Invasores
+Cloudrest Retreat - Cloudrest Retreat
+Cockpit - Cabine
+Combat Fighter - Caça de Combate
+Comm Array - Satélie
+Comm Uplink - Comm Uplink
+Commlink - Commlink
+Commodity - Mercadorias
+CompSec - ???
+Consumer Goods - Bens de Consumo
+Contract Manager - Gerenciador de Contratos
+Contractors - Contratados - Contratantes
+Cooler System - Sistema de Resfriamento
+Cooling System - Sistema de Refrigeração
+Core = Torso
+Crew - Tripulação
+Crimestat - Status Criminal
+Criminal Record - Ficha Criminal
+cryopod - cryopod
+CRYPTOKEY - CRIPTOCHAVE
+Datapad - Datapad
+Deck - ÁREA
+Decline - Recusar
+Decoy - Decoy
+Deductible - Franquia
+Deliver - Entregar
+Disabled - Desabilitado
+Disabled - Desativado
+DISPATCH - DISTRIBUIÇÃO
+Docking - Docagem
+Enabled - Habilitado
+Environmental Hazard - Perigo Ambiental
+Flash Hider - Freio de Boca
+Fleet Manager - Gerenciador de Frota
+Gadget - Dispositivo
+Gimbal - Giroscópio
+Group - Canal
+group_invite_group_to_party - Convidar Grupo para Party
+group_invite_party_to_group - Convidar Party para Grupo
 Heavy - Pesado
-Medium - Médio 
+Helmet = Capacete
+ICU - UTI
+Invite - Convidar
+Journal - Jornal
+Jump Drive - Motor de Salto
+Jump Point - Ponto de Salto
+Jumpsuit - Macacão
+Kiosk - Quiosque
+Landing Pad - Plataforma de Pouso
+Landing Services - Serviço de Pouso
+Landing System - Sistema de Pouso
+Legs = Pernas
 Light - Leve
 Light Fighter - Caça Leve
-Combat Fighter - Caça de Combate
 Light Freight - Frete Leve
-Pathfinder - Desbravador - Descobridor
-Landing Services - Serviço de Aterrissagem? - Serviço de Pouso
-Landing Pad - Plataforma de Aterrissagem - Plataforma de Pouso
-Landing System - Sistema de Aterrissagem - Sistema de Pouso
-Comm Array - Matriz de Comunicação - Satélite de Comunicação
-Commlink - Commlink
-Comm Uplink - Uplink de Comunicação
-Uplink - Uplink
+Loadout - Equipamento
+lobby - SAGUÃO
+Magazine Capacity - Capacidade do Carregador
+Magazine Size - Tamanho do Carregador
 Manufacturer - Fabricante
-Attachment Point - Ponto de Fixação? - Ponto de Conexão? - Ponto de Montagem?
-Attachment - Anexo - Fixação - Acessório
-Contract Manager - Gestor de Contratos - Gerenciador de Contratos
-Flash Hider - Freio de Boca
-Veil Flash Hider - 
-Tacit Supressor - Supressor Tácito
-Sion Compensator - 
-Underbarrel - Cano Inferior
-Barrel - Cano - Barril
-Docking - Acoplar - Acoplagem - Acoplamento - Dockagem
-Quantum Travel - Viagem Quântica
-Power Supply - Fonte de Energia - Fornecimento de Energia
-Power Plant - Central Eléctrica
-Power Source - Fonte de Energia
-Cooler System - Sistema de Resfriamento - Sistema de Refrigeração - Sistema de Arrefecimento
-Cooling System - Sistema de Refrigeração
-Contractors - Contratados - Contratantes
-Sprint - Corrida
-Upload - Carregamento
-Enabled - Habilitado
-Disabled - Desabilitado
-Warning - Alerta
-Refueling - Reabastecimento
-Restocking - Reestoque
-Commodity - Mercadorias
-Remaining Sites of Hostiles - Locais de Inimigos Restantes
-Target - Alvo
-Requeue - Reenfileiramento
-Rush Contract - Contrato Urgente - Contrato de Urgência
-Gimbal - Giroscópio
-Jump Drive - Unidade de Salto - Motor de Salto
-Jump Point - Ponto de Salto
-Slot - Slot - Espaço?
-Nose Mount - Fixação de Nariz
-Quantum Fuel - Combustível Quântico
-Agricultural Supply - Suprimento Agrícola
+Match - Partida - Jogos - Organização - Combinação
+Matchmaking - Organização de Partidas
 Medical Supply - Suprimentos Médicos
-Consumer Goods - Bens de Consumo
+Medium - Médio
+microTech Protection Services - Serviços de Proteção de microTech
+mobiGlas - mobiGlas
+NikNax - NikNax
+Nonmetals - Não metais
+Nose Mount - Suporte do Nariz
+orbital sentries - Sentinelas orbitais
+Ore - Minério
+Outcasts - Forasteiros
+Outlaw's - Foras da Lei
+Party - Grupo
+Passkey - Chave de Acesso
+Pathfinder - Desbravador
+PDC Monitors - Monitores PDC
 Plasma Fuel - Combustível de Plasma
+Power Plant - Gerador energia
+Power Source - Fonte de Energia
+Power Supply - Suprimento de Energia
+QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
+Quantum Drive - Motor Quântico
 Quantum Fuel - Combustível Quântico
-Gadget - Dispositivo
-Decoy - Decoy - Isca
-Suply - Suprimento
-Journal - Jornal
-Checkpoint - Ponto de Controle - Marcadores
-Kiosk - Quiosque
-Strafe Down - Movimentar(?) (para baixo)
-Strafe Up - Movimentar(?) (para cima)
-Thruster - Propulsor
-Thrusters - Propulsores
-Quantum Drive - Motor Quântico - Impulso Quântico
-Scan Mode - Modo de Escaneamento - Modo de Varredura
-Disabled - Desativado - Desabilitado
-Self Destruct - Autodestruição
-Undersuit - Sub Traje
-Jumpsuit - Macacão
+QUANTUM SNARE - ARMADILHA QUÂNTICA
+Quantum Travel - Viagem Quântica
 Quartz - Quartzo
+Refueling - Reabastecimento
+Relocate - Realocar
+Remaining Sites of Hostiles - Locais Restantes de Inimigos
+Requeue - Reenfileiramento
+Restocking - Reestocando / Remuniciando
+Retrieve - Retirar - Recuperar
+Rock - Rocha
+Rush Contract - Contrato Urgente
+Scan Mode - Modo Scan
 Scrap - Sucata
-Silicon - Silício
 Selenium - Selênio
+Self Destruct - Autodestruição
+Self-Destruct - Auto-Destruição
+shield = Escudo
+Shipment - Transporte
+Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
+Silicon - Silício
+Sion Compensator - Compensador Sion
+Site - Local
+Skimmer - Scummers?
+Skyline - Skyline
+Slot - Slot
 Sodium - Sódio
+Spawn - Nascimento
+Sprint - Corrida
+StarMap - Mapa Estelar
+station lobby - SAGUÃO DA ESTAÇÃO
 Steel - Aço
+Stileron - Estilete
 Stims - Estimulantes
+Store - Armazenar
+Strafe Down - Deslocar (para baixo)
+Strafe Up - Deslocar (para cima)
 Sulfer Moss - Musgo Sulfer
+Supply - Suprimento
+systems-grok - Gênio em sistemas
+Tacit Supressor - Supressor Tácito
 Taranite - Taranita
+Target - Alvo
 Tellurium - Telúrio
 Thorium - Tório
+Thruster - Propulsor
+Thrusters - Propulsores
+Tin - Estanho
 Tin Ore - Minério de Estanho
 Titanium - Titânio
 Tritium - Trítio
 Tungsten - Tungstênio
-Ore - Minério
-Alloy - Liga
-Nonmetals - Não metais
-Waste - Resíduos
+Underbarrel - Cano Inferior
+Undersuit - Sub Traje
+Uplink - Uplink
+Upload - Carregamento
 Uranium - Urânio
 Rock - Rocha
 Stileron - Estilete
@@ -169,24 +232,26 @@ Courier Assignment - Serviço de Entrega
 Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
 strafe - deslocar-se
 OxyPen - OxyPen
+Vehicle Loadout Manager - Gerenciar Equipamento dos Veículos
+Veil Flash Hider - Freio de Boca Veil
+Warning - Alerta
+Waste - Resíduos
 
 --- ---- ---
 
 --- Frases ---
-Group Warrant Issued - Mandado de Grupo Emitido
-Protect Site Trial Contract - Contrato de Teste Proteja o Site?
-Liaison Officer Vanzant - Oficial de Contato Vanzant
 big score - grande golpe
-score - um golpe
+Group Warrant Issued - Mandado de Grupo Emitido
+Liaison Officer Vanzant - Oficial de Contato Vanzant
 over-achieving - super-ultrapassados
+Protect Site Trial Contract - Contrato de Teste: Proteja o local
+score - um golpe
 --- ---- ---
 
 --- Empresas ---
 BlacJac Security - BlacJac Security
-Hurston Security - Hurston Security
-Crusader Security - Crusader Security
-microTech Protection Services - microTech Protection Services
 Covalex Shipping - Covalex Shipping
+Crusader Security - Crusader Security
 ECKHART SECURITY - ECKHART SECURITY
 FTL Courier Services - FTL Courier Services
 RED WIND LINEHAUL - RED WIND LINEHAUL
@@ -194,22 +259,22 @@ RED WIND LINEHAUL - RED WIND LINEHAUL
 
 --- Naves ---
 Bomber - Bombardeiro
-Corvette - Corveta
-Destroyer - Destróier
-Expedition - Expedição
-Gunship - Caça? Nave de Combate? Militar? Nave de Guerra?
-Frigate - Fragata
-Salvage - Sucateiro
+Corvette - Corvette
+Destroyer - Destruidor
 Dropship - Desembarque de Tropa
+Expedition - Expedição
+Frigate - Fragata
+Gunship - Artilharia
 Mining - Mineração
+Salvage - Sucateiro
 --- ---- ---
 
 --- Planetas/Cidades/Locais ---
-Lorville - Lorville
 ArcCorp - ArcCorp
-Área18 - Área18
+Baijini Point - Baijini Point
+Lorville - Lorville
 Lorville - Lorville
 Orison - Orison
-Baijini Point - Baijini Point
+Área18 - Área18
 --- ---- ---
 
