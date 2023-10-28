@@ -162,6 +162,13 @@ Helmet = Capacete
 Core = Torso
 Arms = Braços
 Legs = Pernas
+Bounty Hunters Guild - Guilda dos Caçadores de Recompensas
+Tracker Beginner's Permit - Permissão de Rastreador Iniciante
+Couriers - Entregadores
+Courier Assignment - Serviço de Entrega
+Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
+strafe - deslocar-se
+OxyPen - OxyPen
 
 --- ---- ---
 
@@ -181,6 +188,8 @@ Crusader Security - Crusader Security
 microTech Protection Services - microTech Protection Services
 Covalex Shipping - Covalex Shipping
 ECKHART SECURITY - ECKHART SECURITY
+FTL Courier Services - FTL Courier Services
+RED WIND LINEHAUL - RED WIND LINEHAUL
 --- ---- ---
 
 --- Naves ---
