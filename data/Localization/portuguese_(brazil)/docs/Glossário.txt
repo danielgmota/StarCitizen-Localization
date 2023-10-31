@@ -1,26 +1,29 @@
 --- Glossário para uso na Tradução do Star Citizen ---
 
---- Termos ---
+=================================================== Termos ===================================================
 Advocacy - Advocacia
 Advocacy Description - Descrição da Advocacia
 Agricultural Supply - Suprimento Agrícola
 Airlock - Câmara a Vácuo
+Airlock=câmara de vácuo
 Alloy - Liga
 Ancillary casualties - Vítimas secundárias
-Arms = Braços
 Attachment - Anexo - Fixação - Acessório
 Attachment Point - Ponto de Fixação
 Barrel - Cano
 blue-on-blue - Fogo Amigo
 Boost - Impulso
 Bounties - Caçadas
+Bounty Hunters Guild - Guilda dos Caçadores de Recompensas
 Checkpoint - Ponto de Controle - Marcadores
-Claim - Solicitar
+Claim - Reivindicar - Solicitar
+Claimjumpers - ?
 Claimjumpers - Invasores
 Cloudrest Retreat - Cloudrest Retreat
+Cloudrest Retreat - Retiro nas Nuvens
 Cockpit - Cabine
 Combat Fighter - Caça de Combate
-Comm Array - Satélie
+Comm Array - Satélite
 Comm Uplink - Comm Uplink
 Commlink - Commlink
 Commodity - Mercadorias
@@ -30,23 +33,24 @@ Contract Manager - Gerenciador de Contratos
 Contractors - Contratados - Contratantes
 Cooler System - Sistema de Resfriamento
 Cooling System - Sistema de Refrigeração
-Core = Torso
+Courier Assignment - Serviço de Entrega
+Couriers - Entregadores
 Crew - Tripulação
 Crimestat - Status Criminal
 Criminal Record - Ficha Criminal
 cryopod - cryopod
 CRYPTOKEY - CRIPTOCHAVE
 Datapad - Datapad
+Deck - Plataforma
 Deck - ÁREA
 Decline - Recusar
 Decoy - Decoy
 Deductible - Franquia
 Deliver - Entregar
-Disabled - Desabilitado
-Disabled - Desativado
+Disabled - Desabilitado / Desativado
 DISPATCH - DISTRIBUIÇÃO
 Docking - Docagem
-Enabled - Habilitado
+Enabled - Habilitado / Ativado
 Environmental Hazard - Perigo Ambiental
 Flash Hider - Freio de Boca
 Fleet Manager - Gerenciador de Frota
@@ -56,23 +60,22 @@ Group - Canal
 group_invite_group_to_party - Convidar Grupo para Party
 group_invite_party_to_group - Convidar Party para Grupo
 Heavy - Pesado
-Helmet = Capacete
+ICU - UTI
 ICU - UTI
 Invite - Convidar
 Journal - Jornal
 Jump Drive - Motor de Salto
 Jump Point - Ponto de Salto
-Jumpsuit - Macacão
 Kiosk - Quiosque
 Landing Pad - Plataforma de Pouso
 Landing Services - Serviço de Pouso
 Landing System - Sistema de Pouso
-Legs = Pernas
 Light - Leve
 Light Fighter - Caça Leve
 Light Freight - Frete Leve
-Loadout - Equipamento
+lobby -
 lobby - SAGUÃO
+lobby - saguão
 Magazine Capacity - Capacidade do Carregador
 Magazine Size - Tamanho do Carregador
 Manufacturer - Fabricante
@@ -80,15 +83,12 @@ Match - Partida - Jogos - Organização - Combinação
 Matchmaking - Organização de Partidas
 Medical Supply - Suprimentos Médicos
 Medium - Médio
-microTech Protection Services - Serviços de Proteção de microTech
-mobiGlas - mobiGlas
-NikNax - NikNax
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
-orbital sentries - Sentinelas orbitais
+orbital sentries - sentinelas orbitais
 Ore - Minério
-Outcasts - Forasteiros
-Outlaw's - Foras da Lei
+Outcasts - Párias - Foragidos - Forasteiros
+Outlaw's - Foras da Lei - Criminosos
 Party - Grupo
 Passkey - Chave de Acesso
 Pathfinder - Desbravador
@@ -110,30 +110,30 @@ Requeue - Reenfileiramento
 Restocking - Reestocando / Remuniciando
 Retrieve - Retirar - Recuperar
 Rock - Rocha
+Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
 Rush Contract - Contrato Urgente
 Scan Mode - Modo Scan
 Scrap - Sucata
 Selenium - Selênio
-Self Destruct - Autodestruição
 Self-Destruct - Auto-Destruição
 shield = Escudo
 Shipment - Transporte
 Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
 Silicon - Silício
-Sion Compensator - Compensador Sion
 Site - Local
-Skimmer - Scummers?
+Skimmer - ? - Scummers?
 Skyline - Skyline
-Slot - Slot
+Skyline - Skyline
 Sodium - Sódio
 Spawn - Nascimento
 Sprint - Corrida
 StarMap - Mapa Estelar
-station lobby - SAGUÃO DA ESTAÇÃO
+station lobby - saguão da estação
 Steel - Aço
 Stileron - Estilete
 Stims - Estimulantes
 Store - Armazenar
+strafe - deslocar-se
 Strafe Down - Deslocar (para baixo)
 Strafe Up - Deslocar (para cima)
 Sulfer Moss - Musgo Sulfer
@@ -149,135 +149,67 @@ Thrusters - Propulsores
 Tin - Estanho
 Tin Ore - Minério de Estanho
 Titanium - Titânio
+Tracker Beginner's Permit - Permissão de Rastreador Iniciante
 Tritium - Trítio
 Tungsten - Tungstênio
-Underbarrel - Cano Inferior
-Undersuit - Sub Traje
 Uplink - Uplink
 Upload - Carregamento
 Uranium - Urânio
-Rock - Rocha
-Stileron - Estilete
-Tin - Estanho
-Party - equipe?
-group_invite_group_to_party - Convidar Grupo para Party
-group_invite_party_to_group - Convidar Party para Grupo
-blue-on-blue - Fogo Amigo
-Bounties - Caçadas
-PDC Monitors - Monitores PDC
-CompSec - ???
-mobiGlas - mobiGlas
-StarMap - Mapa Estelar
-NikNax - NikNax
-Skyline - Skyline
-Vehicle Loadout Manager - Gerenciador de Carregamento de Veículos - Gestor de Carregamento de Veículos
-Loadout - Carregamento
-Fleet Manager - Gestor de Frota - Gerenciador de Frota
-station lobby - saguão da estação
-lobby - saguão
-Deliver - Entregar
-Retrieve - Retirar - Recuperar
-Store - Armazenar - Guardar
-Relocate - Realocar
-Claim - Reivindicar - Solicitar
-Criminal Record - Ficha Criminal
-Advocacy - Advocacia
-Advocacy Description - Descrição da Advocacia
-Deductible - Franquia
-Crew - Tripulação
-Deck - Plataforma
-Party - Grupo
-Group - Canal
-lobby - 
-Airlock=câmara de vácuo
-Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
-Shipment - Transporte
-CRYPTOKEY - CRIPTOCHAVE
-systems-grok - Gênio em sistemas
-Passkey - Chave de Acesso
-Cockpit - Cabine
-orbital sentries - sentinelas orbitais
-Decline - Recusar
-Invite - Convidar
-Outcasts - Párias - Foragidos - Forasteiros
-Outlaw's - Foras da Lei - Criminosos
-QUANTUM SNARE - ARMADILHA QUÂNTICA
-QUANTUM DAMPENER - 
-ICU - UTI
-Datapad - Datapad
-microTech Protection Services - Serviços de Proteção de microTech
-ancillary casualties - vítimas secundárias
-ancillary causalities - vítimas secundárias
-Skimmer - ? - Scummers?
-Spawn - Nascimento
-Environmental Hazard - Perigo Ambiental
-Self-Destruct - Auto-Destruição
-Match - Partida - Jogos - Organização - Combinação
-Matchmaking - Organização de Partidas
-Magazine Size - Tamanho do Carregador
-Magazine Capacity - Capacidade Carregador
-cryopod - criópode
-Cloudrest Retreat - Retiro nas Nuvens
-DISPATCH - DISTRIBUIÇÃO
-Crimestat - Estatística de Crime
-Claimjumpers - ?
-Helmet = Capacete
-Core = Torso
-Arms = Braços
-Legs = Pernas
-Bounty Hunters Guild - Guilda dos Caçadores de Recompensas
-Tracker Beginner's Permit - Permissão de Rastreador Iniciante
-Couriers - Entregadores
-Courier Assignment - Serviço de Entrega
-Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
-strafe - deslocar-se
-OxyPen - OxyPen
-Vehicle Loadout Manager - Gerenciar Equipamento dos Veículos
-Veil Flash Hider - Freio de Boca Veil
+Vehicle Loadout Manager - Gerenciador de Equipamento dos Veículos
 Warning - Alerta
 Waste - Resíduos
 SUICIDE SCRAMBLE - LUTA SUICIDA - Confusão Suicida ?
 hatjob - chapeleiro
 Klescher Rehabilitation Facilities - Instalações de Reabilitação Klescher
 
---- ---- ---
+----------------------------------------------- Armadura -----------------------------------------------
+Arms = Braços
+Core = Torso
+Helmet = Capacete
+Jumpsuit - Macacão
+Legs = Pernas
+Loadout - Equipamento
+Slot - Slot
+Underbarrel - Slot Inferior
+Undersuit - Sub Traje
 
---- Frases ---
+
+----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
 Group Warrant Issued - Mandado de Grupo Emitido
 Liaison Officer Vanzant - Oficial de Contato Vanzant
 over-achieving - super-ultrapassados
 Protect Site Trial Contract - Contrato de Teste: Proteja o local
 score - um golpe
---- ---- ---
 
---- Empresas ---
+
+----------------------------------------------- Empresas -----------------------------------------------
 BlacJac Security - BlacJac Security
 Covalex Shipping - Covalex Shipping
 Crusader Security - Crusader Security
 ECKHART SECURITY - ECKHART SECURITY
 FTL Courier Services - FTL Courier Services
 RED WIND LINEHAUL - RED WIND LINEHAUL
---- ---- ---
 
---- Naves ---
+
+----------------------------------------------- Naves -----------------------------------------------
 Bomber - Bombardeiro
-Corvette - Corvette
-Destroyer - Destruidor
-Dropship - Desembarque de Tropa
+Corvette - Corveta
+Destroyer - Destróier
+Dropship - Transporte de Tropas
 Expedition - Expedição
 Frigate - Fragata
-Gunship - Artilharia
+Gunship - Fogo Pesado
 Mining - Mineração
 Salvage - Sucateiro
---- ---- ---
 
---- Planetas/Cidades/Locais ---
+
+----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
 ArcCorp - ArcCorp
+Area18 - Área18
 Baijini Point - Baijini Point
 Lorville - Lorville
 Lorville - Lorville
 Orison - Orison
-Área18 - Área18
---- ---- ---
+
 
