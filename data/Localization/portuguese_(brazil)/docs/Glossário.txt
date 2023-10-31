@@ -236,6 +236,9 @@ Vehicle Loadout Manager - Gerenciar Equipamento dos Veículos
 Veil Flash Hider - Freio de Boca Veil
 Warning - Alerta
 Waste - Resíduos
+SUICIDE SCRAMBLE - LUTA SUICIDA - Confusão Suicida ?
+hatjob - chapeleiro
+Klescher Rehabilitation Facilities - Instalações de Reabilitação Klescher
 
 --- ---- ---
 
