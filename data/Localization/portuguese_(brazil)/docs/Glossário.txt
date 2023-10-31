@@ -8,7 +8,6 @@ Airlock - Câmara a Vácuo
 Airlock=câmara de vácuo
 Alloy - Liga
 Ancillary casualties - Vítimas secundárias
-Arms = Braços
 Attachment - Anexo - Fixação - Acessório
 Attachment Point - Ponto de Fixação
 Barrel - Cano
@@ -34,10 +33,8 @@ Contract Manager - Gerenciador de Contratos
 Contractors - Contratados - Contratantes
 Cooler System - Sistema de Resfriamento
 Cooling System - Sistema de Refrigeração
-Core = Torso
 Courier Assignment - Serviço de Entrega
 Couriers - Entregadores
-Crew - Tripulação
 Crew - Tripulação
 Crimestat - Status Criminal
 Criminal Record - Ficha Criminal
@@ -63,23 +60,19 @@ Group - Canal
 group_invite_group_to_party - Convidar Grupo para Party
 group_invite_party_to_group - Convidar Party para Grupo
 Heavy - Pesado
-Helmet = Capacete
 ICU - UTI
 ICU - UTI
 Invite - Convidar
 Journal - Jornal
 Jump Drive - Motor de Salto
 Jump Point - Ponto de Salto
-Jumpsuit - Macacão
 Kiosk - Quiosque
 Landing Pad - Plataforma de Pouso
 Landing Services - Serviço de Pouso
 Landing System - Sistema de Pouso
-Legs = Pernas
 Light - Leve
 Light Fighter - Caça Leve
 Light Freight - Frete Leve
-Loadout - Equipamento
 lobby -
 lobby - SAGUÃO
 lobby - saguão
@@ -90,18 +83,12 @@ Match - Partida - Jogos - Organização - Combinação
 Matchmaking - Organização de Partidas
 Medical Supply - Suprimentos Médicos
 Medium - Médio
-microTech Protection Services - Serviços de Proteção de microTech
-mobiGlas - mobiGlas
-NikNax - NikNax
-NikNax - NikNax
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
 orbital sentries - sentinelas orbitais
 Ore - Minério
 Outcasts - Párias - Foragidos - Forasteiros
 Outlaw's - Foras da Lei - Criminosos
-OxyPen - OxyPen
-Party - equipe?
 Party - Grupo
 Passkey - Chave de Acesso
 Pathfinder - Desbravador
@@ -133,32 +120,24 @@ shield = Escudo
 Shipment - Transporte
 Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
 Silicon - Silício
-Sion Compensator - Compensador Sion
 Site - Local
 Skimmer - ? - Scummers?
-Skimmer - Scummers?
 Skyline - Skyline
 Skyline - Skyline
-Slot - Slot
 Sodium - Sódio
-Spawn - Nascimento
 Spawn - Nascimento
 Sprint - Corrida
 StarMap - Mapa Estelar
-StarMap - Mapa Estelar
-station lobby - SAGUÃO DA ESTAÇÃO
 station lobby - saguão da estação
 Steel - Aço
 Stileron - Estilete
 Stims - Estimulantes
 Store - Armazenar
-Store - Armazenar - Guardar
 strafe - deslocar-se
 Strafe Down - Deslocar (para baixo)
 Strafe Up - Deslocar (para cima)
 Sulfer Moss - Musgo Sulfer
 Supply - Suprimento
-systems-grok - Gênio em sistemas
 systems-grok - Gênio em sistemas
 Tacit Supressor - Supressor Tácito
 Taranite - Taranita
@@ -173,16 +152,23 @@ Titanium - Titânio
 Tracker Beginner's Permit - Permissão de Rastreador Iniciante
 Tritium - Trítio
 Tungsten - Tungstênio
-Underbarrel - Slot Inferior
-Undersuit - Sub Traje
 Uplink - Uplink
 Upload - Carregamento
 Uranium - Urânio
-Vehicle Loadout Manager - Gerenciador de Carregamento de Veículos - Gestor de Carregamento de Veículos
-Vehicle Loadout Manager - Gerenciar Equipamento dos Veículos
-Veil Flash Hider - Freio de Boca Veil
+Vehicle Loadout Manager - Gerenciador de Equipamento dos Veículos
 Warning - Alerta
 Waste - Resíduos
+
+----------------------------------------------- Armadura -----------------------------------------------
+Arms = Braços
+Core = Torso
+Helmet = Capacete
+Jumpsuit - Macacão
+Legs = Pernas
+Loadout - Equipamento
+Slot - Slot
+Underbarrel - Slot Inferior
+Undersuit - Sub Traje
 
 
 ----------------------------------------------- Frases -----------------------------------------------
@@ -205,12 +191,12 @@ RED WIND LINEHAUL - RED WIND LINEHAUL
 
 ----------------------------------------------- Naves -----------------------------------------------
 Bomber - Bombardeiro
-Corvette - Corvette
-Destroyer - Destruidor
-Dropship - Desembarque de Tropa
+Corvette - Corveta
+Destroyer - Destróier
+Dropship - Transporte de Tropas
 Expedition - Expedição
 Frigate - Fragata
-Gunship - Artilharia
+Gunship - Fogo Pesado
 Mining - Mineração
 Salvage - Sucateiro
 
