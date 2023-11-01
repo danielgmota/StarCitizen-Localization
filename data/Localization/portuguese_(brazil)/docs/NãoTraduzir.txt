@@ -1,36 +1,51 @@
 --- Nomes e Termos para não traduzir ---
 
---- Naves ---
+----------------------------------- Naves -----------------------------------
 Nenhum nome de nave
---- ---- ---
 
---- Planetas/Cidades/Locais ---
-Lorville
+
+----------------------------------- Itens -----------------------------------
+Nenhum nome de item
+
+
+----------------------------------- Commodities -----------------------------------
+Nenhum Commodite
+
+
+----------------------------------- Planetas/Cidades/Locais -----------------------------------
+Nenhum planeta/cidade/local
+
 ArcCorp
 Área18
-Orison
 Baijini Point
---- ---- ---
+Jericho
+Lorville
+Orison
 
---- Fabricantes/Fracções ---
+
+----------------------------------- Fabricantes/Fracções -----------------------------------
+Nenhum fabricante/facção
+
 Behring
 Drake Interplanetary
 Nine Tails
---- ---- ---
 
---- Empresas ---
-microTech Protection Services
+
+----------------------------------- Empresas -----------------------------------
+Nenhuma empresa
+
 BlacJac Security
-Hurston Security
-Crusader Security
 Covalex Shipping
+Crusader Security
 ECKHART SECURITY
 FTL Courier Services
---- ---- ---
+Hurston Security
+microTech Protection Services
 
---- Termos ---
-Slot
-mobiGlas
+
+----------------------------------- Termos -----------------------------------
 Commlink
+mobiGlas
 NikNax
 Skyline
+Slot
