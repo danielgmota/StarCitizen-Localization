@@ -83,6 +83,7 @@ Match - Partida - Jogos - Organização - Combinação
 Matchmaking - Organização de Partidas
 Medical Supply - Suprimentos Médicos
 Medium - Médio
+Merits: Méritos
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
 orbital sentries - sentinelas orbitais
