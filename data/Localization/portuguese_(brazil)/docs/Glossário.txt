@@ -11,6 +11,7 @@ Ancillary casualties - Vítimas secundárias
 Attachment - Anexo - Fixação - Acessório
 Attachment Point - Ponto de Fixação
 Barrel - Cano
+Beacon - Sinalizador?
 blue-on-blue - Fogo Amigo
 Boost - Impulso
 Bounties - Caçadas
