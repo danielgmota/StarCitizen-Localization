@@ -112,6 +112,7 @@ Requeue - Reenfileiramento
 Restocking - Reestocando / Remuniciando
 Retrieve - Retirar - Recuperar
 Rock - Rocha
+ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
 Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
 Rush Contract - Contrato Urgente
 Scan Mode - Modo Scan
