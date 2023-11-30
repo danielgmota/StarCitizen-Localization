@@ -55,6 +55,7 @@ Enabled - Habilitado / Ativado
 Environmental Hazard - Perigo Ambiental
 Flash Hider - Freio de Boca
 Fleet Manager - Gerenciador de Frota
+FUNT (fast and untraceable) - RENR (rápido e não rastreável)
 Gadget - Dispositivo
 Gimbal - Giroscópio
 Group - Canal
