@@ -67,6 +67,7 @@ Invite - Convidar
 Journal - Jornal
 Jump Drive - Motor de Salto
 Jump Point - Ponto de Salto
+jump seat - assento retrátil
 Kiosk - Quiosque
 Landing Pad - Plataforma de Pouso
 Landing Services - Serviço de Pouso
