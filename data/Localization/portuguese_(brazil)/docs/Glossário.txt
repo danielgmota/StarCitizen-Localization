@@ -75,6 +75,7 @@ Landing System - Sistema de Pouso
 Light - Leve
 Light Fighter - Caça Leve
 Light Freight - Frete Leve
+Livery - Pintura
 lobby -
 lobby - SAGUÃO
 lobby - saguão
