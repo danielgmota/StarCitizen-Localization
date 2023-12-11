@@ -7,13 +7,8 @@ Monóxido
 ESP - E.S.P
 off-line - Offline
 Saltar unidade - Unidade de Salto
-Base de Mísseis - Rack de Mísseis
 PowerPlant
-Aparelho - Dispositivo
 Constelação RSI - RSI Constellation
-o navio - a nave
-um navio - uma nave
-do nave - da nave
 o Drake - a Drake
 Radiador - Propulsor
 CSR - RSI
