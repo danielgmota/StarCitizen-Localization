@@ -3,11 +3,7 @@
 font size=
  \n
 ,
-Monóxido
-ESP - E.S.P
-off-line - Offline
-Saltar unidade - Unidade de Salto
-PowerPlant
+de baixa potência (ou "de baixo consumo de energia")
 Constelação RSI - RSI Constellation
 o Drake - a Drake
 Radiador - Propulsor
