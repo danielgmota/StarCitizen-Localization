@@ -1,26 +1,14 @@
 --- Palavras para pesquisar e Trocar ou Corrigir ----
 
-CONTRATO DE RUSH - CONTRATO URGENTE
-Local de montagem - Ponto de Fixação
-Barril - Cano
 font size=
  \n
 ,
 Monóxido
 ESP - E.S.P
-esquerda/direita - Esquerda / Direita
-aumentar/diminuir - Aumentar / Diminuir
-para cima/para baixo - Para Cima / Para Baixo
-Attachments
 off-line - Offline
 Saltar unidade - Unidade de Salto
-Base de Mísseis - Rack de Mísseis
 PowerPlant
-Aparelho - Dispositivo
 Constelação RSI - RSI Constellation
-o navio - a nave
-um navio - uma nave
-do nave - da nave
 o Drake - a Drake
 Radiador - Propulsor
 CSR - RSI
