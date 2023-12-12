@@ -3,7 +3,6 @@
 font size=
  \n
 ,
-Radiador - Propulsor
 CSR - RSI
 isca - Decoy
 49418
