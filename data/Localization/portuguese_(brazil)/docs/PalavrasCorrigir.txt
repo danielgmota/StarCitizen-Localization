@@ -3,9 +3,6 @@
 font size=
  \n
 ,
-de baixa potência (ou "de baixo consumo de energia")
-Constelação RSI - RSI Constellation
-o Drake - a Drake
 Radiador - Propulsor
 CSR - RSI
 isca - Decoy
