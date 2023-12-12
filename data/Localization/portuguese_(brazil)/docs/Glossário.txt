@@ -167,6 +167,7 @@ Waste - Resíduos
 SUICIDE SCRAMBLE - LUTA SUICIDA - Confusão Suicida ?
 hatjob - chapeleiro
 Klescher Rehabilitation Facilities - Instalações de Reabilitação Klescher
+Log out=Sair p/ menu
 
 ----------------------------------------------- Armadura -----------------------------------------------
 Arms = Braços
