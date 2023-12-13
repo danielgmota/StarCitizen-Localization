@@ -1,5 +1,6 @@
 --- Palavras para pesquisar e Trocar ou Corrigir ----
 
+Revisar todas as traduções relativas a opções de controle
 font size=
  \n
 ,
@@ -38,10 +39,8 @@ Gerenciador de Frota - Gestor de Frota
 Jornada quantica, jornada - Viagem Quântica
 station lobby - saguão da estação
 lobby - saguão
-Versículo - ‘Verso
 Gerenciador de Contratos - Gestor de Contratos
 Verificar : pontuação - ver se golpe se encaixa
-CRYPTOKEY - CRIPTOCHAVE
 array - matriz
 Passkey - Chave de Acesso
 Guardas Orbitais - sentinelas orbitais
