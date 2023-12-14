@@ -6,29 +6,18 @@ font size=
 ,
 ui_hacking_BootCode= (está traduzido, só temos que ver se não esculhambou a msg no jogo)
 ui_game_popup_error= (está traduzido, só temos que ver se não esculhambou a msg no jogo)
-Keldur Hat and
 Name_
 57725
 vehicle_Desc
 Fabricante: 
-Repare, reabasteça e reabasteça
 40898
-42915
-39026
-~mission(dificuldade) - ~mission(trouble)
-Private Contract Supervisor - Supervisor de Contrato Privado
+42915 -> Acho que está OK (Kenjiro)
+39026 -> Acho que está OK (Kenjiro)
 Nine Tails - Nove Caudas
-Gloria Mesa\n\nSupervisor de Contrato Privado - Gloria Mesa\n\nSupervisora de Contrato Privado
-ATTN:
-42915
-39026
-59149
-59089
-68052
-41453
-Terminais do Gerenciador de Frota - Terminais Gestor de Frota    Fleet Manager Terminals
-Gerenciador de Frota - Gestor de Frota
-Jornada quantica, jornada - Viagem Quântica
+59149 -> Acho que está OK (Kenjiro)
+59089 -> Acho que está OK (Kenjiro)
+68052 -> Acho que está OK (Kenjiro)
+41453 -> Acho que está OK (Kenjiro)
 station lobby - saguão da estação
 lobby - saguão
 Gerenciador de Contratos - Gestor de Contratos
