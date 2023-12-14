@@ -11,9 +11,6 @@ Name_
 57725
 vehicle_Desc
 Fabricante: 
-Item sentado -  Item Retido
-Modo de digitalização - Modo de Escaneamento
-~missão
 Repare, reabasteça e reabasteça
 40898
 42915
