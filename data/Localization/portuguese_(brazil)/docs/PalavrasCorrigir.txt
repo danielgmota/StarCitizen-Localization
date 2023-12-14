@@ -8,12 +8,9 @@ ui_hacking_BootCode= (está traduzido, só temos que ver se não esculhambou a m
 ui_game_popup_error= (está traduzido, só temos que ver se não esculhambou a msg no jogo)
 Keldur Hat and
 Name_
-57679
 57725
-pelo preto - pela escuridão
 vehicle_Desc
 Fabricante: 
-Diario/ Diário - Jornal
 Item sentado -  Item Retido
 Modo de digitalização - Modo de Escaneamento
 ~missão
