@@ -1,9 +1,9 @@
 --- Palavras para pesquisar e Trocar ou Corrigir ----
 
-Revisar todas as traduções relativas a opções de controle
+Revisar todas as traduções relativas a opções de controle/keybind
 font size=
- \n
-,
+ \n -> alguma linha específica?
+, -> alguma linha específica?
 ui_hacking_BootCode= (está traduzido, só temos que ver se não esculhambou a msg no jogo)
 ui_game_popup_error= (está traduzido, só temos que ver se não esculhambou a msg no jogo)
 Name_
@@ -13,17 +13,15 @@ Fabricante:
 40898
 42915 -> Acho que está OK (Kenjiro)
 39026 -> Acho que está OK (Kenjiro)
-Nine Tails - Nove Caudas
 59149 -> Acho que está OK (Kenjiro)
 59089 -> Acho que está OK (Kenjiro)
 68052 -> Acho que está OK (Kenjiro)
 41453 -> Acho que está OK (Kenjiro)
-station lobby - saguão da estação
-lobby - saguão
-Gerenciador de Contratos - Gestor de Contratos
+Pontuação do | Pontuação de - "Ponto do"
 Verificar : pontuação - ver se golpe se encaixa
+MISSÃO EM CAVERNA ASSA 
 array - matriz
-Passkey - Chave de Acesso
+CommArray - Satélite
 Guardas Orbitais - sentinelas orbitais
 ~mission(
 ~mission(configuração de localização) - ~mission(ObjectiveSetup)
