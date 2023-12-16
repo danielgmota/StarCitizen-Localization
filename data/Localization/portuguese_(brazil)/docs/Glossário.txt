@@ -169,6 +169,8 @@ hatjob - chapeleiro
 Klescher Rehabilitation Facilities - Instalações de Reabilitação Klescher
 Log out=Sair p/ menu
 holster=Guardar (coldre é apenas para pistola)
+Optics=Lente
+
 
 ----------------------------------------------- Armadura -----------------------------------------------
 Arms = Braços
@@ -207,9 +209,10 @@ Destroyer - Destróier
 Dropship - Transporte de Tropas
 Expedition - Expedição
 Frigate - Fragata
-Gunship - Fogo Pesado
+Gunship - Guerra
 Mining - Mineração
 Salvage - Sucateiro
+Courier - 
 
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
