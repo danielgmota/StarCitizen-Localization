@@ -1,29 +1,16 @@
 --- Palavras para pesquisar e Trocar ou Corrigir ----
 
-(N/A) -> (N/I) (relativo a "Não Informado")
 
 Revisar todas as traduções relativas a opções de controle/keybind
 font size=
- \n -> alguma linha específica?
-, -> alguma linha específica?
+ \n -> (alguma linha específica?)
+, -> (alguma linha específica?)
 ui_hacking_BootCode= (está traduzido, só temos que ver se não esculhambou a msg no jogo)
 ui_game_popup_error= (está traduzido, só temos que ver se não esculhambou a msg no jogo)
 Name_
-57725
-vehicle_Desc
-Fabricante: 
-40898
-42915 -> Acho que está OK (Kenjiro)
-39026 -> Acho que está OK (Kenjiro)
-59149 -> Acho que está OK (Kenjiro)
-59089 -> Acho que está OK (Kenjiro)
-68052 -> Acho que está OK (Kenjiro)
-41453 -> Acho que está OK (Kenjiro)
 MISSÃO EM CAVERNA ASSA 
 
 array - matriz
-CommArray - Satélite
-Guardas Orbitais - sentinelas orbitais
 ~mission(
 ~mission(configuração de localização) - ~mission(ObjectiveSetup)
 ~mission(GiftRecipient
