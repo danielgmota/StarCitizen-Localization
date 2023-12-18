@@ -1,8 +1,5 @@
 --- Palavras para pesquisar e Trocar ou Corrigir ----
 
-do XenoThreat -> da XenoThreat
-Despachante Líder -> Despachante-Chefe
-temp. Classificação -> Classificação de Temp.
 (N/A) -> (N/I) (relativo a "Não Informado")
 
 Revisar todas as traduções relativas a opções de controle/keybind
@@ -55,7 +52,6 @@ Nove Caudas - Nine Tails
 skimmer - 
 Tamanho da Revista - Tamanho do Pente
 Alcance efetivo - Alcance Efetivo
-Livery = pintura
 docagem/ancoragem = acoplar/desacoplar
 componentes nave = quantum drive, cooler, revisar
 disparo = tiro 
