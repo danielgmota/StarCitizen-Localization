@@ -1,9 +1,5 @@
 --- Palavras para pesquisar e Trocar ou Corrigir ----
 
-"letra.letra" (ex: ... o João morreu.A maria chorou...) -> Dar espaço entre o "." e a próxima letra
-Stows out -> Stows desligando.
-Caçador de Cabeças | Caçadores de Cabeças -> HeadHunters (porque seria o o nome do grupo/facção)
-Comm. Spec. Engler -> Comm. Spec. Engler
 do XenoThreat -> da XenoThreat
 Despachante Líder -> Despachante-Chefe
 temp. Classificação -> Classificação de Temp.
