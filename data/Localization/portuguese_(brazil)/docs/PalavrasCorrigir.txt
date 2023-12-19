@@ -3,7 +3,6 @@
 
 Revisar todas as traduções relativas a opções de controle/keybind
 font size=
- \n -> (alguma linha específica?)
 , -> (alguma linha específica?)
 ui_hacking_BootCode= (está traduzido, só temos que ver se não esculhambou a msg no jogo)
 ui_game_popup_error= (está traduzido, só temos que ver se não esculhambou a msg no jogo)
@@ -11,41 +10,14 @@ Name_
 MISSÃO EM CAVERNA ASSA 
 
 array - matriz
-~mission(
-~mission(configuração de localização) - ~mission(ObjectiveSetup)
-~mission(GiftRecipient
-~mission(Location|Address)
-~mission(Local|Endereço)
-~mission(Destination)
-~mission(destination)
-~mission(ship)
-~mission(Ship)
-~mission(title)
-~mission(Title)
-~mission(Item)
-~mission(item)
-~mission(Client)
-~mission(client)
-~mission(Update)
-~mission(sShip)
-~mission(Contractor|AssassinationTimed)
-~mission(De) - ~mission(From)
-~mission(droga) - ~mission(drug)
-~mission(analogy)
-Abutre - Vulture
-STATUS DO CONTRATANTE - STATUS DO CONTRATADO
-do Nine Tails - da Nine Tails
-Nove Caudas - Nine Tails
 skimmer - 
-Tamanho da Revista - Tamanho do Pente
-Alcance efetivo - Alcance Efetivo
+
 docagem/ancoragem = acoplar/desacoplar
 componentes nave = quantum drive, cooler, revisar
 disparo = tiro 
 Todos os commitites, ex: agracio = agracium
 Location1,Location3,Location3
 Ponto de verificação - Ponto de Controle
-N/A
 Indústrias Cruzadas - Crusader Industries
 
 
@@ -53,7 +25,6 @@ Text_Clovis_Safe_Contents_01=pAddSolarWep[nAddSolarWep]=Laser1; gpAddSolarWep[nA
 PH - (Linhas do original que também estão zoadas. Pelo que entendi são "placeholders")
 
 Optics=Lente (remover Otica, mira, luneta)
-Livery = Pintura
 Arms = Braços
 Core = Torso
 Helmet = Capacete
