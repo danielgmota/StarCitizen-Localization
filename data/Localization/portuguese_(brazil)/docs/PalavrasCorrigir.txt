@@ -13,7 +13,7 @@ array - matriz
 skimmer - 
 
 docagem/ancoragem = acoplar/desacoplar
-componentes nave = quantum drive, cooler, revisar
+componentes nave = revisar
 disparo = tiro 
 Todos os commitites, ex: agracio = agracium
 Location1,Location3,Location3
