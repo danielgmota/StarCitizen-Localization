@@ -7,6 +7,7 @@ Revisar todas as traduções relativas a opções de controle/keybind
 docagem/ancoragem = acoplar/desacoplar
 MISSÃO EM CAVERNA ASSA 
 Exploration Suit - Traje de Exploração
+Quantum Snare - Armadilha Quântica
 
 
 componentes nave = revisar
@@ -38,3 +39,14 @@ Frigate - Fragata
 Gunship - Guerra
 Mining - Mineração
 Salvage - Sucateiro
+
+--- Keybinds ---
+"Aumento de Arma"- "Arma - Aumentar"
+Pitch - Inclinar
+Yaw - Guinada
+Throttle - Acelerador
+Ciclar - Alternar
+Nudge - ?
+"Voo - Poder" - "Voo - Energia"
+Thrusters - Propulsores
+Push to Talk - Pressionar para Falar
