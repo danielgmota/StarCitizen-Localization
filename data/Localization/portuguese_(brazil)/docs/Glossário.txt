@@ -127,7 +127,7 @@ Shipment - Transporte
 Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
 Silicon - Silício
 Site - Local
-Skimmer - ? - Scummers?
+Skimmer - Drone
 Skyline - Skyline
 Skyline - Skyline
 Sodium - Sódio
@@ -175,6 +175,7 @@ Optics=Lente
 ----------------------------------------------- Armadura -----------------------------------------------
 Arms = Braços
 Core = Torso
+Exploration Suit = Traje de Exploração
 Helmet = Capacete
 Jumpsuit - Macacão
 Legs = Pernas
@@ -182,6 +183,10 @@ Loadout - Equipamento
 Slot - Slot
 Underbarrel - Slot Inferior
 Undersuit - Sub Traje
+
+
+----------------------------------------------- Armas -----------------------------------------------
+Distortion Scattergun = Espingarda de Distorção
 
 
 ----------------------------------------------- Frases -----------------------------------------------

@@ -6,9 +6,7 @@ Revisar todas as traduções relativas a opções de controle/keybind
 
 docagem/ancoragem = acoplar/desacoplar
 MISSÃO EM CAVERNA ASSA 
-Distortion Scattergun - Espingarda de Distorção
-skimmer - drone
-Pathfinder - Desbravador
+Exploration Suit - Traje de Exploração
 
 
 componentes nave = revisar
