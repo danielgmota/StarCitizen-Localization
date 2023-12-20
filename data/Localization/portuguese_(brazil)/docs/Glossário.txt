@@ -185,10 +185,8 @@ Slot - Slot
 Underbarrel - Slot Inferior
 Undersuit - Sub Traje
 
-
 ----------------------------------------------- Armas -----------------------------------------------
 Distortion Scattergun = Espingarda de Distorção
-
 
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
@@ -198,7 +196,6 @@ over-achieving - super-ultrapassados
 Protect Site Trial Contract - Contrato de Teste: Proteja o local
 score - um golpe
 
-
 ----------------------------------------------- Empresas -----------------------------------------------
 BlacJac Security - BlacJac Security
 Covalex Shipping - Covalex Shipping
@@ -206,7 +203,6 @@ Crusader Security - Crusader Security
 ECKHART SECURITY - ECKHART SECURITY
 FTL Courier Services - FTL Courier Services
 RED WIND LINEHAUL - RED WIND LINEHAUL
-
 
 ----------------------------------------------- Naves -----------------------------------------------
 Bomber - Bombardeiro
@@ -233,5 +229,3 @@ Baijini Point - Baijini Point
 Lorville - Lorville
 Lorville - Lorville
 Orison - Orison
-
-
