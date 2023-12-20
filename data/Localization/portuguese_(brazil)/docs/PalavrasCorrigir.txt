@@ -7,7 +7,6 @@ Revisar todas as traduções relativas a opções de controle/keybind
 docagem/ancoragem = acoplar/desacoplar
 MISSÃO EM CAVERNA ASSA 
 Exploration Suit - Traje de Exploração
-Quantum Snare - Armadilha Quântica
 
 
 componentes nave = revisar
@@ -26,7 +25,6 @@ PH - (Linhas do original que também estão zoadas. Pelo que entendi são "place
 Optics=Lente (remover Otica, mira, luneta)
 Arms = Braços
 Core = Torso
-Helmet = Capacete
 Jumpsuit - Macacão
 Legs = Pernas
 
