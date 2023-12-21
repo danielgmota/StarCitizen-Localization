@@ -187,6 +187,8 @@ Undersuit - Sub Traje
 
 ----------------------------------------------- Armas -----------------------------------------------
 Distortion Scattergun = Espingarda de Distorção
+Laser Repeater - Repetidor Laser
+Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe

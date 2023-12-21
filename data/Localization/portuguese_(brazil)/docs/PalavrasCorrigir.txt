@@ -23,7 +23,6 @@ Text_Clovis_Safe_Contents_01=pAddSolarWep[nAddSolarWep]=Laser1; gpAddSolarWep[nA
 PH - (Linhas do original que também estão zoadas. Pelo que entendi são "placeholders")
 
 Optics=Lente (remover Otica, mira, luneta)
-Arms = Braços
 Jumpsuit - Macacão
 Legs = Pernas
 
