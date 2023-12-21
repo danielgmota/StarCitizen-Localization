@@ -7,6 +7,8 @@ Agricultural Supply - Suprimento Agrícola
 Airlock - Câmara a Vácuo
 Airlock=câmara de vácuo
 Alloy - Liga
+Ammo Box - Caixa de Munição
+Ammo Case - Estojo de Munição
 Ancillary casualties - Vítimas secundárias
 Attachment - Anexo - Fixação - Acessório
 Attachment Point - Ponto de Fixação

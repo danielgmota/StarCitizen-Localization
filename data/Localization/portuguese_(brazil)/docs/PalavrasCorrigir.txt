@@ -24,7 +24,6 @@ PH - (Linhas do original que também estão zoadas. Pelo que entendi são "place
 
 Optics=Lente (remover Otica, mira, luneta)
 Jumpsuit - Macacão
-Legs = Pernas
 
 Bomber - Bombardeiro
 Corvette - Corveta
