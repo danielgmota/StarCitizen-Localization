@@ -210,6 +210,8 @@ RED WIND LINEHAUL - RED WIND LINEHAUL
 
 ----------------------------------------------- Naves -----------------------------------------------
 Bomber - Bombardeiro
+Capital Ship - Nave Capital
+CapShip - NavCap (Capital Ship)
 Corvette - Corveta
 Courier - Entregador
 Destroyer - Destróier
