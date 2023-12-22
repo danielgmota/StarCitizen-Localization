@@ -20,9 +20,6 @@ Text_Clovis_Safe_Contents_01=pAddSolarWep[nAddSolarWep]=Laser1; gpAddSolarWep[nA
 PH - (Linhas do original que também estão zoadas. Pelo que entendi são "placeholders")
 
 --- Keybinds ---
-"Aumento de Arma"- "Arma - Aumentar"
-Pitch - Inclinar
-Yaw - Guinada
 Throttle - Acelerador
 Ciclar - Alternar
 Nudge - ?
