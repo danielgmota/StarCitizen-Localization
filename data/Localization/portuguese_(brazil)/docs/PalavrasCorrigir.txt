@@ -40,5 +40,4 @@ Throttle - Acelerador
 Ciclar - Alternar
 Nudge - ?
 "Voo - Poder" - "Voo - Energia"
-Thrusters - Propulsores
 Push to Talk - Pressionar para Falar
