@@ -1,9 +1,7 @@
 --- Palavras para pesquisar e Trocar ou Corrigir ----
 
-
-Revisar todas as traduções relativas a opções de controle/keybind
-
-
+Segurança BlacJac - BlacJac Security
+Segurança Crusader - Crusader Security
 docagem/ancoragem = acoplar/desacoplar
 MISSÃO EM CAVERNA ASSA 
 
@@ -20,8 +18,8 @@ Text_Clovis_Safe_Contents_01=pAddSolarWep[nAddSolarWep]=Laser1; gpAddSolarWep[nA
 PH - (Linhas do original que também estão zoadas. Pelo que entendi são "placeholders")
 
 --- Keybinds ---
+Revisar todas as traduções relativas a opções de controle/keybind
 Throttle - Acelerador
 Ciclar - Alternar
-Nudge - ?
 "Voo - Poder" - "Voo - Energia"
 Push to Talk - Pressionar para Falar
