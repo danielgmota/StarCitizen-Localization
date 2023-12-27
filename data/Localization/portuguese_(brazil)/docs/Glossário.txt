@@ -62,8 +62,8 @@ FUNT (fast and untraceable) - RENR (rápido e não rastreável)
 Gadget - Dispositivo
 Gimbal - Giroscópio
 Group - Canal
-group_invite_group_to_party - Convidar Grupo para Party
-group_invite_party_to_group - Convidar Party para Grupo
+group_invite_group_to_party - Convidar Canal para Grupo
+group_invite_party_to_group - Convidar Grupo para Canal
 Heavy - Pesado
 ICU - UTI
 ICU - UTI
