@@ -121,6 +121,7 @@ Rock - Rocha
 ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
 Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
 Rush Contract - Contrato Urgente
+Salvage Yard - Área de Sucateamento
 Scan Mode - Modo Scan
 Scrap - Sucata
 Selenium - Selênio

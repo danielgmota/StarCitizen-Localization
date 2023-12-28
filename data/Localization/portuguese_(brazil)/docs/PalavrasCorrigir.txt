@@ -31,7 +31,5 @@ cc_underline=_
 
 --- Keybinds ---
 Revisar todas as traduções relativas a opções de controle/keybind
-Throttle - Acelerador
-Ciclar - Alternar
 "Voo - Poder" - "Voo - Energia"
 Push to Talk - Pressionar para Falar
