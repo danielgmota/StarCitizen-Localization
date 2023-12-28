@@ -235,3 +235,11 @@ Baijini Point - Baijini Point
 Lorville - Lorville
 Lorville - Lorville
 Orison - Orison
+
+----------------------------------------------- Navegação -----------------------------------------------
+Aft - Popa/Traseiro
+Front - Proa/Frontal
+Nadir - Inferior/Abaixo
+Port - Bombordo
+Starbord - Estibordo
+Zenith - Superior/Acima
