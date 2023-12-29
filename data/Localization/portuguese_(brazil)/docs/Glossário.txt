@@ -93,6 +93,7 @@ Medium - Médio
 Merits: Méritos
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
+Nudge - Deslocar
 orbital sentries - sentinelas orbitais
 Ore - Minério
 Outcasts - Párias - Foragidos - Forasteiros

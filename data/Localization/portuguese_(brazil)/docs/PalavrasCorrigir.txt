@@ -27,9 +27,3 @@ cc_rbracket=]
 cc_semicolon=;
 cc_slash=/
 cc_underline=_
----
-
---- Keybinds ---
-Revisar todas as traduções relativas a opções de controle/keybind
-"Voo - Poder" - "Voo - Energia"
-Push to Talk - Pressionar para Falar
