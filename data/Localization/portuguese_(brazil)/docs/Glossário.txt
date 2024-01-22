@@ -245,3 +245,5 @@ Nadir - Inferior/Abaixo
 Port - Bombordo
 Starbord - Estibordo
 Zenith - Superior/Acima
+----------------------------------------------- Termos Militares -----------------------------------------------
+What's your twenty? - Qual a sua localização? (referente ao código 10-20)
