@@ -14,7 +14,7 @@ Multi-Tool - Multi-Ferramenta
 Attachment - Anexo - Fixação - Acessório
 Attachment Point - Ponto de Fixação
 Barrel - Cano
-Beacon - Sinalizador?
+Beacon - Farol? - Sinalizador?
 blue-on-blue - Fogo Amigo
 Boost - Impulso
 Bounties - Caçadas
