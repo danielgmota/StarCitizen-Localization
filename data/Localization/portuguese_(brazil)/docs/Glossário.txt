@@ -10,6 +10,7 @@ Alloy - Liga
 Ammo Box - Caixa de Munição
 Ammo Case - Estojo de Munição
 Ancillary casualties - Vítimas secundárias
+Multi-Tool - Multi-Ferramenta
 Attachment - Anexo - Fixação - Acessório
 Attachment Point - Ponto de Fixação
 Barrel - Cano

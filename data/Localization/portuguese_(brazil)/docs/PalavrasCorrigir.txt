@@ -27,3 +27,11 @@ cc_rbracket=]
 cc_semicolon=;
 cc_slash=/
 cc_underline=_
+
+Procure por ~mission(TargetName - Localize ~mission(TargetName
+Procura de partida - Organização de Partidas
+Multi-Tool - Multi-Ferramenta
+Flair - Sinalizador
+Attachment
+Stanton Branch - Filial Stanton
+Recuperar propriedade - Recuperação de Propriedade

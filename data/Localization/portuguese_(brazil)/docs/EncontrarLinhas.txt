@@ -37,4 +37,7 @@ item_Type
 Nomes dos SubTipos de Itens
 item_SubType
 
+Diálogos
+PU_
+
 56000
