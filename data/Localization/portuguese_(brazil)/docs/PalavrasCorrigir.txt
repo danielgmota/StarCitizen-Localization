@@ -37,3 +37,8 @@ Stanton Branch - Filial Stanton
 Recuperar propriedade - Recuperação de Propriedade
 #~mission(
 motores - propulsores
+Empreiteiro - Contratado / Contratante
+modo/s mestre/s - Master Mode/s
+Job/Emprego - Trabalho
+
+Miners Amalgamated Loc. 163 - Mineiros Amalgamados Loc. 163 (Traduzir?)

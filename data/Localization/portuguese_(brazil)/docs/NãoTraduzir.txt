@@ -1,19 +1,19 @@
 --- Nomes e Termos para não traduzir ---
 
 ----------------------------------- Naves -----------------------------------
-Nenhum nome de nave
+Não traduzir nenhum nome de nave
 
 
 ----------------------------------- Itens -----------------------------------
-Nenhum nome de item
+
 
 
 ----------------------------------- Commodities -----------------------------------
-Nenhum Commodite
+
 
 
 ----------------------------------- Planetas/Cidades/Locais -----------------------------------
-Nenhum planeta/cidade/local
+Não traduzir nenhum planeta/cidade/local
 
 ArcCorp
 Área18
@@ -23,16 +23,17 @@ Lorville
 Orison
 
 
------------------------------------ Fabricantes/Fracções -----------------------------------
-Nenhum fabricante/facção
+----------------------------------- Fabricantes/Facções -----------------------------------
+Não traduzir nenhum fabricante/facção
 
 Behring
 Drake Interplanetary
 Nine Tails
+October Rising
 
 
 ----------------------------------- Empresas -----------------------------------
-Nenhuma empresa
+Não traduzir nenhuma empresa
 
 BlacJac Security
 Covalex Shipping
@@ -49,3 +50,4 @@ mobiGlas
 NikNax
 Skyline
 Slot
+Master Modes

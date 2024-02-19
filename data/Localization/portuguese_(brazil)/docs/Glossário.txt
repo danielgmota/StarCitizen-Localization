@@ -35,6 +35,7 @@ CompSec - ???
 Consumer Goods - Bens de Consumo
 Contract Manager - Gerenciador de Contratos
 Contractors - Contratados - Contratantes
+Contractor - Contratado - Contratante
 Cooler System - Sistema de Resfriamento
 Cooling System - Sistema de Refrigeração
 Courier Assignment - Serviço de Entrega
@@ -81,8 +82,6 @@ Light - Leve
 Light Fighter - Caça Leve
 Light Freight - Frete Leve
 Livery - Pintura
-lobby -
-lobby - SAGUÃO
 lobby - saguão
 Magazine Capacity - Capacidade do Carregador
 Magazine Size - Tamanho do Carregador
@@ -173,9 +172,17 @@ Waste - Resíduos
 SUICIDE SCRAMBLE - LUTA SUICIDA - Confusão Suicida ?
 hatjob - chapeleiro
 Klescher Rehabilitation Facilities - Instalações de Reabilitação Klescher
-Log out=Sair p/ menu
-holster=Guardar (coldre é apenas para pistola)
-Optics=Lente
+Log out - Sair p/ menu
+holster - Guardar (coldre é apenas para pistola)
+Optics - Lente
+Bounty Hunting - Caça à Recompensa - Coleta de Recompensas(para missões)
+courier - entregador - transportador
+Pickup - Coleta/r, Retira/r
+Drop off - Entrega/r, Descartar
+site - local
+wreck site - local dos destroços
+wreck - destroços
+Recover - Recupere
 
 
 ----------------------------------------------- Armadura -----------------------------------------------
