@@ -46,6 +46,7 @@ Criminal Record - Ficha Criminal
 cryopod - cryopod
 CRYPTOKEY - CRIPTOCHAVE
 Datapad - Datapad
+Dead drop - local secreto
 Deck - Plataforma
 Deck - ÁREA
 Decline - Recusar
