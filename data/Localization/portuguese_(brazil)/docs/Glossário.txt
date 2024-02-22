@@ -14,7 +14,7 @@ Multi-Tool - Multi-Ferramenta
 Attachment - Anexo - Fixação - Acessório
 Attachment Point - Ponto de Fixação
 Barrel - Cano
-Beacon - Farol? - Sinalizador?
+Beacon - Alerta? - Sinalizador? - Farol? - Chamado de Socorro?
 blue-on-blue - Fogo Amigo
 Boost - Impulso
 Bounties - Caçadas
@@ -55,7 +55,13 @@ Deductible - Franquia
 Deliver - Entregar
 Disabled - Desabilitado / Desativado
 DISPATCH - DISTRIBUIÇÃO
-Docking - Docagem
+Docking - Acoplando
+Docked - Acopladado - Ancorado - Atracado - Docado
+Doking - Acoplar
+Coupled - Acoplado
+Docking Clamps - Garras de Acoplagem
+Disengaging - Desengatar
+
 Enabled - Habilitado / Ativado
 Environmental Hazard - Perigo Ambiental
 Flash Hider - Freio de Boca
@@ -79,11 +85,12 @@ Kiosk - Quiosque
 Landing Pad - Plataforma de Pouso
 Landing Services - Serviço de Pouso
 Landing System - Sistema de Pouso
+Landing - Pouso
 Light - Leve
 Light Fighter - Caça Leve
 Light Freight - Frete Leve
 Livery - Pintura
-lobby - saguão
+lobby - saguão - Sala (Quando se usa no menu ou para falar de salas)
 Magazine Capacity - Capacidade do Carregador
 Magazine Size - Tamanho do Carregador
 Manufacturer - Fabricante
@@ -104,7 +111,8 @@ Passkey - Chave de Acesso
 Pathfinder - Desbravador
 PDC Monitors - Monitores PDC
 Plasma Fuel - Combustível de Plasma
-Power Plant - Gerador energia
+Power - Energia
+Power Plant - Gerador Energia
 Power Source - Fonte de Energia
 Power Supply - Suprimento de Energia
 QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
@@ -125,6 +133,7 @@ Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
 Rush Contract - Contrato Urgente
 Salvage Yard - Área de Sucateamento
 Scan Mode - Modo Scan
+Scanning - Escaneamento? - Varredura?
 Scrap - Sucata
 Selenium - Selênio
 Self-Destruct - Auto-Destruição
@@ -154,6 +163,7 @@ systems-grok - Gênio em sistemas
 Tacit Supressor - Supressor Tácito
 Taranite - Taranita
 Target - Alvo
+Targeting - Aquisição de Alvo
 Tellurium - Telúrio
 Thorium - Tório
 Thruster - Propulsor
@@ -177,6 +187,8 @@ Log out - Sair p/ menu
 holster - Guardar (coldre é apenas para pistola)
 Optics - Lente
 Bounty Hunting - Caça à Recompensa - Coleta de Recompensas(para missões)
+Bounty Assignment - Missão de Recompensa
+Escapee Bounty Assignment - Missão de Recompensa de Fugitivo
 courier - entregador - transportador
 Pickup - Coleta/r, Retira/r
 Drop off - Entrega/r, Descartar
@@ -184,6 +196,13 @@ site - local
 wreck site - local dos destroços
 wreck - destroços
 Recover - Recupere
+Hostile/s - Inimigo/s
+Salvage - Sucateamento
+rate - avalie
+Locked - Travado
+Locked Target - Alvo Travado
+Criminal Record - Registro Criminal
+
 
 
 ----------------------------------------------- Armadura -----------------------------------------------
