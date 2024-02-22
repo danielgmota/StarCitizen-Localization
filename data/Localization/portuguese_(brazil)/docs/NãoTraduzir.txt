@@ -30,6 +30,10 @@ Behring
 Drake Interplanetary
 Nine Tails
 October Rising
+Citizens for Pyro
+Advocacy
+Navy Starmen
+Navy
 
 
 ----------------------------------- Empresas -----------------------------------
@@ -42,6 +46,7 @@ ECKHART SECURITY
 FTL Courier Services
 Hurston Security
 microTech Protection Services
+Northrock Service Group? ou Grupo de Serviços Northrock?
 
 
 ----------------------------------- Termos -----------------------------------
@@ -50,4 +55,6 @@ mobiGlas
 NikNax
 Skyline
 Slot
-Master Modes
+Master Mode/s
+Navy - Marinha ?
+Faceware

@@ -40,5 +40,13 @@ motores - propulsores
 Empreiteiro - Contratado / Contratante
 modo/s mestre/s - Master Mode/s
 Job/Emprego - Trabalho
+Ancorado, Atracado para Acopladado
+lobby - Sala
+Marinha - Navy (Navy Starmen)
+EMP - PEM
+vôo - voo
+�
+
+DOCAGEM - Acoplando/Acoplar
 
 Miners Amalgamated Loc. 163 - Mineiros Amalgamados Loc. 163 (Traduzir?) - A meu ver "Miners Amalgamated" segue a regra de não traduzir nomes de facções (Kenjiro)
