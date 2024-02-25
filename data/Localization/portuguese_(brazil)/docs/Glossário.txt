@@ -44,7 +44,7 @@ Crew - Tripulação
 Crimestat - Status Criminal
 Criminal Record - Ficha Criminal
 cryopod - cryopod
-CRYPTOKEY - CRIPTOCHAVE
+Cryptokey - Criptochave
 Datapad - Datapad
 Dead drop - local secreto
 Deck - Plataforma
@@ -205,7 +205,7 @@ Locked Target - Alvo Travado
 Criminal Record - Registro Criminal
 Badge - Emblema
 Shuttle - Transporte
-
+Encryption Key - Chave Criptográfica
 
 
 ----------------------------------------------- Armadura -----------------------------------------------
