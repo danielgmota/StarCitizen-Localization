@@ -61,7 +61,6 @@ Doking - Acoplar
 Coupled - Acoplado
 Docking Clamps - Garras de Acoplagem
 Disengaging - Desengatar
-
 Enabled - Habilitado / Ativado
 Environmental Hazard - Perigo Ambiental
 Flash Hider - Freio de Boca
@@ -90,7 +89,7 @@ Light - Leve
 Light Fighter - Caça Leve
 Light Freight - Frete Leve
 Livery - Pintura
-lobby - saguão - Sala (Quando se usa no menu ou para falar de salas)
+lobby - saguão - Sala (Quando se usa no menu ou para falar de salas de algo como bate-papo, grupo, etc...)
 Magazine Capacity - Capacidade do Carregador
 Magazine Size - Tamanho do Carregador
 Manufacturer - Fabricante
@@ -168,6 +167,8 @@ Tellurium - Telúrio
 Thorium - Tório
 Thruster - Propulsor
 Thrusters - Propulsores
+Thruster Retro - Propulsor Reverso
+Retro Thruster - Retropropulsor
 Tin - Estanho
 Tin Ore - Minério de Estanho
 Titanium - Titânio
@@ -202,6 +203,8 @@ rate - avalie
 Locked - Travado
 Locked Target - Alvo Travado
 Criminal Record - Registro Criminal
+Badge - Emblema
+Shuttle - Transporte
 
 
 
