@@ -41,18 +41,16 @@ cc_underline=_
 Procure por ~mission(TargetName - Localize ~mission(TargetName
 Procura de partida - Organização de Partidas
 Multi-Tool - Multi-Ferramenta
-Flair - Sinalizador
 Attachment
 Stanton Branch - Filial Stanton
 Recuperar propriedade - Recuperação de Propriedade
 #~mission(
 motores - propulsores
-Empreiteiro - Contratado / Contratante
+Empreiteiro - Contratado
 modo/s mestre/s - Master Mode/s
 Job/Emprego - Trabalho
 Ancorado, Atracado para Acopladado
 lobby - Sala
-Marinha - Navy (Navy Starmen)
 EMP - PEM
 vôo - voo
 �
