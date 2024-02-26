@@ -1,5 +1,15 @@
 --- Palavras para pesquisar e Trocar ou Corrigir ----
 
+--- São os nomes próprios de pilotos Vanduul ---
+dfm_ui_VanduulAlpha=Vanduul Alfa 
+dfm_ui_VanduulHunter=Caçador Vanduul 
+dfm_ui_VanduulPrime01=Pequeno Rei 
+dfm_ui_VanduulPrime02=O Sacerdote 
+dfm_ui_VanduulPrime03=Cão de caça 
+dfm_ui_VanduulPrime04=Dia de pagamento 
+dfm_ui_VanduulPrime05=Ceifador
+----------------------------------------------------
+
 docagem/ancoragem = acoplar/desacoplar
 MISSÃO EM CAVERNA ASSA 
 
@@ -31,23 +41,20 @@ cc_underline=_
 Procure por ~mission(TargetName - Localize ~mission(TargetName
 Procura de partida - Organização de Partidas
 Multi-Tool - Multi-Ferramenta
-Flair - Sinalizador
 Attachment
 Stanton Branch - Filial Stanton
 Recuperar propriedade - Recuperação de Propriedade
 #~mission(
 motores - propulsores
-Empreiteiro - Contratado / Contratante
+Empreiteiro - Contratado
 modo/s mestre/s - Master Mode/s
 Job/Emprego - Trabalho
 Ancorado, Atracado para Acopladado
 lobby - Sala
-Marinha - Navy (Navy Starmen)
 EMP - PEM
 vôo - voo
 �
 
-Jericho - Jericó
 
 DOCAGEM - Acoplando/Acoplar
 
