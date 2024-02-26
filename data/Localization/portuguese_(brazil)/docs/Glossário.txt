@@ -111,7 +111,7 @@ Pathfinder - Desbravador
 PDC Monitors - Monitores PDC
 Plasma Fuel - Combustível de Plasma
 Power - Energia
-Power Plant - Gerador Energia
+Power Plant/PowerPlant - Gerador Energia
 Power Source - Fonte de Energia
 Power Supply - Suprimento de Energia
 QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
@@ -206,6 +206,11 @@ Criminal Record - Registro Criminal
 Badge - Emblema
 Shuttle - Transporte
 Encryption Key - Chave Criptográfica
+Spawn - Surgimento
+Respawn - Ressurgimento
+Set - Conjunto
+Noise - Ruído
+Decoy - Isca
 
 
 ----------------------------------------------- Armadura -----------------------------------------------
@@ -216,7 +221,7 @@ Helmet = Capacete
 Jumpsuit - Macacão
 Legs = Pernas
 Loadout - Equipamento
-Slot - Slot
+Slot - Slot ou Espaço?
 Underbarrel - Slot Inferior
 Undersuit - Sub Traje
 
