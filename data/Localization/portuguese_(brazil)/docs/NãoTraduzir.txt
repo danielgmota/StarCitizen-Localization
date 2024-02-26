@@ -16,39 +16,36 @@ Não traduzir nenhum nome de nave
 Não traduzir nenhum planeta/cidade/local
 
 ArcCorp
-Área18
+Area18
 Baijini Point
-Jericho
 Lorville
 Orison
-
 
 ----------------------------------- Fabricantes/Facções -----------------------------------
 Não traduzir nenhum fabricante/facção
 
+Advocacy
 Behring
+Citizens for Pyro
 Drake Interplanetary
+Headhunters
+Navy Starmen
 Nine Tails
 October Rising
-Citizens for Pyro
-Advocacy
-Navy Starmen
-Navy
-Headhunters
-Citizens for Pyro
-
 
 ----------------------------------- Empresas -----------------------------------
-Não traduzir nenhuma empresa
+Não traduzir nenhuma empresa/grupo/facção
 
 BlacJac Security
+Civilian Defense Force
 Covalex Shipping
 Crusader Security
 ECKHART SECURITY
 FTL Courier Services
 Hurston Security
 microTech Protection Services
-Northrock Service Group? ou Grupo de Serviços Northrock?
+Northrock Service Group
+
 
 
 ----------------------------------- Termos -----------------------------------
@@ -58,5 +55,4 @@ NikNax
 Skyline
 Slot
 Master Mode/s
-Navy - Marinha ?
 Faceware
