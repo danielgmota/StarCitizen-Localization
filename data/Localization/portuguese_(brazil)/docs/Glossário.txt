@@ -211,6 +211,7 @@ Respawn - Ressurgimento
 Set - Conjunto
 Noise - Ruído
 Decoy - Isca
+Character - Personagem
 
 
 ----------------------------------------------- Armadura -----------------------------------------------
