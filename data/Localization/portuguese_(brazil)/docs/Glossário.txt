@@ -145,7 +145,8 @@ Skimmer - Drone
 Skyline - Skyline
 Skyline - Skyline
 Sodium - Sódio
-Spawn - Nascimento
+Spawn - Nascer - Nascimento
+Respawn - Renascer
 Sprint - Corrida
 StarMap - Mapa Estelar
 station lobby - saguão da estação
@@ -212,7 +213,14 @@ Set - Conjunto
 Noise - Ruído
 Decoy - Isca
 Character - Personagem
-
+Wearables - Vestíveis
+Unbound - Desvinvulado? - Desassociado?
+Targeting Computer - Computador de Mira
+Toggle - Alternar
+Quantum Boost - Impulso Quântico
+Throwables - Arremessáveis
+Deployables - Implantáveis
+Buff - Melhoria
 
 ----------------------------------------------- Armadura -----------------------------------------------
 Arms = Braços
@@ -224,12 +232,15 @@ Legs = Pernas
 Loadout - Equipamento
 Slot - Slot ou Espaço?
 Underbarrel - Slot Inferior
-Undersuit - Sub Traje
+Undersuit - Sub-Traje
+Core Armor - Torso?
 
 ----------------------------------------------- Armas -----------------------------------------------
 Distortion Scattergun = Espingarda de Distorção
+Scattergun - Arma de Dispersão
 Laser Repeater - Repetidor Laser
 Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
+Missile Rack - Rack de Mísseis
 
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
@@ -257,14 +268,14 @@ Destroyer - Destróier
 Dropship - Transporte de Tropas
 Expedition - Expedição
 Frigate - Fragata
-Gunship - Guerra
+Gunship - Caça - Guerra
 Mining - Mineração
 Salvage - Sucateiro
 Refuelling - Abastecimento
 Repair - Reparador
-Science - Ciencia
+Science - Ciência
 Pathfinder - Desbravador
-Stealth - furtivo
+Stealth - Furtivo
 Interceptor - Interceptador
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
@@ -284,3 +295,7 @@ Starbord - Estibordo
 Zenith - Superior/Acima
 ----------------------------------------------- Termos Militares -----------------------------------------------
 What's your twenty? - Qual a sua localização? (referente ao código 10-20)
+
+----------------------------------------------- Para o Arquivo de Nomes Traduzidos -----------------------------------------------
+Decoy Burst - Rajada de Isca
+Cruise Control - Controle de Cruzeiro
