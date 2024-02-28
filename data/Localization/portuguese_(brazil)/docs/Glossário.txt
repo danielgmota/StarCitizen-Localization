@@ -103,7 +103,7 @@ Nose Mount - Suporte do Nariz
 Nudge - Deslocar
 orbital sentries - sentinelas orbitais
 Ore - Minério
-Outcasts - Exilados - Párias - Foragidos - Forasteiros
+Outcasts - Exilados - Párias - Foragidos - Forasteiros (ainda não temos esta informação, mas teremos de ver se não seria o nome de um grupo/facção)
 Outcasts Description - Descrição dos Exilados ?
 Outlaw's - Foras da Lei - Criminosos
 Party - Grupo
@@ -215,7 +215,7 @@ Noise - Ruído
 Decoy - Isca
 Character - Personagem
 Wearables - Vestíveis
-Unbound - Desvinvulado? - Desassociado?
+Unbound - Desvinculado
 Targeting Computer - Computador de Mira
 Toggle - Alternar
 Quantum Boost - Impulso Quântico
@@ -276,7 +276,7 @@ Destroyer - Destróier
 Dropship - Transporte de Tropas
 Expedition - Expedição
 Frigate - Fragata
-Gunship - Caça - Guerra
+Gunship - Caça - Guerra (a meu ver não pode ser caça, as Gunships não são naves rápidas)
 Mining - Mineração
 Salvage - Sucateiro
 Refuelling - Abastecimento
@@ -305,5 +305,5 @@ Zenith - Superior/Acima
 What's your twenty? - Qual a sua localização? (referente ao código 10-20)
 
 ----------------------------------------------- Para o Arquivo de Nomes Traduzidos -----------------------------------------------
-Decoy Burst - Rajada de Isca
+Decoy Burst - Rajada de Decoy (visto que ficou acertado que Decoy não seria traduzido)
 Cruise Control - Controle de Cruzeiro
