@@ -301,6 +301,11 @@ Nadir - Inferior/Abaixo
 Port - Bombordo
 Starbord - Estibordo
 Zenith - Superior/Acima
+----------------------------------------------- Personagens (NPCs) -----------------------------------------------
+## A ideia aqui é registrarmos quais são homens ou mulheres, pra ajustarmos os devidos pronomes ou artigos ##
+#
+Vanzant = Oficial de ligação da  Crusader Security - Homem
+Rowena Dulli = (da CDF e Advocacy) - Mulher
 ----------------------------------------------- Termos Militares -----------------------------------------------
 What's your twenty? - Qual a sua localização? (referente ao código 10-20)
 
