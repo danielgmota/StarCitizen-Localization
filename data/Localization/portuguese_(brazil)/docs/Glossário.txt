@@ -103,7 +103,8 @@ Nose Mount - Suporte do Nariz
 Nudge - Deslocar
 orbital sentries - sentinelas orbitais
 Ore - Minério
-Outcasts - Párias - Foragidos - Forasteiros
+Outcasts - Exilados - Párias - Foragidos - Forasteiros (ainda não temos esta informação, mas teremos de ver se não seria o nome de um grupo/facção)
+Outcasts Description - Descrição dos Exilados ?
 Outlaw's - Foras da Lei - Criminosos
 Party - Grupo
 Passkey - Chave de Acesso
@@ -145,7 +146,8 @@ Skimmer - Drone
 Skyline - Skyline
 Skyline - Skyline
 Sodium - Sódio
-Spawn - Nascimento
+Spawn - Nascer - Nascimento
+Respawn - Renascer
 Sprint - Corrida
 StarMap - Mapa Estelar
 station lobby - saguão da estação
@@ -212,6 +214,19 @@ Set - Conjunto
 Noise - Ruído
 Decoy - Isca
 Character - Personagem
+Wearables - Vestíveis
+Unbound - Desvinculado
+Targeting Computer - Computador de Mira
+Toggle - Alternar
+Quantum Boost - Impulso Quântico
+Throwables - Arremessáveis
+Deployables - Implantáveis
+Buff - Melhoria
+Fuel Intake - Entrada de Combustível
+Flair Item Dashboard - Item de Enfeite no Painel
+Flair Item Hanging - Item de Enfeite Pendurado
+Hall - Salão
+
 
 
 ----------------------------------------------- Armadura -----------------------------------------------
@@ -224,12 +239,16 @@ Legs = Pernas
 Loadout - Equipamento
 Slot - Slot ou Espaço?
 Underbarrel - Slot Inferior
-Undersuit - Sub Traje
+Undersuit - Sub-Traje
+Core Armor - Torso?
 
 ----------------------------------------------- Armas -----------------------------------------------
 Distortion Scattergun = Espingarda de Distorção
+Scattergun - Arma de Dispersão
 Laser Repeater - Repetidor Laser
 Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
+Missile Rack - Rack de Mísseis
+Gimbal Mount Weapon Slot - Espaço de Arma em Giroscópio Montado
 
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
@@ -257,14 +276,14 @@ Destroyer - Destróier
 Dropship - Transporte de Tropas
 Expedition - Expedição
 Frigate - Fragata
-Gunship - Guerra
+Gunship - Caça - Guerra (a meu ver não pode ser caça, as Gunships não são naves rápidas)
 Mining - Mineração
 Salvage - Sucateiro
 Refuelling - Abastecimento
 Repair - Reparador
-Science - Ciencia
+Science - Ciência
 Pathfinder - Desbravador
-Stealth - furtivo
+Stealth - Furtivo
 Interceptor - Interceptador
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
@@ -284,3 +303,7 @@ Starbord - Estibordo
 Zenith - Superior/Acima
 ----------------------------------------------- Termos Militares -----------------------------------------------
 What's your twenty? - Qual a sua localização? (referente ao código 10-20)
+
+----------------------------------------------- Para o Arquivo de Nomes Traduzidos -----------------------------------------------
+Decoy Burst - Rajada de Decoy (visto que ficou acertado que Decoy não seria traduzido)
+Cruise Control - Controle de Cruzeiro

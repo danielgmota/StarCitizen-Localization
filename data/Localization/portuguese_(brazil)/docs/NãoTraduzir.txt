@@ -45,7 +45,7 @@ FTL Courier Services
 Hurston Security
 microTech Protection Services
 Northrock Service Group
-
+Dumper's Depot
 
 
 ----------------------------------- Termos -----------------------------------
@@ -56,3 +56,12 @@ Skyline
 Slot
 Master Mode/s
 Faceware
+Pledge Store
+
+----------------------------------- Lojas -----------------------------------
+Dumper's Depot
+CenterMass
+Live Fire
+Casaba Outlet
+AstroArmada
+McRae's
