@@ -103,7 +103,8 @@ Nose Mount - Suporte do Nariz
 Nudge - Deslocar
 orbital sentries - sentinelas orbitais
 Ore - Minério
-Outcasts - Párias - Foragidos - Forasteiros
+Outcasts - Exilados - Párias - Foragidos - Forasteiros
+Outcasts Description - Descrição dos Exilados ?
 Outlaw's - Foras da Lei - Criminosos
 Party - Grupo
 Passkey - Chave de Acesso
@@ -221,6 +222,12 @@ Quantum Boost - Impulso Quântico
 Throwables - Arremessáveis
 Deployables - Implantáveis
 Buff - Melhoria
+Fuel Intake - Entrada de Combustível
+Flair Item Dashboard - Item de Enfeite no Painel
+Flair Item Hanging - Item de Enfeite Pendurado
+Hall - Salão
+
+
 
 ----------------------------------------------- Armadura -----------------------------------------------
 Arms = Braços
@@ -241,6 +248,7 @@ Scattergun - Arma de Dispersão
 Laser Repeater - Repetidor Laser
 Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 Missile Rack - Rack de Mísseis
+Gimbal Mount Weapon Slot - Espaço de Arma em Giroscópio Montado
 
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
