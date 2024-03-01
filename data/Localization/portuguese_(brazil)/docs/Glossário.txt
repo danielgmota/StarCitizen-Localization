@@ -10,7 +10,7 @@ Ammo Box - Caixa de Munição
 Ammo Case - Estojo de Munição
 Ancillary casualties - Vítimas secundárias
 Multi-Tool - Multi-Ferramenta
-Attachment - Anexo - Fixação - Acessório
+Attachment - Acessório - Anexo - Fixação
 Attachment Point - Ponto de Fixação
 Barrel - Cano
 Beacon - Alerta? - Sinalizador? - Farol? - Chamado de Socorro?
@@ -66,6 +66,7 @@ Fleet Manager - Gerenciador de Frota
 FUNT (fast and untraceable) - RENR (rápido e não rastreável)
 Gadget - Dispositivo
 Gimbal - Giroscópio
+Gimbled - Giratório
 Group - Canal
 group_invite_group_to_party - Convidar Canal para Grupo
 group_invite_party_to_group - Convidar Grupo para Canal
@@ -159,6 +160,7 @@ systems-grok - Gênio em sistemas
 Tacit Supressor - Supressor Tácito
 Taranite - Taranita
 Target - Alvo
+Lock Target - Travar Alvo
 Targeting - Aquisição de Alvo
 Tellurium - Telúrio
 Thorium - Tório
@@ -203,8 +205,8 @@ Criminal Record - Registro Criminal
 Badge - Emblema
 Shuttle - Transporte
 Encryption Key - Chave Criptográfica
-Spawn - Surgimento
-Respawn - Ressurgimento
+Spawn - Nascer - Surgimento
+Respawn - Renascer - Ressurgimento
 Set - Conjunto
 Noise - Ruído
 Decoy - Isca
@@ -217,6 +219,7 @@ Quantum Boost - Impulso Quântico
 Throwables - Arremessáveis
 Deployables - Implantáveis
 Buff - Melhoria
+Debuff - Penalidade
 Fuel Intake - Entrada de Combustível
 Flair Item Dashboard - Item de Enfeite no Painel
 Flair Item Hanging - Item de Enfeite Pendurado
@@ -232,7 +235,12 @@ pod - cápsula
 Utility Mount Cap - Tampa de Montagem Utilitária
 Fuel Nozzle - Bico de Combustível
 Pyro Gateway - Portal Pyro
-
+Throttle - Aceleração
+Rotate Pitch - Rotacionar Eixo Lateral
+Rotate Yaw - Rotacionar Eixo Vertical
+Cargo Grid - Grade de Carga
+Cityflight Shuttle - Transporte Aerobus
+Cityflight - Aerobus
 
 ----------------------------------------------- Armadura -----------------------------------------------
 Arms = Braços
