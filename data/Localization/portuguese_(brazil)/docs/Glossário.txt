@@ -5,7 +5,6 @@ Advocacy - Advocacia
 Advocacy Description - Descrição da Advocacia
 Agricultural Supply - Suprimento Agrícola
 Airlock - Câmara a Vácuo
-Airlock=câmara de vácuo
 Alloy - Liga
 Ammo Box - Caixa de Munição
 Ammo Case - Estojo de Munição
@@ -26,7 +25,6 @@ Claimjumpers - Invasores
 Cloudrest Retreat - Cloudrest Retreat
 Cloudrest Retreat - Retiro nas Nuvens
 Cockpit - Cabine
-Combat Fighter - Caça de Combate
 Comm Array - Satélite
 Comm Uplink - Comm Uplink
 Commlink - Commlink
@@ -65,7 +63,6 @@ Enabled - Habilitado / Ativado
 Environmental Hazard - Perigo Ambiental
 Flash Hider - Freio de Boca
 Fleet Manager - Gerenciador de Frota
-Freight - Frete
 FUNT (fast and untraceable) - RENR (rápido e não rastreável)
 Gadget - Dispositivo
 Gimbal - Giroscópio
@@ -85,9 +82,8 @@ Landing Pad - Plataforma de Pouso
 Landing Services - Serviço de Pouso
 Landing System - Sistema de Pouso
 Landing - Pouso
+AutoLand - Auto-Pouso
 Light - Leve
-Light Fighter - Caça Leve
-Light Freight - Frete Leve
 Livery - Pintura
 lobby - saguão - Sala (Quando se usa no menu ou para falar de salas de algo como bate-papo, grupo, etc...)
 Magazine Capacity - Capacidade do Carregador
@@ -97,18 +93,18 @@ Match - Partida - Jogos - Organização - Combinação
 Matchmaking - Organização de Partidas
 Medical Supply - Suprimentos Médicos
 Medium - Médio
-Merits: Méritos
+Merits - Méritos
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
 Nudge - Deslocar
 orbital sentries - sentinelas orbitais
 Ore - Minério
+Outpost - Posto Avançado
 Outcasts - Exilados - Párias - Foragidos - Forasteiros (ainda não temos esta informação, mas teremos de ver se não seria o nome de um grupo/facção)
 Outcasts Description - Descrição dos Exilados ?
 Outlaw's - Foras da Lei - Criminosos
 Party - Grupo
 Passkey - Chave de Acesso
-Pathfinder - Desbravador
 PDC Monitors - Monitores PDC
 Plasma Fuel - Combustível de Plasma
 Power - Energia
@@ -121,7 +117,6 @@ Quantum Fuel - Combustível Quântico
 QUANTUM SNARE - ARMADILHA QUÂNTICA
 Quantum Travel - Viagem Quântica
 Quartz - Quartzo
-Refueling - Reabastecimento
 Relocate - Realocar
 Remaining Sites of Hostiles - Locais Restantes de Inimigos
 Requeue - Reenfileiramento
@@ -181,6 +176,7 @@ Uplink - Uplink
 Upload - Carregamento
 Uranium - Urânio
 Vehicle Loadout Manager - Gerenciador de Equipamento dos Veículos
+Vehicle Loadouts - Carregamentos de Veículos
 Warning - Alerta
 Waste - Resíduos
 SUICIDE SCRAMBLE - LUTA SUICIDA - Confusão Suicida ?
@@ -200,7 +196,6 @@ wreck site - local dos destroços
 wreck - destroços
 Recover - Recupere
 Hostile/s - Inimigo/s
-Salvage - Sucateamento
 rate - avalie
 Locked - Travado
 Locked Target - Alvo Travado
@@ -226,7 +221,17 @@ Fuel Intake - Entrada de Combustível
 Flair Item Dashboard - Item de Enfeite no Painel
 Flair Item Hanging - Item de Enfeite Pendurado
 Hall - Salão
-
+Grav Gen - Ger Grav (termo se refere à Geração Gravitacional)
+outskirts - arredores ou periferia.
+Cycle - Alternar
+On - Ativado/Ligado
+Off - Desativado/Desligado
+Proximity Flight Assist - Assistente de Proximidade
+Cargo Carrier - Transportador de Carga
+pod - cápsula
+Utility Mount Cap - Tampa de Montagem Utilitária
+Fuel Nozzle - Bico de Combustível
+Pyro Gateway - Portal Pyro
 
 
 ----------------------------------------------- Armadura -----------------------------------------------
@@ -249,6 +254,7 @@ Laser Repeater - Repetidor Laser
 Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 Missile Rack - Rack de Mísseis
 Gimbal Mount Weapon Slot - Espaço de Arma em Giroscópio Montado
+Laser Beam - Feixe Laser
 
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
@@ -267,6 +273,14 @@ FTL Courier Services - FTL Courier Services
 RED WIND LINEHAUL - RED WIND LINEHAUL
 
 ----------------------------------------------- Naves -----------------------------------------------
+Freight - Frete
+Light Freight - Frete Leve
+Fighter - Caça
+Combat Fighter - Caça de Combate
+Light Fighter - Caça Leve
+Heavy Fighter = Caça Pesado
+Medium Fighter - Caça Médio
+Defense - Defesa
 Bomber - Bombardeiro
 Capital Ship - Nave Capital
 CapShip - NavCap (Capital Ship)
@@ -285,6 +299,39 @@ Science - Ciência
 Pathfinder - Desbravador
 Stealth - Furtivo
 Interceptor - Interceptador
+Scout - Observador
+Racing - Corrida
+Policing - Policiamento
+Passenger Transit - Trânsito de Passageiros
+Multi-Function - Multi-Função
+Militia - Milícia
+Patrol - Patrulha
+Military Transport - Transporte Militar
+Refueling - Reabastecimento
+Pathfinder - Desbravador
+Salvage - Sucateamento
+Cargo - Carga
+Light Cargo - Carga Leve
+Interdiction - Interdição
+Infiltration - Infiltração
+Short Range Patrol Fighter - Caça de Patrulha de Curto Alcance
+Search and Rescue - Busca e Resgate
+Snub Fighter - Caça Snub
+Touring - Passeio
+Trade - Comércio
+Touring - Turismo
+Versatile - Versátil
+Snub Fighter - Mini Caça
+Snub - Mini
+Stealth Bomber - Bombardeiro Furtivo
+Stealth Fighter - Caça Furtivo
+Ground Combat - Combate Terrestre
+Rocket Pod - Suporte de Foguetes ou Módulo de Foguetes?
+Ball Thruster - Propulsor Esférico
+hardpoints - Pronto Rígido (Traduzir? Por enquanto não)
+Holiday Wreath - Coroa de Natal
+
+
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
 ArcCorp - ArcCorp
