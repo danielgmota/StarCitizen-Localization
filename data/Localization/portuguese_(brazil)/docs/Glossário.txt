@@ -9,20 +9,28 @@ Alloy - Liga
 Ammo Box - Caixa de Munição
 Ammo Case - Estojo de Munição
 Ancillary casualties - Vítimas secundárias
-Multi-Tool - Multi-Ferramenta
 Attachment - Acessório - Anexo - Fixação
 Attachment Point - Ponto de Fixação
+AutoLand - Auto-Pouso
+Avionics - Aviônicos
+Badge - Emblema
 Barrel - Cano
 Beacon - Alerta? - Sinalizador? - Farol? - Chamado de Socorro?
 blue-on-blue - Fogo Amigo
 Boost - Impulso
 Bounties - Caçadas
+Bounty Assignment - Missão de Recompensa
 Bounty Hunters Guild - Guilda dos Caçadores de Recompensas
+Bounty Hunting - Caça à Recompensa - Coleta de Recompensas(para missões)
+Buff - Melhoria
+Cargo Carrier - Transportador de Carga
+Cargo Grid - Grade de Carga
+Character - Personagem
 Checkpoint - Ponto de Controle - Marcadores
+Cityflight - Aerobus
+Cityflight Shuttle - Transporte Aerobus
 Claim - Reivindicar - Solicitar
-Claimjumpers - ?
-Claimjumpers - Invasores
-Cloudrest Retreat - Cloudrest Retreat
+Claimjumpers - Invasores ?
 Cloudrest Retreat - Retiro nas Nuvens
 Cockpit - Cabine
 Comm Array - Satélite
@@ -32,46 +40,60 @@ Commodity - Mercadorias
 CompSec - ???
 Consumer Goods - Bens de Consumo
 Contract Manager - Gerenciador de Contratos
-Contractors - Contratados - Contratantes
 Contractor - Contratado - Contratante
-Cooler System - Sistema de Resfriamento
+Contractors - Contratados - Contratantes
+Cooler System - Sisema de Resfritamento
 Cooling System - Sistema de Refrigeração
+Coupled - Acoplado
+courier - entregador - transportador
 Courier Assignment - Serviço de Entrega
 Couriers - Entregadores
 Crew - Tripulação
 Crimestat - Status Criminal
-Criminal Record - Ficha Criminal
+Criminal Record - Registro Criminal - Ficha Criminal
+Crucible - Crisol?
 cryopod - cryopod
 Cryptokey - Criptochave
+Cycle - Alternar
 Datapad - Datapad
 Dead drop - local secreto
-Deck - Plataforma
-Deck - ÁREA
+Debuff - Penalidade
+Deck - Plataforma - ÁREA
 Decline - Recusar
-Decoy - Decoy
+Decoy - Isca - Decoy
 Deductible - Franquia
 Deliver - Entregar
+Deployables - Implantáveis
 Disabled - Desabilitado / Desativado
-DISPATCH - DISTRIBUIÇÃO
-Docking - Acoplando
-Docked - Acopladado - Ancorado - Atracado - Docado
-Doking - Acoplar
-Coupled - Acoplado
-Docking Clamps - Garras de Acoplagem
 Disengaging - Desengatar
+DISPATCH - DISTRIBUIÇÃO
+Docked - Acopladado (Acoplar) - Ancorado - Atracado - Docado
+Docking - Acoplando
+Docking Clamps - Garras de Acoplagem
+Drop off - Entrega/r, Descartar
 Enabled - Habilitado / Ativado
+Encryption Key - Chave Criptográfica
 Environmental Hazard - Perigo Ambiental
+Escapee Bounty Assignment - Missão de Recompensa de Fugitivo
+Flair Item Dashboard - Item de Enfeite no Painel
+Flair Item Hanging - Item de Enfeite Pendurado
 Flash Hider - Freio de Boca
 Fleet Manager - Gerenciador de Frota
+Fuel Intake - Entrada de Combustível
+Fuel Nozzle - Bico de Combustível
 FUNT (fast and untraceable) - RENR (rápido e não rastreável)
 Gadget - Dispositivo
 Gimbal - Giroscópio
 Gimbled - Giratório
+Grav Gen - Ger Grav (termo se refere à Geração Gravitacional)
 Group - Canal
 group_invite_group_to_party - Convidar Canal para Grupo
 group_invite_party_to_group - Convidar Grupo para Canal
+Hall - Salão
+hatjob - chapeleiro
 Heavy - Pesado
-ICU - UTI
+holster - Guardar (coldre é apenas para pistola)
+Hostile/s - Inimigo/s
 ICU - UTI
 Invite - Convidar
 Journal - Jornal
@@ -79,14 +101,18 @@ Jump Drive - Motor de Salto
 Jump Point - Ponto de Salto
 jump seat - assento retrátil
 Kiosk - Quiosque
+Klescher Rehabilitation Facilities - Instalações de Reabilitação Klescher
+Landing - Pouso
 Landing Pad - Plataforma de Pouso
 Landing Services - Serviço de Pouso
 Landing System - Sistema de Pouso
-Landing - Pouso
-AutoLand - Auto-Pouso
 Light - Leve
 Livery - Pintura
 lobby - saguão - Sala (Quando se usa no menu ou para falar de salas de algo como bate-papo, grupo, etc...)
+Lock Target - Travar Alvo
+Locked - Travado
+Locked Target - Alvo Travado
+Log out - Sair p/ menu
 Magazine Capacity - Capacidade do Carregador
 Magazine Size - Tamanho do Carregador
 Manufacturer - Fabricante
@@ -95,55 +121,75 @@ Matchmaking - Organização de Partidas
 Medical Supply - Suprimentos Médicos
 Medium - Médio
 Merits - Méritos
+Multi-Tool - Multi-Ferramenta
+Noise - Ruído
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
 Nudge - Deslocar
+Off - Desativado/Desligado
+On - Ativado/Ligado
+Optics - Lente
 orbital sentries - sentinelas orbitais
 Ore - Minério
-Outpost - Posto Avançado
 Outcasts - Exilados - Párias - Foragidos - Forasteiros (ainda não temos esta informação, mas teremos de ver se não seria o nome de um grupo/facção)
 Outcasts Description - Descrição dos Exilados ?
 Outlaw's - Foras da Lei - Criminosos
+Outpost - Posto Avançado
+outskirts - arredores ou periferia.
+Overhead Shields - Escudos Superiores ?
 Party - Grupo
 Passkey - Chave de Acesso
 PDC Monitors - Monitores PDC
+Pickup - Coleta/r, Retira/r
 Plasma Fuel - Combustível de Plasma
+pod - cápsula
 Power - Energia
 Power Plant/PowerPlant - Gerador Energia
 Power Source - Fonte de Energia
 Power Supply - Suprimento de Energia
+Proximity Flight Assist - Assistente de Proximidade
+Pyro Gateway - Portal Pyro
+Quantum Boost - Impulso Quântico
 QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
 Quantum Drive - Motor Quântico
 Quantum Fuel - Combustível Quântico
 QUANTUM SNARE - ARMADILHA QUÂNTICA
 Quantum Travel - Viagem Quântica
 Quartz - Quartzo
+rate - avalie
+Recover - Recupere
 Relocate - Realocar
 Remaining Sites of Hostiles - Locais Restantes de Inimigos
 Requeue - Reenfileiramento
+Respawn - Renascer
+Respawn - Renascer - Ressurgimento
 Restocking - Reestocando / Remuniciando
 Retrieve - Retirar - Recuperar
+Retro Thruster - Retropropulsor
 Rock - Rocha
 ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
+Rotate Pitch - Rotacionar Eixo Lateral
+Rotate Yaw - Rotacionar Eixo Vertical
 Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
 Rush Contract - Contrato Urgente
 Salvage Yard - Área de Sucateamento
 Scan Mode - Modo Scan
-Scanning - Escaneamento? - Varredura?
+Scanning - Escaneamento - Varredura
 Scrap - Sucata
 Selenium - Selênio
 Self-Destruct - Auto-Destruição
+Set - Conjunto
 shield = Escudo
 Shipment - Transporte
 Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coordenador de Remessa - Coordenador de Expedição
+Shuttle - Transporte
 Silicon - Silício
 Site - Local
+site - local
 Skimmer - Drone
 Skyline - Skyline
-Skyline - Skyline
 Sodium - Sódio
-Spawn - Nascer - Nascimento
-Respawn - Renascer
+Spawn - Nascer - Nascimento -Surgimento
 Sprint - Corrida
 StarMap - Mapa Estelar
 station lobby - saguão da estação
@@ -154,97 +200,46 @@ Store - Armazenar
 strafe - deslocar-se
 Strafe Down - Deslocar (para baixo)
 Strafe Up - Deslocar (para cima)
+SUICIDE SCRAMBLE - LUTA SUICIDA - Confusão Suicida ?
 Sulfer Moss - Musgo Sulfer
 Supply - Suprimento
 systems-grok - Gênio em sistemas
 Tacit Supressor - Supressor Tácito
 Taranite - Taranita
 Target - Alvo
-Lock Target - Travar Alvo
 Targeting - Aquisição de Alvo
+Targeting Computer - Computador de Mira
 Tellurium - Telúrio
 Thorium - Tório
+Throttle - Aceleração
+Throwables - Arremessáveis
 Thruster - Propulsor
-Thrusters - Propulsores
 Thruster Retro - Propulsor Reverso
-Retro Thruster - Retropropulsor
+Thrusters - Propulsores
 Tin - Estanho
 Tin Ore - Minério de Estanho
 Titanium - Titânio
+Toggle - Alternar
 Tracker Beginner's Permit - Permissão de Rastreador Iniciante
 Tritium - Trítio
 Tungsten - Tungstênio
+Unbound - Desvinculado
 Uplink - Uplink
 Upload - Carregamento
 Uranium - Urânio
+Utility Mount Cap - Tampa de Montagem Utilitária
 Vehicle Loadout Manager - Gerenciador de Equipamento dos Veículos
 Vehicle Loadouts - Carregamentos de Veículos
 Warning - Alerta
 Waste - Resíduos
-SUICIDE SCRAMBLE - LUTA SUICIDA - Confusão Suicida ?
-hatjob - chapeleiro
-Klescher Rehabilitation Facilities - Instalações de Reabilitação Klescher
-Log out - Sair p/ menu
-holster - Guardar (coldre é apenas para pistola)
-Optics - Lente
-Bounty Hunting - Caça à Recompensa - Coleta de Recompensas(para missões)
-Bounty Assignment - Missão de Recompensa
-Escapee Bounty Assignment - Missão de Recompensa de Fugitivo
-courier - entregador - transportador
-Pickup - Coleta/r, Retira/r
-Drop off - Entrega/r, Descartar
-site - local
-wreck site - local dos destroços
-wreck - destroços
-Recover - Recupere
-Hostile/s - Inimigo/s
-rate - avalie
-Locked - Travado
-Locked Target - Alvo Travado
-Criminal Record - Registro Criminal
-Badge - Emblema
-Shuttle - Transporte
-Encryption Key - Chave Criptográfica
-Spawn - Nascer - Surgimento
-Respawn - Renascer - Ressurgimento
-Set - Conjunto
-Noise - Ruído
-Decoy - Isca
-Character - Personagem
 Wearables - Vestíveis
-Unbound - Desvinculado
-Targeting Computer - Computador de Mira
-Toggle - Alternar
-Quantum Boost - Impulso Quântico
-Throwables - Arremessáveis
-Deployables - Implantáveis
-Buff - Melhoria
-Debuff - Penalidade
-Fuel Intake - Entrada de Combustível
-Flair Item Dashboard - Item de Enfeite no Painel
-Flair Item Hanging - Item de Enfeite Pendurado
-Hall - Salão
-Grav Gen - Ger Grav (termo se refere à Geração Gravitacional)
-outskirts - arredores ou periferia.
-Cycle - Alternar
-On - Ativado/Ligado
-Off - Desativado/Desligado
-Proximity Flight Assist - Assistente de Proximidade
-Cargo Carrier - Transportador de Carga
-pod - cápsula
-Utility Mount Cap - Tampa de Montagem Utilitária
-Fuel Nozzle - Bico de Combustível
-Pyro Gateway - Portal Pyro
-Throttle - Aceleração
-Rotate Pitch - Rotacionar Eixo Lateral
-Rotate Yaw - Rotacionar Eixo Vertical
-Cargo Grid - Grade de Carga
-Cityflight Shuttle - Transporte Aerobus
-Cityflight - Aerobus
+wreck - destroços
+wreck site - local dos destroços
 
 ----------------------------------------------- Armadura -----------------------------------------------
 Arms = Braços
 Core = Torso
+Core Armor - Torso?
 Exploration Suit = Traje de Exploração
 Helmet = Capacete
 Jumpsuit - Macacão
@@ -253,16 +248,15 @@ Loadout - Equipamento
 Slot - Slot ou Espaço?
 Underbarrel - Slot Inferior
 Undersuit - Sub-Traje
-Core Armor - Torso?
 
 ----------------------------------------------- Armas -----------------------------------------------
 Distortion Scattergun = Espingarda de Distorção
-Scattergun - Arma de Dispersão
+Gimbal Mount Weapon Slot - Espaço de Arma em Giroscópio Montado
+Laser Beam - Feixe Laser
 Laser Repeater - Repetidor Laser
 Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 Missile Rack - Rack de Mísseis
-Gimbal Mount Weapon Slot - Espaço de Arma em Giroscópio Montado
-Laser Beam - Feixe Laser
+Scattergun - Arma de Dispersão
 
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
@@ -281,63 +275,63 @@ FTL Courier Services - FTL Courier Services
 RED WIND LINEHAUL - RED WIND LINEHAUL
 
 ----------------------------------------------- Naves -----------------------------------------------
-Freight - Frete
-Light Freight - Frete Leve
-Fighter - Caça
-Combat Fighter - Caça de Combate
-Light Fighter - Caça Leve
-Heavy Fighter = Caça Pesado
-Medium Fighter - Caça Médio
-Defense - Defesa
+Ball Thruster - Propulsor Esférico
 Bomber - Bombardeiro
 Capital Ship - Nave Capital
 CapShip - NavCap (Capital Ship)
+Cargo - Carga
+Combat Fighter - Caça de Combate
 Corvette - Corveta
 Courier - Entregador
+Defense - Defesa
 Destroyer - Destróier
 Dropship - Transporte de Tropas
 Expedition - Expedição
+Fighter - Caça
+Freight - Frete
 Frigate - Fragata
+Ground Combat - Combate Terrestre
 Gunship - Caça - Guerra (a meu ver não pode ser caça, as Gunships não são naves rápidas)
+hardpoints - Pronto Rígido (Traduzir? Por enquanto não)
+Heavy Fighter = Caça Pesado
+Holiday Wreath - Coroa de Natal
+Infiltration - Infiltração
+Interceptor - Interceptador
+Interdiction - Interdição
+Light Cargo - Carga Leve
+Light Fighter - Caça Leve
+Light Freight - Frete Leve
+Medium Fighter - Caça Médio
+Military Transport - Transporte Militar
+Militia - Milícia
 Mining - Mineração
-Salvage - Sucateiro
+Multi-Function - Multi-Função
+Passenger Transit - Trânsito de Passageiros
+Pathfinder - Desbravador
+Pathfinder - Desbravador
+Patrol - Patrulha
+Policing - Policiamento
+Racing - Corrida
+Refueling - Reabastecimento
 Refuelling - Abastecimento
 Repair - Reparador
-Science - Ciência
-Pathfinder - Desbravador
-Stealth - Furtivo
-Interceptor - Interceptador
-Scout - Observador
-Racing - Corrida
-Policing - Policiamento
-Passenger Transit - Trânsito de Passageiros
-Multi-Function - Multi-Função
-Militia - Milícia
-Patrol - Patrulha
-Military Transport - Transporte Militar
-Refueling - Reabastecimento
-Pathfinder - Desbravador
+Rocket Pod - Suporte de Foguetes ou Módulo de Foguetes?
 Salvage - Sucateamento
-Cargo - Carga
-Light Cargo - Carga Leve
-Interdiction - Interdição
-Infiltration - Infiltração
-Short Range Patrol Fighter - Caça de Patrulha de Curto Alcance
+Salvage - Sucateiro
+Science - Ciência
+Scout - Observador
 Search and Rescue - Busca e Resgate
-Snub Fighter - Caça Snub
-Touring - Passeio
-Trade - Comércio
-Touring - Turismo
-Versatile - Versátil
-Snub Fighter - Mini Caça
+Short Range Patrol Fighter - Caça de Patrulha de Curto Alcance
 Snub - Mini
+Snub Fighter - Caça Snub
+Snub Fighter - Mini Caça
+Stealth - Furtivo
 Stealth Bomber - Bombardeiro Furtivo
 Stealth Fighter - Caça Furtivo
-Ground Combat - Combate Terrestre
-Rocket Pod - Suporte de Foguetes ou Módulo de Foguetes?
-Ball Thruster - Propulsor Esférico
-hardpoints - Pronto Rígido (Traduzir? Por enquanto não)
-Holiday Wreath - Coroa de Natal
+Touring - Passeio
+Touring - Turismo
+Trade - Comércio
+Versatile - Versátil
 
 
 
