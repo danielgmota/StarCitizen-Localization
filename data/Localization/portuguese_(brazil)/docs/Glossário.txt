@@ -235,6 +235,7 @@ Waste - Resíduos
 Wearables - Vestíveis
 wreck - destroços
 wreck site - local dos destroços
+shipjacking - sequestro de naves
 
 ----------------------------------------------- Armadura -----------------------------------------------
 Arms = Braços
