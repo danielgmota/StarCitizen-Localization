@@ -15,7 +15,7 @@ AutoLand - Auto-Pouso
 Avionics - Aviônicos
 Badge - Emblema
 Barrel - Cano
-Beacon - Alerta? - Sinalizador? - Farol? - Chamado de Socorro?
+Beacon - Alerta
 blue-on-blue - Fogo Amigo
 Boost - Impulso
 Bounties - Caçadas
@@ -67,6 +67,7 @@ Deployables - Implantáveis
 Disabled - Desabilitado / Desativado
 Disengaging - Desengatar
 DISPATCH - DISTRIBUIÇÃO
+Distress Beacon - Sinal de Socorro (ou Sinalizador de Emergência)
 Docked - Acopladado (Acoplar) - Ancorado - Atracado - Docado
 Docking - Acoplando
 Docking Clamps - Garras de Acoplagem
@@ -149,6 +150,7 @@ Power Source - Fonte de Energia
 Power Supply - Suprimento de Energia
 Proximity Flight Assist - Assistente de Proximidade
 Pyro Gateway - Portal Pyro
+Quantum Beacon - Sinalizador Quântico
 Quantum Boost - Impulso Quântico
 QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
 Quantum Drive - Motor Quântico
@@ -160,6 +162,7 @@ rate - avalie
 Recover - Recupere
 Relocate - Realocar
 Remaining Sites of Hostiles - Locais Restantes de Inimigos
+Rendezvous Beacon - Sinalizador de Encontro
 Requeue - Reenfileiramento
 Respawn - Renascer
 Respawn - Renascer - Ressurgimento
