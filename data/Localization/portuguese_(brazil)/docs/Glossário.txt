@@ -29,7 +29,6 @@ Character - Personagem
 Checkpoint - Ponto de Controle - Marcadores
 Cityflight - Aerobus
 Cityflight Shuttle - Transporte Aerobus
-Claim - Reivindicar - Solicitar
 Claimjumpers - Invasores ?
 Cloudrest Retreat - Retiro nas Nuvens
 Cockpit - Cabine
@@ -68,7 +67,7 @@ Disabled - Desabilitado / Desativado
 Disengaging - Desengatar
 DISPATCH - DISTRIBUIÇÃO
 Distress Beacon - Sinal de Socorro (ou Sinalizador de Emergência)
-Docked - Acopladado (Acoplar) - Ancorado - Atracado - Docado
+Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
 Docking - Acoplando
 Docking Clamps - Garras de Acoplagem
 Drop off - Entrega/r, Descartar
@@ -80,6 +79,7 @@ Flair Item Dashboard - Item de Enfeite no Painel
 Flair Item Hanging - Item de Enfeite Pendurado
 Flash Hider - Freio de Boca
 Fleet Manager - Gerenciador de Frota
+Fleet Manager Terminal - Terminal Gerenciador de Frota
 Fuel Intake - Entrada de Combustível
 Fuel Nozzle - Bico de Combustível
 FUNT (fast and untraceable) - RENR (rápido e não rastreável)
@@ -167,7 +167,6 @@ Requeue - Reenfileiramento
 Respawn - Renascer
 Respawn - Renascer - Ressurgimento
 Restocking - Reestocando / Remuniciando
-Retrieve - Retirar - Recuperar
 Retro Thruster - Retropropulsor
 Rock - Rocha
 ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
@@ -188,7 +187,6 @@ Shipment Coordinator - Coordenador de Transporte - Coordenador de Embarque - Coo
 Shuttle - Transporte
 Silicon - Silício
 Site - Local
-site - local
 Skimmer - Drone
 Skyline - Skyline
 Sodium - Sódio
@@ -199,7 +197,6 @@ station lobby - saguão da estação
 Steel - Aço
 Stileron - Estilete
 Stims - Estimulantes
-Store - Armazenar
 strafe - deslocar-se
 Strafe Down - Deslocar (para baixo)
 Strafe Up - Deslocar (para cima)
@@ -239,6 +236,16 @@ Wearables - Vestíveis
 wreck - destroços
 wreck site - local dos destroços
 shipjacking - sequestro de naves
+spooled - alinhada/carregada (termo usado para o carregamento do alinhamento da Viagem Quântica)
+Temp. Rating - Classificação de Temp.
+xenoarchaeologist - xenoarqueóloga
+
+
+----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
+Store - Armazenar
+Claim - Reivindicar - Solicitar
+Retrieve - Recuperar - Retirar
+
 
 ----------------------------------------------- Armadura -----------------------------------------------
 Arms = Braços
@@ -252,6 +259,8 @@ Loadout - Equipamento
 Slot - Slot ou Espaço?
 Underbarrel - Slot Inferior
 Undersuit - Sub-Traje
+Core Compatibility - Compatibilidade com Torso (descrição de mochila)
+Flight Helmet - Capacete de Voo
 
 ----------------------------------------------- Armas -----------------------------------------------
 Distortion Scattergun = Espingarda de Distorção
@@ -262,6 +271,7 @@ Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 Missile Rack - Rack de Mísseis
 Scattergun - Arma de Dispersão
 
+
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
 Group Warrant Issued - Mandado de Grupo Emitido
@@ -270,6 +280,7 @@ over-achieving - super-ultrapassados
 Protect Site Trial Contract - Contrato de Teste: Proteja o local
 score - um golpe
 
+
 ----------------------------------------------- Empresas -----------------------------------------------
 BlacJac Security - BlacJac Security
 Covalex Shipping - Covalex Shipping
@@ -277,6 +288,7 @@ Crusader Security - Crusader Security
 ECKHART SECURITY - ECKHART SECURITY
 FTL Courier Services - FTL Courier Services
 RED WIND LINEHAUL - RED WIND LINEHAUL
+
 
 ----------------------------------------------- Naves -----------------------------------------------
 Ball Thruster - Propulsor Esférico
@@ -336,6 +348,8 @@ Touring - Passeio
 Touring - Turismo
 Trade - Comércio
 Versatile - Versátil
+Afterburner - Pós-combustão
+Afterburners - Pós-combustores
 
 
 
@@ -347,6 +361,7 @@ Lorville - Lorville
 Lorville - Lorville
 Orison - Orison
 
+
 ----------------------------------------------- Navegação -----------------------------------------------
 Aft - Popa/Traseiro
 Front - Proa/Frontal
@@ -354,13 +369,19 @@ Nadir - Inferior/Abaixo
 Port - Bombordo
 Starbord - Estibordo
 Zenith - Superior/Acima
+
+
 ----------------------------------------------- Personagens (NPCs) -----------------------------------------------
 ## A ideia aqui é registrarmos quais são homens ou mulheres, pra ajustarmos os devidos pronomes ou artigos ##
 #
 Vanzant = Oficial de ligação da  Crusader Security - Homem
 Rowena Dulli = (da CDF e Advocacy) - Mulher
+
+
 ----------------------------------------------- Termos Militares -----------------------------------------------
 What's your twenty? - Qual a sua localização? (referente ao código 10-20)
+
+
 
 ----------------------------------------------- Para o Arquivo de Nomes Traduzidos -----------------------------------------------
 Decoy Burst - Rajada de Decoy (visto que ficou acertado que Decoy não seria traduzido)
