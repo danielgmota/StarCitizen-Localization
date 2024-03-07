@@ -263,13 +263,13 @@ Core Compatibility - Compatibilidade com Torso (descrição de mochila)
 Flight Helmet - Capacete de Voo
 
 ----------------------------------------------- Armas -----------------------------------------------
-Distortion Scattergun = Espingarda de Distorção
+Distortion Scattergun = Dispersora de Distorção
 Gimbal Mount Weapon Slot - Espaço de Arma em Giroscópio Montado
 Laser Beam - Feixe Laser
 Laser Repeater - Repetidor Laser
 Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 Missile Rack - Rack de Mísseis
-Scattergun - Arma de Dispersão
+Scattergun - Dispersora - Arma de Dispersão
 
 
 ----------------------------------------------- Frases -----------------------------------------------
