@@ -239,7 +239,7 @@ shipjacking - sequestro de naves
 spooled - alinhada/carregada (termo usado para o carregamento do alinhamento da Viagem Quântica)
 Temp. Rating - Classificação de Temp.
 xenoarchaeologist - xenoarqueóloga
-
+Battle Suit - Traje de Batalha
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
