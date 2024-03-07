@@ -40,3 +40,17 @@ Para selecionar todo o texto do início da linha até o primeiro símbolo `~`
 ```
 ^([^~\n]*)
 ```
+
+# Procurar e Substituir Textos
+>Para procurar por determinados textos e substituí-los
+
+## Procurar pela sequência `00/00ºC` e trocar por `00 / 00 ºC`
+Pesquisa por
+```bash
+(\d+)/(\d+)(ºC)
+```
+Substitua por
+```bash
+$1 / $2 ºC
+```
+
