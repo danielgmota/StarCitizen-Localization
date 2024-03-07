@@ -25,6 +25,13 @@ Para selecionar variáveis do tipo `~mission(***)` dentro do texto.
 ```
 ___
 
+## Para selecionar as variáveis e/ou textos que começam com `[` e terminal com `]`
+Para selecinar as variáveis e/ou textos que começam com `[` e terminal com `]` como `[item]`
+```bash
+\[.*?\]
+```
+
+
 ## Isolar Variáveis
 Para selecionar todo o texto de uma linha exceto as variáveis que começam com `~` e terminam com `)`.
 ```
