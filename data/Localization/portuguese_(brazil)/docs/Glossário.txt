@@ -68,7 +68,8 @@ Disengaging - Desengatar
 DISPATCH - DISTRIBUIÇÃO
 Distress Beacon - Sinal de Socorro (ou Sinalizador de Emergência)
 Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
-Docking - Acoplando
+Docking - Acoplando - Ancoragem
+Undock - Desacoplar - Desancorar
 Docking Clamps - Garras de Acoplagem
 Drop off - Entrega/r, Descartar
 Enabled - Habilitado / Ativado
@@ -127,8 +128,8 @@ Noise - Ruído
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
 Nudge - Deslocar
-Off - Desativado/Desligado
-On - Ativado/Ligado
+Off - Desativado/Desligado - Desligar
+On - Ativado/Ligado - Ligar
 Optics - Lente
 orbital sentries - sentinelas orbitais
 Ore - Minério
@@ -170,6 +171,8 @@ Restocking - Reestocando / Remuniciando
 Retro Thruster - Retropropulsor
 Rock - Rocha
 ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
+Pitch - Eixo Lateral? - Inclinação?
+Yaw - Eixo Vertical? - Guinada?
 Rotate Pitch - Rotacionar Eixo Lateral
 Rotate Yaw - Rotacionar Eixo Vertical
 Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
@@ -240,6 +243,9 @@ spooled - alinhada/carregada (termo usado para o carregamento do alinhamento da 
 Temp. Rating - Classificação de Temp.
 xenoarchaeologist - xenoarqueóloga
 Battle Suit - Traje de Batalha
+Rate Of Fire - Cadência de Disparo
+Takedown - Derrubada
+Sprint - Corrida - Correr
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
