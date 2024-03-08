@@ -246,6 +246,7 @@ Battle Suit - Traje de Batalha
 Rate Of Fire - Cadência de Disparo
 Takedown - Derrubada
 Sprint - Corrida - Correr
+Zeroing - Ajuste de Mira
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
