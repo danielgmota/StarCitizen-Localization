@@ -247,6 +247,7 @@ Rate Of Fire - Cadência de Disparo
 Takedown - Derrubada
 Sprint - Corrida - Correr
 Zeroing - Ajuste de Mira
+ball turret - torreta esférica
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
