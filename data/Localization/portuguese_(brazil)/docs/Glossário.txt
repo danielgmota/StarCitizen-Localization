@@ -346,7 +346,6 @@ Scout - Observador
 Search and Rescue - Busca e Resgate
 Short Range Patrol Fighter - Caça de Patrulha de Curto Alcance
 Snub - Mini
-Snub Fighter - Caça Snub
 Snub Fighter - Mini Caça
 Stealth - Furtivo
 Stealth Bomber - Bombardeiro Furtivo
