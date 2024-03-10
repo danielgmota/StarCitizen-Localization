@@ -4,6 +4,7 @@
 Advocacy - Advocacia
 Advocacy Description - Descrição da Advocacia
 Agricultural Supply - Suprimento Agrícola
+Aid Shelter - Abrigo de Assistência ?
 Airlock - Câmara a Vácuo
 Alloy - Liga
 Ammo Box - Caixa de Munição
@@ -74,8 +75,11 @@ Docking Clamps - Garras de Acoplagem
 Drop off - Entrega/r, Descartar
 Enabled - Habilitado / Ativado
 Encryption Key - Chave Criptográfica
+Engage Tool - Ferramenta de Engate
 Environmental Hazard - Perigo Ambiental
 Escapee Bounty Assignment - Missão de Recompensa de Fugitivo
+facility - Instalação
+farming outpost - posto avançado agrícola
 Flair Item Dashboard - Item de Enfeite no Painel
 Flair Item Hanging - Item de Enfeite Pendurado
 Flash Hider - Freio de Boca
@@ -96,6 +100,7 @@ hatjob - chapeleiro
 Heavy - Pesado
 holster - Guardar (coldre é apenas para pistola)
 Hostile/s - Inimigo/s
+HydroFarm - Hidrofazenda
 ICU - UTI
 Invite - Convidar
 Journal - Jornal
@@ -244,16 +249,12 @@ Temp. Rating - Classificação de Temp.
 xenoarchaeologist - xenoarqueóloga
 Battle Suit - Traje de Batalha
 Rate Of Fire - Cadência de Disparo
-Takedown - Derrubada
-Sprint - Corrida - Correr
-Zeroing - Ajuste de Mira
-ball turret - torreta esférica
-facility - Instalação
-farming outpost - posto avançado agrícola
+Reclamation & Disposal - Recuperação e Descarte <=== Nome de uma instituição. Creio que entra na regra de não traduzir
 Shipping Hub - Centro de Transporte
-Reclamation & Disposal - Recuperação e Descarte
-HydroFarm - Hidrofazenda
-Aid Shelter - Abrigo de Assistência ?
+Sprint - Corrida - Correr
+Takedown - Derrubada
+Zeroing - Ajuste de Mira
+
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
@@ -277,6 +278,7 @@ Core Compatibility - Compatibilidade com Torso (descrição de mochila)
 Flight Helmet - Capacete de Voo
 
 ----------------------------------------------- Armas -----------------------------------------------
+ball turret - torreta esférica
 Distortion Scattergun = Dispersora de Distorção
 Gimbal Mount Weapon Slot - Espaço de Arma em Giroscópio Montado
 Laser Beam - Feixe Laser
