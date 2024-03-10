@@ -249,7 +249,7 @@ Temp. Rating - Classificação de Temp.
 xenoarchaeologist - xenoarqueóloga
 Battle Suit - Traje de Batalha
 Rate Of Fire - Cadência de Disparo
-Reclamation & Disposal - Recuperação e Descarte
+Reclamation & Disposal - Recuperação e Descarte <=== Nome de uma instituição. Creio que entra na regra de não traduzir
 Shipping Hub - Centro de Transporte
 Sprint - Corrida - Correr
 Takedown - Derrubada
