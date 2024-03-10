@@ -248,6 +248,12 @@ Takedown - Derrubada
 Sprint - Corrida - Correr
 Zeroing - Ajuste de Mira
 ball turret - torreta esférica
+facility - Instalação
+farming outpost - posto avançado agrícola
+Shipping Hub - Centro de Transporte
+Reclamation & Disposal - Recuperação e Descarte
+HydroFarm - Hidrofazenda
+Aid Shelter - Abrigo de Assistência ?
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
