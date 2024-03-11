@@ -51,7 +51,7 @@ Para selecionar todo o texto do início da linha até o primeiro símbolo `~`
 # Procurar e Substituir Textos
 >Para procurar por determinados textos e substituí-los
 
-## Procurar pela sequência `00/00ºC` e trocar por `00 / 00 ºC`
+## Procurar por texto com apenas números se usa `(\d+)`. Exemplo: `00/00ºC` e trocar por `00 / 00 ºC`
 Pesquisa por
 ```bash
 (\d+)/(\d+)(ºC)
@@ -59,5 +59,19 @@ Pesquisa por
 Substitua por
 ```bash
 $1 / $2 ºC
+```
+
+## Procurar por textos com apenas letras se usa `(\w+)`. Exemplo: `(\w+) 1.0b`
+
+## Procurar por textos com letras e números se usa o coringa `(.+)`. Exemplo: `(?<==)(.+) Targeting Computer`
+>Para procurar por todo texto depois so sinal `=` até Targeting Computer
+```bash
+(?<==)(.+) Targeting Computer
+```
+E podemos substituir este texto utilizando a captura de variável `$`. Exemplo: `$1` `$2` `$3`.
+> Para substituir utilizando texto anterior à `Targeting Computer` em variável
+
+```bash
+Computador de Mira $1
 ```
 
