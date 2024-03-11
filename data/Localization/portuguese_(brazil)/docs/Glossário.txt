@@ -82,7 +82,8 @@ facility - Instalação
 farming outpost - posto avançado agrícola
 Flair Item Dashboard - Item de Enfeite no Painel
 Flair Item Hanging - Item de Enfeite Pendurado
-Flash Hider - Freio de Boca
+Flash Hider - Quebra Chamas
+Muzzle - Freio de Boca
 Fleet Manager - Gerenciador de Frota
 Fleet Manager Terminal - Terminal Gerenciador de Frota
 Fuel Intake - Entrada de Combustível
@@ -254,7 +255,16 @@ Shipping Hub - Centro de Transporte
 Sprint - Corrida - Correr
 Takedown - Derrubada
 Zeroing - Ajuste de Mira
-
+Flawed - Imperfeito
+Multilock - Multitrava
+Engine - Motor
+Suppressor - Silenciador
+Compensator - Compensador
+Stabilizer - Estabilizador
+Joint Propulsor - Propulsor Articular
+Tachyon Cannon - Canhão Táquion
+Marines - Fuzileiros ?
+Outlaws - Bandidos
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
@@ -276,6 +286,10 @@ Underbarrel - Slot Inferior
 Undersuit - Sub-Traje
 Core Compatibility - Compatibilidade com Torso (descrição de mochila)
 Flight Helmet - Capacete de Voo
+Heavy Armor - Armadura Pesada
+Medium Armor - Armadura Média
+Light Armor - Armadura Leve
+
 
 ----------------------------------------------- Armas -----------------------------------------------
 ball turret - torreta esférica
@@ -286,6 +300,7 @@ Laser Repeater - Repetidor Laser
 Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 Missile Rack - Rack de Mísseis
 Scattergun - Dispersora - Arma de Dispersão
+
 
 
 ----------------------------------------------- Frases -----------------------------------------------
