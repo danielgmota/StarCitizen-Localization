@@ -265,6 +265,25 @@ Joint Propulsor - Propulsor Articular
 Tachyon Cannon - Canhão Táquion
 Marines - Fuzileiros ?
 Outlaws - Bandidos
+Journeyman - Proficiente ?
+Single Seater Craft - Embarcação de Assento Único
+Small Multicrew Craft - Embarcação Pequena Multitripulada
+Large Multicrew Craft - Embarcação Grande Multitripulada
+Capital Class Vessel - Embarcação Classe Subcapital
+Very Low-Risk Target - Alvo de Risco Muito Baixo
+Low-Risk Target - Alvo de Risco Baixo
+Moderate-Risk Target - Alvo de Risco Moderado
+High-Risk Target - Alvo de Risco Alto
+Very High-Risk Target - Alvo de Risco Muito Alto
+Extreme-Risk Target - Alvo de Risco Extremo
+(VLRT) - (ARMB)
+(LRT) - (ARB)
+(MRT) - (ARM)
+(HRT) - (ARA)
+(VHRT) - (ARMA)
+(ERT) - (ARE)
+(?RT) - (AR?)
+Gathering - Encontro
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
