@@ -171,14 +171,14 @@ Relocate - Realocar
 Remaining Sites of Hostiles - Locais Restantes de Inimigos
 Rendezvous Beacon - Sinalizador de Encontro
 Requeue - Reenfileiramento
-Respawn - Renascer
 Respawn - Renascer - Ressurgimento
 Restocking - Reestocando / Remuniciando
 Retro Thruster - Retropropulsor
 Rock - Rocha
 ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
-Pitch - Eixo Lateral? - Inclinação?
-Yaw - Eixo Vertical? - Guinada?
+Roll - Rolagem - Rolamento
+Pitch - Eixo Lateral - Inclinação
+Yaw - Eixo Vertical - Guinada
 Rotate Pitch - Rotacionar Eixo Lateral
 Rotate Yaw - Rotacionar Eixo Vertical
 Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
@@ -284,6 +284,9 @@ Extreme-Risk Target - Alvo de Risco Extremo
 (ERT) - (ARE)
 (?RT) - (AR?)
 Gathering - Encontro
+Optics (Sx) - Mira (Sx) (Colocar Mira quando estiver na descrição do que tem na arma e não das características)
+Optics - Óptica
+KILLS - ABATES
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
