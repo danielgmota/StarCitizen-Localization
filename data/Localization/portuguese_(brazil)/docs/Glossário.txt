@@ -265,6 +265,8 @@ Joint Propulsor - Propulsor Articular
 Tachyon Cannon - Canhão Táquion
 Marines - Fuzileiros ?
 Outlaws - Bandidos
+Gimbal Mount - Suporte de Giroscopio
+Thumbstick - Analógico
 Journeyman - Proficiente ?
 Single Seater Craft - Embarcação de Assento Único
 Small Multicrew Craft - Embarcação Pequena Multitripulada
@@ -287,6 +289,7 @@ Gathering - Encontro
 Optics (Sx) - Mira (Sx) (Colocar Mira quando estiver na descrição do que tem na arma e não das características)
 Optics - Óptica
 KILLS - ABATES
+
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
