@@ -16,7 +16,6 @@ AutoLand - Auto-Pouso
 Avionics - Aviônicos
 Badge - Emblema
 Barrel - Cano
-Beacon - Alerta
 blue-on-blue - Fogo Amigo
 Boost - Impulso
 Bounties - Caçadas
@@ -67,7 +66,17 @@ Deployables - Implantáveis
 Disabled - Desabilitado / Desativado
 Disengaging - Desengatar
 DISPATCH - DISTRIBUIÇÃO
-Distress Beacon - Sinal de Socorro (ou Sinalizador de Emergência)
+Beacon - Alerta
+Rendezvous Beacon - Alerta de Encontro
+Quantum Beacon - Alerta Quântico
+Patrol Beacon - Alerta de Patrulha
+Distress Beacon - Alerta de Socorro
+Quantum Boost - Impulso Quântico
+QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
+Quantum Drive - Motor Quântico
+Quantum Fuel - Combustível Quântico
+QUANTUM SNARE - ARMADILHA QUÂNTICA
+Quantum Travel - Viagem Quântica
 Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
 Docking - Acoplando - Ancoragem
 Undock - Desacoplar - Desancorar
@@ -158,19 +167,11 @@ Power Source - Fonte de Energia
 Power Supply - Suprimento de Energia
 Proximity Flight Assist - Assistente de Proximidade
 Pyro Gateway - Portal Pyro
-Quantum Beacon - Sinalizador Quântico
-Quantum Boost - Impulso Quântico
-QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
-Quantum Drive - Motor Quântico
-Quantum Fuel - Combustível Quântico
-QUANTUM SNARE - ARMADILHA QUÂNTICA
-Quantum Travel - Viagem Quântica
 Quartz - Quartzo
 rate - avalie
 Recover - Recupere
 Relocate - Realocar
 Remaining Sites of Hostiles - Locais Restantes de Inimigos
-Rendezvous Beacon - Sinalizador de Encontro
 Requeue - Reenfileiramento
 Respawn - Renascer - Ressurgimento
 Restocking - Reestocando / Remuniciando
