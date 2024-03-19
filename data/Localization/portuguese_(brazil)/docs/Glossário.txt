@@ -33,7 +33,7 @@ Cityflight Shuttle - Transporte Aerobus
 Claimjumpers - Invasores ?
 Cloudrest Retreat - Retiro nas Nuvens
 Cockpit - Cabine
-Comm Array - Satélite
+Comm Array - Matriz de Comunicação - Satélite (Não faz muito sentido ser satélite)
 Comm Uplink - Comm Uplink
 Commlink - Commlink
 Commodity - Mercadorias
