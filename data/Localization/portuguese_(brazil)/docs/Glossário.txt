@@ -271,7 +271,7 @@ Journeyman - Proficiente ?
 Single Seater Craft - Embarcação de Assento Único
 Small Multicrew Craft - Embarcação Pequena Multitripulada
 Large Multicrew Craft - Embarcação Grande Multitripulada
-Capital Class Vessel - Embarcação Classe Subcapital
+Capital Class Vessel - Embarcação Classe Capital
 Very Low-Risk Target - Alvo de Risco Muito Baixo
 Low-Risk Target - Alvo de Risco Baixo
 Moderate-Risk Target - Alvo de Risco Moderado
