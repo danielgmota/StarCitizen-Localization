@@ -74,6 +74,7 @@ Undock - Desacoplar - Desancorar
 Docking Clamps - Garras de Acoplagem
 Drop off - Entrega/r, Descartar
 Enabled - Habilitado / Ativado
+Cryptokey - Criptochave
 Encryption Key - Chave Criptográfica
 Engage Tool - Ferramenta de Engate
 Environmental Hazard - Perigo Ambiental
@@ -271,7 +272,7 @@ Journeyman - Proficiente ?
 Single Seater Craft - Embarcação de Assento Único
 Small Multicrew Craft - Embarcação Pequena Multitripulada
 Large Multicrew Craft - Embarcação Grande Multitripulada
-Capital Class Vessel - Embarcação Classe Capital
+Capital Class Vessel - Embarcação Classe Subcapital
 Very Low-Risk Target - Alvo de Risco Muito Baixo
 Low-Risk Target - Alvo de Risco Baixo
 Moderate-Risk Target - Alvo de Risco Moderado
@@ -289,6 +290,9 @@ Gathering - Encontro
 Optics (Sx) - Mira (Sx) (Colocar Mira quando estiver na descrição do que tem na arma e não das características)
 Optics - Óptica
 KILLS - ABATES
+comm relays - Relés de Comunicação
+comm drones - Drones de Comunicação
+WetWork - Banho de Sangue
 
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
