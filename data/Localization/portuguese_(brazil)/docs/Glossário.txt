@@ -26,7 +26,7 @@ Buff - Melhoria
 Cargo Carrier - Transportador de Carga
 Cargo Grid - Grade de Carga
 Character - Personagem
-Checkpoint - Ponto de Controle - Marcadores
+Checkpoint - Ponto de Controle - Marcadores - Ponto de Verificação
 Cityflight - Aerobus
 Cityflight Shuttle - Transporte Aerobus
 Claimjumpers - Invasores ?
@@ -78,8 +78,8 @@ Quantum Fuel - Combustível Quântico
 QUANTUM SNARE - ARMADILHA QUÂNTICA
 Quantum Travel - Viagem Quântica
 Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
-Docking - Acoplando - Ancoragem
-Undock - Desacoplar - Desancorar
+Docking - Acoplando - Ancoragem - Dockagem - decolagem
+Undock - Desacoplar - Desancorar - Aterrisagem
 Docking Clamps - Garras de Acoplagem
 Drop off - Entrega/r, Descartar
 Enabled - Habilitado / Ativado
@@ -297,7 +297,15 @@ comm drones - Drones de Comunicação
 WetWork - Banho de Sangue
 Boom - Braço
 Fuel Pod - Célula de Combustível (ou Cápsulas de Combustível?) (ou Módulo de Combustível?)
+Fuel Refinery Pod - Módulo de Refinaria de Combustível
+Hydrogen pods - Célula de Hidrogênio
 Quantum Pods - Células Quânticas (ou Cápsulas Quânticas?) (ou Módulo Quânticos?)
+Joint Thruster - Propulsor Articular
+Magazine - Carregador
+Scraper Beam - Raio Raspador
+Docking Collar - Colar de Encaixe
+Derelict Site - Local Abandonado
+
 
 
 
@@ -364,6 +372,7 @@ Capital Ship - Nave Capital
 CapShip - NavCap (Capital Ship)
 Cargo - Carga
 Combat Fighter - Caça de Combate
+Combat - Combate
 Corvette - Corveta
 Courier - Entregador
 Defense - Defesa
