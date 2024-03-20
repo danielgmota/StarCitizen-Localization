@@ -175,6 +175,7 @@ Remaining Sites of Hostiles - Locais Restantes de Inimigos
 Requeue - Reenfileiramento
 Respawn - Renascer - Ressurgimento
 Restocking - Reestocando / Remuniciando
+Restock - Restoque
 Retro Thruster - Retropropulsor
 Rock - Rocha
 ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
@@ -294,6 +295,11 @@ KILLS - ABATES
 comm relays - Relés de Comunicação
 comm drones - Drones de Comunicação
 WetWork - Banho de Sangue
+Boom - Braço
+Fuel Pod - Célula de Combustível (ou Cápsulas de Combustível?) (ou Módulo de Combustível?)
+Quantum Pods - Células Quânticas (ou Cápsulas Quânticas?) (ou Módulo Quânticos?)
+
+
 
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
