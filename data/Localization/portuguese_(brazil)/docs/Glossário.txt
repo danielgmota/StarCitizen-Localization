@@ -71,9 +71,10 @@ Rendezvous Beacon - Alerta de Encontro
 Quantum Beacon - Alerta Quântico
 Patrol Beacon - Alerta de Patrulha
 Distress Beacon - Alerta de Socorro
+Service Beacon Contract - Contrato de Alerta de Serviço
 Quantum Boost - Impulso Quântico
 QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
-Quantum Drive - Motor Quântico
+Quantum Drive - Motor Quântico - Unidade Quântica?
 Quantum Fuel - Combustível Quântico
 QUANTUM SNARE - ARMADILHA QUÂNTICA
 Quantum Travel - Viagem Quântica
@@ -151,7 +152,7 @@ orbital sentries - sentinelas orbitais
 Ore - Minério
 Outcasts - Exilados - Párias - Foragidos - Forasteiros (ainda não temos esta informação, mas teremos de ver se não seria o nome de um grupo/facção)
 Outcasts Description - Descrição dos Exilados ?
-Outlaw's - Foras da Lei - Criminosos
+Outlaw's - Foras-da-Lei - Criminosos
 Outpost - Posto Avançado
 outskirts - arredores ou periferia.
 Overhead Shields - Escudos Superiores ?
@@ -305,6 +306,9 @@ Magazine - Carregador
 Scraper Beam - Raio Raspador
 Docking Collar - Colar de Encaixe
 Derelict Site - Local Abandonado
+Vehicle Manager - Gerenciador de Veículos
+Shatter - Estilhaçamento - Fragmentação
+range - alcance
 
 
 
@@ -312,7 +316,7 @@ Derelict Site - Local Abandonado
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
-Claim - Reivindicar - Solicitar
+Claim - Solicitar - Reivindicar
 Retrieve - Recuperar - Retirar
 
 
