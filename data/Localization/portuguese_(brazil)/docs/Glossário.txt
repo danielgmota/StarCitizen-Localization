@@ -177,7 +177,6 @@ Requeue - Reenfileiramento
 Respawn - Renascer - Ressurgimento
 Restocking - Reestocando / Remuniciando
 Restock - Restoque
-Retro Thruster - Retropropulsor
 Rock - Rocha
 ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
 Roll - Rolagem - Rolamento
@@ -229,6 +228,9 @@ Throwables - Arremessáveis
 Thruster - Propulsor
 Thruster Retro - Propulsor Reverso
 Thrusters - Propulsores
+Retro Thruster - Retropropulsor
+Joint Thruster - Propulsor Articular
+Fixed Thruster - Propulsor Fixo
 Tin - Estanho
 Tin Ore - Minério de Estanho
 Titanium - Titânio
@@ -265,7 +267,6 @@ Engine - Motor
 Suppressor - Silenciador
 Compensator - Compensador
 Stabilizer - Estabilizador
-Joint Propulsor - Propulsor Articular
 Tachyon Cannon - Canhão Táquion
 Marines - Fuzileiros ?
 Outlaws - Bandidos
@@ -301,7 +302,6 @@ Fuel Pod - Célula de Combustível (ou Cápsulas de Combustível?) (ou Módulo d
 Fuel Refinery Pod - Módulo de Refinaria de Combustível
 Hydrogen pods - Célula de Hidrogênio
 Quantum Pods - Células Quânticas (ou Cápsulas Quânticas?) (ou Módulo Quânticos?)
-Joint Thruster - Propulsor Articular
 Magazine - Carregador
 Scraper Beam - Raio Raspador
 Docking Collar - Colar de Encaixe
