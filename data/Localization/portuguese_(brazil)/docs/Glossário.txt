@@ -78,8 +78,8 @@ Quantum Fuel - Combustível Quântico
 QUANTUM SNARE - ARMADILHA QUÂNTICA
 Quantum Travel - Viagem Quântica
 Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
-Docking - Acoplando - Ancoragem - Dockagem - decolagem
-Undock - Desacoplar - Desancorar - Aterrisagem
+Docking - Acoplando - Ancoragem - Dockagem - Aterrisagem
+Undock - Desacoplar - Desancorar - Decolagem
 Docking Clamps - Garras de Acoplagem
 Drop off - Entrega/r, Descartar
 Enabled - Habilitado / Ativado
