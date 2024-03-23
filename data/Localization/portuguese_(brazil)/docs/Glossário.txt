@@ -348,7 +348,7 @@ Laser Repeater - Repetidor Laser
 Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 Missile Rack - Rack de Mísseis
 Scattergun - Dispersora - Arma de Dispersão
-
+Weapon Mount - Suporte de Arma
 
 
 ----------------------------------------------- Frases -----------------------------------------------
