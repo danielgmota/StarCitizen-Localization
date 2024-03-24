@@ -349,7 +349,7 @@ Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 Missile Rack - Rack de Mísseis
 Scattergun - Dispersora - Arma de Dispersão
 Weapon Mount - Suporte de Arma
-
+Ballistic Repeater - Repetidor Balístico
 
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
