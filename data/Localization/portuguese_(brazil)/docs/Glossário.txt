@@ -267,7 +267,6 @@ Engine - Motor
 Suppressor - Silenciador
 Compensator - Compensador
 Stabilizer - Estabilizador
-Tachyon Cannon - Canhão Táquion
 Marines - Fuzileiros ?
 Outlaws - Bandidos
 Gimbal Mount - Suporte de Giroscopio
@@ -350,6 +349,10 @@ Missile Rack - Rack de Mísseis
 Scattergun - Dispersora - Arma de Dispersão
 Weapon Mount - Suporte de Arma
 Ballistic Repeater - Repetidor Balístico
+Ballistic Gatling - Gatling Balístico
+Ballistic Autocannon - Autocanhão Balístico
+Tachyon Cannon - Canhão Táquion
+Cannon - Canhão
 
 ----------------------------------------------- Frases -----------------------------------------------
 big score - grande golpe
