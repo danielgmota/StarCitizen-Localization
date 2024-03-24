@@ -75,3 +75,21 @@ E podemos substituir este texto utilizando a captura de variável `$`. Exemplo: 
 Computador de Mira $1
 ```
 
+## Procurar por textos e trocar a posição de palavras substituindo ou não alguma palavra.
+Exemplo: Procurar por palavras após o símbolo de `=` que contenham letras, números ou símbolos seguidos da palavra `Cannon`, e alterar a ordem delas substituindo `Cannon` por `Canhão`. Como: `C-912 Cannon` ficando: `Canhão C-912`
+
+Caso tenha apenas uma palavra antes de `Cannon` pesquisa por:
+```bash
+(?<==)(\S+) Cannon
+```
+Caso possa ter várias palavras antes de `Cannon` pesquise por:
+```bash
+(?<==)(.*?) Cannon
+```
+
+Substitua por:
+```bash
+Canhão $1
+```
+
+
