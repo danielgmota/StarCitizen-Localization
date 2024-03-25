@@ -308,6 +308,9 @@ Derelict Site - Local Abandonado
 Vehicle Manager - Gerenciador de Veículos
 Shatter - Estilhaçamento - Fragmentação
 range - alcance
+Augmented Cockpit Display (ACD) - Visor Aumentado da Cabine (VAC)
+Retract - Retrair
+Deploy - Estender
 
 
 
