@@ -72,12 +72,13 @@ Quantum Beacon - Alerta Quântico
 Patrol Beacon - Alerta de Patrulha
 Distress Beacon - Alerta de Socorro
 Service Beacon Contract - Contrato de Alerta de Serviço
+Quantum Travel - Viagem Quântica
 Quantum Boost - Impulso Quântico
-QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
 Quantum Drive - Motor Quântico - Unidade Quântica?
 Quantum Fuel - Combustível Quântico
 QUANTUM SNARE - ARMADILHA QUÂNTICA
-Quantum Travel - Viagem Quântica
+Quantum Dampener - Bloqueador Quântico
+QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
 Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
 Docking - Acoplando - Ancoragem - Dockagem - Aterrisagem
 Undock - Desacoplar - Desancorar - Decolagem
@@ -403,6 +404,7 @@ Interdiction - Interdição
 Light Cargo - Carga Leve
 Light Fighter - Caça Leve
 Light Freight - Frete Leve
+Medium Freight - Frete Médio
 Medium Fighter - Caça Médio
 Military Transport - Transporte Militar
 Militia - Milícia
@@ -435,7 +437,11 @@ Trade - Comércio
 Versatile - Versátil
 Afterburner - Pós-combustão
 Afterburners - Pós-combustores
-
+Snub Bomber - Mini Bombardeiro
+Cargo - Cargueiro
+Heavy Mining - Mineração Pesada
+Medium Mining - Mineração Médio
+Light Mining - Mineração Leve
 
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
