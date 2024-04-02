@@ -442,6 +442,7 @@ Cargo - Cargueiro
 Heavy Mining - Mineração Pesada
 Medium Mining - Mineração Médio
 Light Mining - Mineração Leve
+Free Look - Olhar Livre
 
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
