@@ -164,7 +164,7 @@ Pickup - Coleta/r, Retira/r
 Plasma Fuel - Combustível de Plasma
 pod - cápsula
 Power - Energia
-Power Plant/PowerPlant - Gerador Energia
+Power Plant/PowerPlant - Gerador de Energia
 Power Source - Fonte de Energia
 Power Supply - Suprimento de Energia
 Proximity Flight Assist - Assistente de Proximidade
@@ -312,6 +312,8 @@ range - alcance
 Augmented Cockpit Display (ACD) - Visor Aumentado da Cabine (VAC)
 Retract - Retrair
 Deploy - Estender
+Ball Thruster - Propulsor Esférico
+hardpoints - Pronto Rígido (Traduzir? Por enquanto não)
 
 
 
@@ -377,7 +379,7 @@ RED WIND LINEHAUL - RED WIND LINEHAUL
 
 
 ----------------------------------------------- Naves -----------------------------------------------
-Ball Thruster - Propulsor Esférico
+Anti-Aircraft - Antiaéreo
 Bomber - Bombardeiro
 Capital Ship - Nave Capital
 CapShip - NavCap (Capital Ship)
@@ -395,8 +397,8 @@ Freight - Frete
 Frigate - Fragata
 Ground Combat - Combate Terrestre
 Gunship - Caça - Guerra (a meu ver não pode ser caça, as Gunships não são naves rápidas)
-hardpoints - Pronto Rígido (Traduzir? Por enquanto não)
 Heavy Fighter = Caça Pesado
+Heavy Salvage - Sucateiro Pesado
 Holiday Wreath - Coroa de Natal
 Infiltration - Infiltração
 Interceptor - Interceptador
@@ -404,14 +406,15 @@ Interdiction - Interdição
 Light Cargo - Carga Leve
 Light Fighter - Caça Leve
 Light Freight - Frete Leve
+Medical - Médico
 Medium Freight - Frete Médio
 Medium Fighter - Caça Médio
 Military Transport - Transporte Militar
 Militia - Milícia
+Minelayer - Lançador de Minas
 Mining - Mineração
 Multi-Function - Multi-Função
 Passenger Transit - Trânsito de Passageiros
-Pathfinder - Desbravador
 Pathfinder - Desbravador
 Patrol - Patrulha
 Policing - Policiamento
@@ -419,6 +422,7 @@ Racing - Corrida
 Refueling - Reabastecimento
 Refuelling - Abastecimento
 Repair - Reparador
+Heavy Repair - Reparador Pesado
 Rocket Pod - Suporte de Foguetes ou Módulo de Foguetes?
 Salvage - Sucateamento
 Salvage - Sucateiro
@@ -431,9 +435,9 @@ Snub Fighter - Mini Caça
 Stealth - Furtivo
 Stealth Bomber - Bombardeiro Furtivo
 Stealth Fighter - Caça Furtivo
-Touring - Passeio
-Touring - Turismo
+Touring - Turismo - Passeio
 Trade - Comércio
+Transport - Transporte
 Versatile - Versátil
 Afterburner - Pós-combustão
 Afterburners - Pós-combustores
