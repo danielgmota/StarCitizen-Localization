@@ -318,7 +318,8 @@ Quantum Enforcement - Imposição Quântica
 Afterburner - Pós-combustão
 Afterburners - Pós-combustores
 Free Look - Visão Livre
-
+Scrub - Nivelar (Scrub Algo : Scrub Pressure - Nivelar Pressão | Scrub Atmosphere- Nivelar Atmosfera) (No contexto de Nivelar algo) - A Revisar 45039 a 45041
+Inner Thought - Roda de Seleção
 
 
 
