@@ -76,7 +76,7 @@ Quantum Travel - Viagem Quântica
 Quantum Boost - Impulso Quântico
 Quantum Drive - Motor Quântico - Unidade Quântica?
 Quantum Fuel - Combustível Quântico
-QUANTUM SNARE - ARMADILHA QUÂNTICA
+QUANTUM SNARE - Armadilha Quântica
 Quantum Dampener - Bloqueador Quântico
 QUANTUM DAMPENER - IMPEDIMENTO QUÂNTICA
 Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
@@ -314,6 +314,10 @@ Retract - Retrair
 Deploy - Estender
 Ball Thruster - Propulsor Esférico
 hardpoints - Pronto Rígido (Traduzir? Por enquanto não)
+Quantum Enforcement - Imposição Quântica
+Afterburner - Pós-combustão
+Afterburners - Pós-combustores
+Free Look - Visão Livre
 
 
 
@@ -404,11 +408,15 @@ Infiltration - Infiltração
 Interceptor - Interceptador
 Interdiction - Interdição
 Light Cargo - Carga Leve
+Light Carrier - Porta-Naves Leve
 Light Fighter - Caça Leve
 Light Freight - Frete Leve
+Light Salvage - Sucateiro Leve
+Luxury -  Luxo
 Medical - Médico
 Medium Freight - Frete Médio
 Medium Fighter - Caça Médio
+Medium Data - Dados Médios
 Military Transport - Transporte Militar
 Militia - Milícia
 Minelayer - Lançador de Minas
@@ -417,20 +425,29 @@ Multi-Function - Multi-Função
 Passenger Transit - Trânsito de Passageiros
 Pathfinder - Desbravador
 Patrol - Patrulha
+Personal Transport - Transporte Pessoal
 Policing - Policiamento
 Racing - Corrida
+Refining - Refino
 Refueling - Reabastecimento
 Refuelling - Abastecimento
 Repair - Reparador
+Reporting - Reportagem
+Heavy Construction - Construção Pesada
+Heavy Freight - Frete Pesado
+Heavy Mining - Mineração Pesada
 Heavy Repair - Reparador Pesado
+Heavy Refueling - Reabastecimento Pesado
+Recon - Reconhecimento
 Rocket Pod - Suporte de Foguetes ou Módulo de Foguetes?
 Salvage - Sucateamento
 Salvage - Sucateiro
 Science - Ciência
-Scout - Observador
+Scout - Observador - Batedor
 Search and Rescue - Busca e Resgate
 Short Range Patrol Fighter - Caça de Patrulha de Curto Alcance
 Snub - Mini
+Snub Bomber - Mini Bombardeiro
 Snub Fighter - Mini Caça
 Stealth - Furtivo
 Stealth Bomber - Bombardeiro Furtivo
@@ -439,14 +456,11 @@ Touring - Turismo - Passeio
 Trade - Comércio
 Transport - Transporte
 Versatile - Versátil
-Afterburner - Pós-combustão
-Afterburners - Pós-combustores
 Snub Bomber - Mini Bombardeiro
 Cargo - Cargueiro
 Heavy Mining - Mineração Pesada
 Medium Mining - Mineração Médio
 Light Mining - Mineração Leve
-Free Look - Olhar Livre
 
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
