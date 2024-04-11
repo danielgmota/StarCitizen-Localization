@@ -301,7 +301,7 @@ Boom - Braço
 Fuel Pod - Célula de Combustível (ou Cápsulas de Combustível?) (ou Módulo de Combustível?)
 Fuel Refinery Pod - Módulo de Refinaria de Combustível
 Hydrogen pods - Célula de Hidrogênio
-Quantum Pods - Células Quânticas (ou Cápsulas Quânticas?) (ou Módulo Quânticos?)
+Quantum Pods - Células Quânticas (ou Cápsulas Quânticas?) (ou Módulo Quânticos?) (ou Reservatório) (ou Sacolas) (ou Silo)
 Magazine - Carregador
 Scraper Beam - Raio Raspador
 Docking Collar - Colar de Encaixe
@@ -320,7 +320,8 @@ Afterburners - Pós-combustores
 Free Look - Visão Livre
 Scrub - Nivelar (Scrub Algo : Scrub Pressure - Nivelar Pressão | Scrub Atmosphere- Nivelar Atmosfera) (No contexto de Nivelar algo) - A Revisar 45039 a 45041
 Inner Thought - Roda de Seleção
-
+Staggered (STGR) - Alternado (ALTRN) ou (ALTND)?
+Standard (STD) - Padrão (PDR)
 
 
 
