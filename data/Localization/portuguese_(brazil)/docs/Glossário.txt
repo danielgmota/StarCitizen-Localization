@@ -322,7 +322,10 @@ Inner Thought - Roda de Seleção
 Staggered (STGR) - Alternado (ALTRN) ou (ALTND)?
 Standard (STD) - Padrão (PDR)
 Cross Section (CS) - Seção Cruzada (SC)
-
+Cognitive Impairment - Comprometimento Cognitivo
+Immune Boosting - Reforço Imunológico
+Cognitive Boosting - Reforço Cognitivo
+Immune Suppressing - Supressão Imunológica
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
