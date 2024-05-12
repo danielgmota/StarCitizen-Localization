@@ -77,8 +77,8 @@ Quantum Boost - Impulso Quântico
 Quantum Drive - Motor Quântico - Unidade Quântica?
 Quantum Fuel - Combustível Quântico
 QUANTUM SNARE - Armadilha Quântica
-Quantum Dampener - Bloqueador Quântico
-Quantum Enforcement - Imposição Quântica
+Quantum Dampener - Bloqueador Quântico - Bloqueio Quântico
+Quantum Enforcement - Bloqueio Quântico
 Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
 Docking - Acoplando - Ancoragem - Dockagem - Aterrisagem
 Undock - Desacoplar - Desancorar - Decolagem
@@ -389,6 +389,7 @@ RED WIND LINEHAUL - RED WIND LINEHAUL
 ----------------------------------------------- Naves -----------------------------------------------
 Anti-Aircraft - Antiaéreo
 Bomber - Bombardeiro
+Boarding - Abordagem
 Capital Ship - Nave Capital
 CapShip - NavCap (Capital Ship)
 Cargo - Carga
@@ -460,11 +461,14 @@ Touring - Turismo - Passeio
 Trade - Comércio
 Transport - Transporte
 Versatile - Versátil
+Afterburner - Pós-combustão
+Afterburners - Pós-combustores
 Snub Bomber - Mini Bombardeiro
 Cargo - Cargueiro
 Heavy Mining - Mineração Pesada
 Medium Mining - Mineração Médio
 Light Mining - Mineração Leve
+Free Look - Olhar Livre
 
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
