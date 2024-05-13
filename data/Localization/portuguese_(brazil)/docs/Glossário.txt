@@ -146,8 +146,8 @@ Noise - Ruído
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
 Nudge - Deslocar
-Off - Desativado/Desligado - Desligar
-On - Ativado/Ligado - Ligar
+Off - Desligado - Desativado - Desligar
+On - Ligado - Ativado - Ligar
 Optics - Lente
 orbital sentries - sentinelas orbitais
 Ore - Minério
@@ -311,7 +311,7 @@ Shatter - Estilhaçamento - Fragmentação
 range - alcance
 Augmented Cockpit Display (ACD) - Visor Aumentado da Cabine (VAC)
 Retract - Retrair
-Deploy - Estender
+Deploy - Estender - Implantar
 Ball Thruster - Propulsor Esférico
 hardpoints - Pronto Rígido (Traduzir? Por enquanto não)
 Afterburner - Pós-combustão
@@ -326,6 +326,13 @@ Cognitive Impairment - Comprometimento Cognitivo
 Immune Boosting - Reforço Imunológico
 Cognitive Boosting - Reforço Cognitivo
 Immune Suppressing - Supressão Imunológica
+Med Bay - Ala Médica
+Cargo Bay - Compartimento de Carga
+Escape Pods - Cápsulas de Fuga
+Precision Targeting - Mirar com Precisão
+Auto Targeting - Seleção Automática de Alvo
+Recall - Recuperar - Recuperação
+MFD - DMF
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
