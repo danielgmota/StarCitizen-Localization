@@ -77,8 +77,8 @@ Quantum Boost - Impulso Quântico
 Quantum Drive - Motor Quântico - Unidade Quântica?
 Quantum Fuel - Combustível Quântico
 QUANTUM SNARE - Armadilha Quântica
-Quantum Dampener - Bloqueador Quântico
-Quantum Enforcement - Imposição Quântica
+Quantum Dampener - Bloqueador Quântico - Bloqueio Quântico
+Quantum Enforcement - Bloqueio Quântico
 Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
 Docking - Acoplando - Ancoragem - Dockagem - Aterrisagem
 Undock - Desacoplar - Desancorar - Decolagem
@@ -146,8 +146,8 @@ Noise - Ruído
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
 Nudge - Deslocar
-Off - Desativado/Desligado - Desligar
-On - Ativado/Ligado - Ligar
+Off - Desligado - Desativado - Desligar
+On - Ligado - Ativado - Ligar
 Optics - Lente
 orbital sentries - sentinelas orbitais
 Ore - Minério
@@ -311,7 +311,7 @@ Shatter - Estilhaçamento - Fragmentação
 range - alcance
 Augmented Cockpit Display (ACD) - Visor Aumentado da Cabine (VAC)
 Retract - Retrair
-Deploy - Estender
+Deploy - Estender - Implantar
 Ball Thruster - Propulsor Esférico
 hardpoints - Pronto Rígido (Traduzir? Por enquanto não)
 Afterburner - Pós-combustão
@@ -326,6 +326,13 @@ Cognitive Impairment - Comprometimento Cognitivo
 Immune Boosting - Reforço Imunológico
 Cognitive Boosting - Reforço Cognitivo
 Immune Suppressing - Supressão Imunológica
+Med Bay - Ala Médica
+Cargo Bay - Compartimento de Carga
+Escape Pods - Cápsulas de Fuga
+Precision Targeting - Mirar com Precisão
+Auto Targeting - Seleção Automática de Alvo
+Recall - Recuperar - Recuperação
+MFD - DMF
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
@@ -389,6 +396,7 @@ RED WIND LINEHAUL - RED WIND LINEHAUL
 ----------------------------------------------- Naves -----------------------------------------------
 Anti-Aircraft - Antiaéreo
 Bomber - Bombardeiro
+Boarding - Abordagem
 Capital Ship - Nave Capital
 CapShip - NavCap (Capital Ship)
 Cargo - Carga
@@ -460,11 +468,14 @@ Touring - Turismo - Passeio
 Trade - Comércio
 Transport - Transporte
 Versatile - Versátil
+Afterburner - Pós-combustão
+Afterburners - Pós-combustores
 Snub Bomber - Mini Bombardeiro
 Cargo - Cargueiro
 Heavy Mining - Mineração Pesada
 Medium Mining - Mineração Médio
 Light Mining - Mineração Leve
+Free Look - Olhar Livre
 
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
