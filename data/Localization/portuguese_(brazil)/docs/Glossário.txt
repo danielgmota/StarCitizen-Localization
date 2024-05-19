@@ -413,6 +413,7 @@ Freight - Frete
 Frigate - Fragata
 Ground Combat - Combate Terrestre
 Gunship - Caça - Guerra (a meu ver não pode ser caça, as Gunships não são naves rápidas)
+Heavy Gunship - Nave de Guerra Pesada
 Heavy Fighter = Caça Pesado
 Heavy Salvage - Sucateiro Pesado
 Holiday Wreath - Coroa de Natal
