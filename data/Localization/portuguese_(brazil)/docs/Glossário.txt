@@ -333,7 +333,8 @@ Precision Targeting - Mirar com Precisão
 Auto Targeting - Seleção Automática de Alvo
 Recall - Recuperar - Recuperação
 MFD - DMF
-
+Personal Inner Thought - Roda de Seleção Pessoal
+Free Look - Olhar Livre
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
 Claim - Solicitar - Reivindicar
@@ -476,7 +477,7 @@ Cargo - Cargueiro
 Heavy Mining - Mineração Pesada
 Medium Mining - Mineração Médio
 Light Mining - Mineração Leve
-Free Look - Olhar Livre
+
 
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
