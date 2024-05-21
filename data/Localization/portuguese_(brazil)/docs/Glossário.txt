@@ -100,6 +100,7 @@ Fleet Manager - Gerenciador de Frota
 Fleet Manager Terminal - Terminal Gerenciador de Frota
 Fuel Intake - Entrada de Combustível
 Fuel Nozzle - Bico de Combustível
+Intakes - Entradas de Ar
 FUNT (fast and untraceable) - RENR (rápido e não rastreável)
 Gadget - Dispositivo
 Gimbal - Giroscópio
