@@ -59,7 +59,7 @@ Dead drop - local secreto
 Debuff - Penalidade
 Deck - Plataforma - ÁREA
 Decline - Recusar
-Decoy - Isca - Decoy
+Decoy - Isca
 Deductible - Franquia
 Deliver - Entregar
 Deployables - Implantáveis
@@ -253,7 +253,8 @@ Wearables - Vestíveis
 wreck - destroços
 wreck site - local dos destroços
 shipjacking - sequestro de naves
-spooled - alinhada/carregada (termo usado para o carregamento do alinhamento da Viagem Quântica)
+spooled - preparado - alinhado - carregado (termo usado para o carregamento do alinhamento da Viagem Quântica)
+spool - preparação
 Temp. Rating - Classificação de Temp.
 xenoarchaeologist - xenoarqueóloga
 Battle Suit - Traje de Batalha
@@ -336,6 +337,10 @@ Recall - Recuperar - Recuperação
 MFD - DMF
 Personal Inner Thought - Roda de Seleção Pessoal
 Free Look - Olhar Livre
+Recycled Material Composite (RMC) - Composto de Material Reciclado (CMR)
+Salvage Beam - Feixe de Sucateamento
+
+
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Store - Armazenar
 Claim - Solicitar - Reivindicar
