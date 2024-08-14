@@ -247,6 +247,7 @@ Uranium - Urânio
 Utility Mount Cap - Tampa de Montagem Utilitária
 Vehicle Loadout Manager - Gerenciador de Equipamento dos Veículos - Gerenciador de Carregamento de Veículos
 Vehicle Loadouts - Carregamentos de Veículos
+Warehouse - Armazém
 Warning - Alerta
 Waste - Resíduos
 Wearables - Vestíveis
