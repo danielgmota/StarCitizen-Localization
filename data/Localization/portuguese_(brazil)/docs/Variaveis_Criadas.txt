@@ -1,0 +1,12 @@
+#####
+# Estas variáveis foram criadas por nós, por estarem faltando no original.
+#
+# Devem ser removidas daqui quando a CIG lembrar de as criar no global.ini original.
+#####
+
+interiormap_common_transit_platform=
+itemPort_NameBombRackLeft=
+itemPort_NameBombRackRight=
+itemPort_NameBombTurret=
+ui_subtitle_speaker_name_end=
+ui_subtitle_speaker_name_start=
