@@ -8,5 +8,4 @@ interiormap_common_transit_platform=
 itemPort_NameBombRackLeft=
 itemPort_NameBombRackRight=
 itemPort_NameBombTurret=
-ui_subtitle_speaker_name_end=
-ui_subtitle_speaker_name_start=
+vehicle_NameARGO_ATLS=Argo ATLS (adicionada por mim em 7/10/2024)
