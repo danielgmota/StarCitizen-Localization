@@ -8,4 +8,3 @@ interiormap_common_transit_platform=
 itemPort_NameBombRackLeft=
 itemPort_NameBombRackRight=
 itemPort_NameBombTurret=
-vehicle_NameARGO_ATLS=Argo ATLS (adicionada por mim em 7/10/2024)
