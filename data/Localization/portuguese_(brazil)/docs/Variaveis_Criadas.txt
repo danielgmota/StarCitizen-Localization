@@ -8,3 +8,7 @@ interiormap_common_transit_platform=
 itemPort_NameBombRackLeft=
 itemPort_NameBombRackRight=
 itemPort_NameBombTurret=
+ui_v_ads_cycle_tracking=
+ui_v_ads_hold=
+ui_v_ads_stable_max_zoom_hold=
+ui_v_ads_toggle=
