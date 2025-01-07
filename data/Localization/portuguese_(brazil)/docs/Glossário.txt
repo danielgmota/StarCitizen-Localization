@@ -512,6 +512,7 @@ Zenith - Superior/Acima
 #
 Vanzant = Oficial de ligação da  Crusader Security - Homem
 Rowena Dulli = (da CDF e Advocacy) - Mulher
+Stows = contato da Headhunters
 
 
 ----------------------------------------------- Termos Militares -----------------------------------------------
