@@ -255,6 +255,7 @@ Salvage Beam - Feixe de Sucateamento
 Salvage Yard - Área de Sucateamento
 Scan Mode - Modo Scan
 Scanning - Escaneamento - Varredura
+scavs - saqueadores
 Scrap - Sucata
 Scraper Beam - Raio Raspador
 Scrub - Nivelar (Scrub Algo : Scrub Pressure - Nivelar Pressão | Scrub Atmosphere- Nivelar Atmosfera) (No contexto de Nivelar algo) - A Revisar 45039 a 45041
