@@ -273,6 +273,7 @@ Shuttle - Transporte
 Silicon - Silício
 Single Seater Craft - Embarcação de Assento Único
 Site - Local
+skag - vagabundo
 Skimmer - Drone
 Skyline - Skyline
 Small Multicrew Craft - Embarcação Pequena Multitripulada
