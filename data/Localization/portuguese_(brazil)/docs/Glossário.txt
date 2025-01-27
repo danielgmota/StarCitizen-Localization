@@ -512,6 +512,7 @@ Zenith - Superior/Acima
 ----------------------------------------------- Personagens (NPCs) -----------------------------------------------
 ## A ideia aqui é registrarmos quais são homens ou mulheres, pra ajustarmos os devidos pronomes ou artigos ##
 #
+Corbin Cassady = contato da Frontier Fighters
 Rowena Dulli = (da CDF e Advocacy) - Mulher
 Smokey = contato da Rough & Ready
 Stows = contato da Headhunters
