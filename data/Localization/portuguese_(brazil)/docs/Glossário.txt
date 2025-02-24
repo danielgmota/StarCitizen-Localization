@@ -513,6 +513,7 @@ Zenith - Superior/Acima
 ## A ideia aqui é registrarmos quais são homens ou mulheres, pra ajustarmos os devidos pronomes ou artigos ##
 #
 Corbin Cassady = contato da Frontier Fighters
+Madge Halford = fundadora da Citizens for Prosperity
 Rowena Dulli = (da CDF e Advocacy) - Mulher
 Smokey = contato da Rough & Ready
 Stows = contato da Headhunters
