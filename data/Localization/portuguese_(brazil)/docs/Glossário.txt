@@ -143,6 +143,7 @@ Hydrogen pods - Célula de Hidrogênio
 ICU - UTI
 Immune Boosting - Reforço Imunológico
 Immune Suppressing - Supressão Imunológica
+Imprint - Impressão
 Inner Thought - Roda de Seleção
 Intakes - Entradas de Ar
 Invite - Convidar
@@ -194,6 +195,7 @@ Optics (Sx) - Mira (Sx) (Colocar Mira quando estiver na descrição do que tem n
 Optics - Lente
 Optics - Óptica
 orbital sentries - sentinelas orbitais
+Orbital Laser Platform (OLP) - Plataforma Laser Orbital (PLO)
 Ore - Minério
 Outcasts - Exilados - Párias - Foragidos - Forasteiros (ainda não temos esta informação, mas teremos de ver se não seria o nome de um grupo/facção)
 Outcasts Description - Descrição dos Exilados ?
@@ -210,6 +212,7 @@ Personal Inner Thought - Roda de Seleção Pessoal
 Pickup - Coleta/r, Retira/r
 Pitch - Eixo Lateral - Inclinação
 Plasma Fuel - Combustível de Plasma
+Platform Alignment Facility (PAF) - Instalação de Alinhamento de Plataforma (IAP)
 pod - cápsula
 Power - Energia
 Power Plant/PowerPlant - Gerador de Energia
@@ -383,6 +386,7 @@ Laser Beam - Feixe Laser
 Laser Repeater - Repetidor Laser
 Mass Driver - Acelerador de Massa (como em Mass Driver Cannon)
 Missile Rack - Rack de Mísseis
+Railgun - Canhão Elétrico
 Scattergun - Dispersora - Arma de Dispersão
 Tachyon Cannon - Canhão Táquion
 Weapon Mount - Suporte de Arma
