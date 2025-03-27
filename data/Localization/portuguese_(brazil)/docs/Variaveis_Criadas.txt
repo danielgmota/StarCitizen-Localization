@@ -11,7 +11,6 @@ itemPort_NameBombTurret
 itemPort_hardpoint_fuel_port
 item_TypeTractorBeam
 pause_options_flight_options_extended_info_enabled
-pause_options_turret_manual_gimbal_freelook
 ui_CICameraOrbit
 ui_CIFPSAmmoRepool
 ui_CIFPSAttack2
