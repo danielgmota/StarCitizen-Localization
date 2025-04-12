@@ -74,7 +74,7 @@ Crimestat - Status Criminal
 Criminal Record - Registro Criminal - Ficha Criminal
 Cross Section (CS) - Seção Cruzada (SC)
 Crucible - Crisol?
-cryopod - cryopod
+cryopod - cápsula criogênica
 Cryptokey - Criptochave
 Cryptokey - Criptochave
 Cycle - Alternar
@@ -212,7 +212,6 @@ Personal Inner Thought - Roda de Seleção Pessoal
 Pickup - Coleta/r, Retira/r
 Pitch - Eixo Lateral - Inclinação
 Plasma Fuel - Combustível de Plasma
-Platform Alignment Facility (PAF) - Instalação de Alinhamento de Plataforma (IAP)
 pod - cápsula
 Power - Energia
 Power Plant/PowerPlant - Gerador de Energia
