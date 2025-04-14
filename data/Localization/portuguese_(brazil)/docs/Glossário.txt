@@ -276,6 +276,7 @@ Silicon - Silício
 Single Seater Craft - Embarcação de Assento Único
 Site - Local
 skag - vagabundo
+skids - ralé
 Skimmer - Drone
 Skyline - Skyline
 Small Multicrew Craft - Embarcação Pequena Multitripulada
