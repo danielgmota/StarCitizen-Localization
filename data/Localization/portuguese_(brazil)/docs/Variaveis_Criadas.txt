@@ -11,6 +11,7 @@ itemPort_NameBombTurret
 itemPort_hardpoint_fuel_port
 item_TypeTractorBeam
 item_qt_drive_jump_module_required
+Map_Header_Pins
 pause_options_flight_options_extended_info_enabled
 ui_CICameraOrbit
 ui_CIFPSAmmoRepool
