@@ -8,7 +8,10 @@ interiormap_common_transit_platform
 itemPort_NameBombRackLeft
 itemPort_NameBombRackRight
 itemPort_NameBombTurret
+itemPort_hardpoint_front_module
 itemPort_hardpoint_fuel_port
+itemPort_hardpoint_rear_module
+item_SubTypeTorpedo
 item_TypeTractorBeam
 item_qt_drive_jump_module_required
 Map_Header_Pins
