@@ -516,11 +516,12 @@ Zenith - Superior/Acima
 ----------------------------------------------- Personagens (NPCs) -----------------------------------------------
 ## A ideia aqui é registrarmos quais são homens ou mulheres, pra ajustarmos os devidos pronomes ou artigos ##
 #
-Corbin Cassady = contato da Frontier Fighters
-Madge Halford = fundadora da Citizens for Prosperity
+Conni Ling = contado da Ling Family Hauling - Mulher
+Corbin Cassady = contato da Frontier Fighters - Homem
+Madge Halford = fundadora da Citizens for Prosperity - Mulher
 Rowena Dulli = (da CDF e Advocacy) - Mulher
-Smokey = contato da Rough & Ready
-Stows = contato da Headhunters
+Smokey = contato da Rough & Ready - Homem
+Stows = contato da Headhunters - 
 Vanzant = Oficial de ligação da  Crusader Security - Homem
 
 
