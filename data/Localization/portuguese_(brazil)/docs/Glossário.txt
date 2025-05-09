@@ -115,6 +115,7 @@ Flash Hider - Quebra Chamas
 Flawed - Imperfeito
 Fleet Manager - Gerenciador de Frota
 Fleet Manager Terminal - Terminal Gerenciador de Frota
+Flight Blades - Blades de Voo
 Free Look - Olhar Livre
 Free Look - Visão Livre
 Fuel Intake - Entrada de Combustível
