@@ -8,6 +8,13 @@ interiormap_common_transit_platform
 itemPort_NameBombRackLeft
 itemPort_NameBombRackRight
 itemPort_NameBombTurret
+itemPort_cluster1
+itemPort_cluster2
+itemPort_cluster3
+itemPort_cluster4
+itemPort_cluster5
+itemPort_cluster6
+itemPort_cluster7
 itemPort_hardpoint_front_module
 itemPort_hardpoint_fuel_port
 itemPort_hardpoint_rear_module
