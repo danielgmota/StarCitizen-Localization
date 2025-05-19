@@ -49,6 +49,7 @@ itemPort_hardpoint_shield_generator01
 itemPort_hardpoint_shield_generator02
 itemPort_hardpoint_shield_generator03
 itemPort_hardpoint_shield_generator04
+items_commodities_valakkarfang_juvenile
 item_SubTypeTorpedo
 item_TypeTractorBeam
 item_qt_drive_jump_module_required
@@ -70,7 +71,7 @@ ui_COMGVPitch
 ui_COMGVYaw
 ui_Consumable_QuickSelectRadialMenu
 ui_turret_mouse_mode_cycle
-ui_turret_mouse_mode_set_ltol
+ui_turret_mouse_mode_set_1to1
 ui_turret_mouse_mode_set_pointer
 ui_turret_mouse_mode_set_vjoy
 ui_v_ads_cycle_tracking
