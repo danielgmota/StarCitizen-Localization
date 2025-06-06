@@ -5,6 +5,7 @@
 #####
 
 interiormap_common_transit_platform
+item_s42_lightswitch=
 itemPort_NameBombRackLeft
 itemPort_NameBombRackRight
 itemPort_NameBombTurret
@@ -58,9 +59,12 @@ pause_options_flight_options_extended_info_enabled
 ui_CICameraOrbit
 ui_CIFPSAmmoRepool
 ui_CIFPSAttack2
+ui_CIFPSMoveJumpHold
+ui_CIFPSMoveJumpRelease
 ui_CIFPSMoveLedgeGrab
 ui_CIFPSReloadSecondary
 ui_CIInteractionLootingToggleView
+ui_CIUIChatCycleLobby
 ui_CIUINotificationAccept
 ui_CIUINotificationDecline
 ui_CI_MGV_Pitch_Down
@@ -80,4 +84,10 @@ ui_v_ads_toggle
 ui_v_ifcs_proximity_assist_off
 ui_v_ifcs_proximity_assist_on
 ui_v_ifcs_proximity_assist_toggle
+ui_v_ifcs_core_off
+ui_v_ifcs_core_on
+ui_v_ifcs_core_toggle
+ui_v_ifcs_stability_off
+ui_v_ifcs_stability_on
+ui_v_ifcs_stability_toggle
  
