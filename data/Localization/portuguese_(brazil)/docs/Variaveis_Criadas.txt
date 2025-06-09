@@ -73,6 +73,7 @@ ui_CI_MGV_ToggleBreakOnIdle
 ui_COMGVPitch
 ui_COMGVYaw
 ui_Consumable_QuickSelectRadialMenu
+ui_interactor_use_security_seat_pu
 ui_turret_mouse_mode_cycle
 ui_turret_mouse_mode_set_1to1
 ui_turret_mouse_mode_set_pointer
