@@ -233,7 +233,7 @@ Quantum Travel - Viagem Quântica
 Quartz - Quartzo
 range - alcance
 rate - avalie
-Rate Of Fire - Cadência de Disparo
+Rate Of Fire - Cadência de Tiro
 Recall - Recuperar - Recuperação
 Reclamation & Disposal - Recuperação e Descarte <=== Nome de uma instituição. Creio que entra na regra de não traduzir
 Recover - Recupere
