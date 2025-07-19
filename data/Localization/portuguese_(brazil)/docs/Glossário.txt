@@ -276,7 +276,7 @@ Shuttle - Transporte
 Silicon - Silício
 Single Seater Craft - Embarcação de Assento Único
 Site - Local
-skag - vagabundo
+skag - malandro
 skids - ralé
 Skimmer - Drone
 Skyline - Skyline
