@@ -432,7 +432,7 @@ Fighter - Caça
 Freight - Frete
 Frigate - Fragata
 Ground Combat - Combate Terrestre
-Gunship - Caça - Guerra (a meu ver não pode ser caça, as Gunships não são naves rápidas)
+Gunship - Guerra (a meu ver não pode ser caça, as Gunships não são naves rápidas)
 Heavy Construction - Construção Pesada
 Heavy Fighter = Caça Pesado
 Heavy Freight - Frete Pesado
