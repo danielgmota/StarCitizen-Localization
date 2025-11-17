@@ -6,7 +6,7 @@
 
 Map_Header_Pins
 interiormap_common_transit_platform
-item_s42_lightswitch=
+item_s42_lightswitch
 itemPort_NameBombRackLeft
 itemPort_NameBombRackRight
 itemPort_NameBombTurret
@@ -58,6 +58,9 @@ item_TypeTractorBeam
 item_qt_drive_jump_module_required
 item_s42_lightswitch
 marok
+mobiGlas_ui_MissionType_Hauling_Bulk
+mobiGlas_ui_MissionType_Hauling_Small
+mobiGlas_ui_MissionType_Hauling_Supply
 pause_options_flight_options_extended_info_enabled
 ui_CICameraOrbit
 ui_CIFPSAmmoRepool
