@@ -106,8 +106,6 @@ Environmental Hazard - Perigo Ambiental
 Escape Pods - Cápsulas de Fuga
 Escapee Bounty Assignment - Missão de Recompensa de Fugitivo
 Extreme-Risk Target - Alvo de Risco Extremo
-facility - Instalação
-farming outpost - posto avançado agrícola
 Fixed Thruster - Propulsor Fixo
 Flair Item Dashboard - Item de Enfeite no Painel
 Flair Item Hanging - Item de Enfeite Pendurado
@@ -203,6 +201,11 @@ Outcasts Description - Descrição dos Exilados ?
 Outlaw's - Foras-da-Lei - Criminosos
 Outlaws - Bandidos
 Outpost - Posto Avançado
+Facility - Instalação
+Farming Outpost - Posto Avançado Agrícola
+Mining Facility - Instalação de Mineração
+Refinery Outpost - Posto Avançado de Refinaria
+Ore Refinery - Refinaria De Minério
 outskirts - arredores ou periferia.
 Overhead Shields - Escudos Superiores ?
 Party - Grupo
@@ -348,6 +351,7 @@ wreck site - local dos destroços
 xenoarchaeologist - xenoarqueóloga
 Yaw - Eixo Vertical - Guinada
 Zeroing - Ajuste de Mira
+
 
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
