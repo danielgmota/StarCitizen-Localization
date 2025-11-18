@@ -1,0 +1,10 @@
+~mission(Location|Name) | Location|Name
+~mission(Location|Address) | Location|Address
+~mission | ~m
+~mission(TargetName)
+~mission(Location)
+~mission(Danger)
+~mission(TargetName)
+
+
+para ~mission - em ~mission

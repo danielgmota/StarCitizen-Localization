@@ -25,20 +25,20 @@ Nomes de itens:
 item_Name_
 item_Name
 
-Descrição dos itens:
+---- Descrição dos itens ----
 item_Desc_
 item_Desc
 
-Nomes e descrições para itens de commodities 
+---- Nomes e descrições para itens de commodities ----
 items_commodities_
 
-Nomes dos Tipos de Itens
+---- Nomes dos Tipos de Itens ----
 item_Type
 
-Nomes dos SubTipos de Itens
+---- Nomes dos SubTipos de Itens ----
 item_SubType
 
-Diálogos
+---- Diálogos ----
 PU_
 
 56000
