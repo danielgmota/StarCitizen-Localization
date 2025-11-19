@@ -159,6 +159,7 @@ Landing - Pouso
 Landing Pad - Plataforma de Pouso
 Landing Services - Serviço de Pouso
 Landing System - Sistema de Pouso
+Landing Control - Controle de Pouso
 Large Multicrew Craft - Embarcação Grande Multitripulada
 Light - Leve
 Livery - Pintura
@@ -201,6 +202,7 @@ Outcasts Description - Descrição dos Exilados ?
 Outlaw's - Foras-da-Lei - Criminosos
 Outlaws - Bandidos
 Outpost - Posto Avançado
+Research Outpost - Posto Avançado de Pesquisa
 Facility - Instalação
 Farming Outpost - Posto Avançado Agrícola
 Mining Facility - Instalação de Mineração

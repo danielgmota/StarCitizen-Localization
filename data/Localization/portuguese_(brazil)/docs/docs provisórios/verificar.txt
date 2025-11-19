@@ -8,11 +8,21 @@
 
 
 para ~mission - em ~mission
-Outpost - Posto avanÇado
+Outpost - Posto Avançado
+Security Post
+Launch Pad
 mining - Mineração
+Mines
 Facility - Instalação
 Gallete Farms
 Gallete Family Farms
 Terra Mills HydroFarm
 Rayari lab
 Deakins Research Outpost
+Industrial Park
+Comm Array
+SecurityCenter
+Ruin Station
+Orbituary
+HydroFarm - Fazenda HidropÔnica
+Mining Area
