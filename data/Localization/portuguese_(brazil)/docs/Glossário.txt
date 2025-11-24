@@ -290,8 +290,7 @@ Sodium - Sódio
 Spawn - Nascer - Nascimento -Surgimento
 spool - preparação
 spooled - preparado - alinhado - carregado (termo usado para o carregamento do alinhamento da Viagem Quântica)
-Sprint - Corrida
-Sprint - Corrida - Correr
+Sprint - Disparar (Disparada) - Corrida - Correr
 Stabilizer - Estabilizador
 Staggered (STGR) - Alternado (ALTRN) ou (ALTND)?
 Standard (STD) - Padrão (PDR)
@@ -353,6 +352,7 @@ wreck site - local dos destroços
 xenoarchaeologist - xenoarqueóloga
 Yaw - Eixo Vertical - Guinada
 Zeroing - Ajuste de Mira
+Detach Mode - Modo de Desacoplamento
 
 
 

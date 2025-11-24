@@ -26,3 +26,22 @@ Ruin Station
 Orbituary
 HydroFarm - Fazenda HidropÔnica
 Mining Area
+
+Entrou no EspaÇo Monitorado
+Attachment - 
+Slot - Espaço
+
+Para baixo
+ui_CIScanningRadarAngDec=Redução do ângulo de escaneamento
+itemPort_hardpoint_Left_Wingtip_S01=
+itemPort_hardpoint_blade_wing_left=
+ui_CITargetReticleMode=
+
+
+itemPort_cluster1=Slot de Cluster 1
+itemPort_cluster2=Slot de Cluster 2
+itemPort_cluster3=Slot de Cluster 3
+itemPort_cluster4=Slot de Cluster 4
+itemPort_cluster5=Slot de Cluster 5
+itemPort_cluster6=Slot de Cluster 6
+itemPort_cluster7=Slot de Cluster 7
