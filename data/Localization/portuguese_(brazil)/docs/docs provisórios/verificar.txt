@@ -30,6 +30,10 @@ Mining Area
 Entrou no EspaÇo Monitorado
 Attachment - 
 Slot - Espaço
+Underbarrel - Slot Inferior
+On / Off - Lig. / Des.
+On/Off - Lig./Des.
+Cycle - Percorrer
 
 Para baixo
 ui_CIScanningRadarAngDec=Redução do ângulo de escaneamento
@@ -45,3 +49,8 @@ itemPort_cluster4=Slot de Cluster 4
 itemPort_cluster5=Slot de Cluster 5
 itemPort_cluster6=Slot de Cluster 6
 itemPort_cluster7=Slot de Cluster 7
+
+
+
+
+

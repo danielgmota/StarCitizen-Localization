@@ -21,6 +21,7 @@ Ammo Case - Estojo de Munição
 Ancillary casualties - Vítimas secundárias
 Attachment - Acessório - Anexo - Fixação
 Attachment Point - Ponto de Fixação
+Attach Point - Ponto de Fixação
 Augmented Cockpit Display (ACD) - Visor Aumentado da Cabine (VAC)
 Auto Targeting - Seleção Automática de Alvo
 AutoLand - Auto-Pouso
@@ -77,7 +78,7 @@ Crucible - Crisol?
 cryopod - cápsula criogênica
 Cryptokey - Criptochave
 Cryptokey - Criptochave
-Cycle - Alternar
+Cycle - Percorrer - Alternar
 Datapad - Datapad
 Dead drop - local secreto
 Debuff - Penalidade
@@ -86,7 +87,7 @@ Decline - Recusar
 Decoy - Isca
 Deductible - Franquia
 Deliver - Entregar
-Deploy - Estender - Implantar
+Deploy - Estender - Implantar - Baixar
 Deployables - Implantáveis
 Derelict Site - Local Abandonado
 Disabled - Desabilitado / Desativado
@@ -107,8 +108,9 @@ Escape Pods - Cápsulas de Fuga
 Escapee Bounty Assignment - Missão de Recompensa de Fugitivo
 Extreme-Risk Target - Alvo de Risco Extremo
 Fixed Thruster - Propulsor Fixo
-Flair Item Dashboard - Item de Enfeite no Painel
-Flair Item Hanging - Item de Enfeite Pendurado
+Flair Item - Item de Decoração - Item de Enfeite
+Flair Item Dashboard - Painel de Item de Decoração
+Flair Item Hanging - Item de Decoração Pendurado
 Flash Hider - Quebra Chamas
 Flawed - Imperfeito
 Fleet Manager - Gerenciador de Frota
@@ -216,7 +218,6 @@ Patrol Beacon - Alerta de Patrulha
 PDC Monitors - Monitores PDC
 Personal Inner Thought - Roda de Seleção Pessoal
 Pickup - Coleta/r, Retira/r
-Pitch - Eixo Lateral - Inclinação
 Plasma Fuel - Combustível de Plasma
 pod - cápsula
 Power - Energia
@@ -256,7 +257,9 @@ Rock - Rocha
 ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
 Roll - Rolagem - Rolamento
 Rotate Pitch - Rotacionar Eixo Lateral
+Pitch - Eixo Lateral - Inclinação
 Rotate Yaw - Rotacionar Eixo Vertical
+Yaw - Eixo Vertical - Guinada
 Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
 Rush Contract - Contrato Urgente
 Salvage Beam - Feixe de Sucateamento
@@ -292,7 +295,7 @@ spool - preparação
 spooled - preparado - alinhado - carregado (termo usado para o carregamento do alinhamento da Viagem Quântica)
 Sprint - Disparar (Disparada) - Corrida - Correr
 Stabilizer - Estabilizador
-Staggered (STGR) - Alternado (ALTRN) ou (ALTND)?
+Staggered (STGR) - Alternado (ALTRN) ou (ALTND)? - Escalonado
 Standard (STD) - Padrão (PDR)
 StarMap - Mapa Estelar
 station lobby - saguão da estação
@@ -327,6 +330,9 @@ Tin - Estanho
 Tin Ore - Minério de Estanho
 Titanium - Titânio
 Toggle - Alternar
+Hold - Segurar
+Press - Pressionar
+Tap - Toque
 Tracker Beginner's Permit - Permissão de Rastreador Iniciante
 Tritium - Trítio
 Tungsten - Tungstênio
@@ -350,9 +356,16 @@ WetWork - Banho de Sangue
 wreck - destroços
 wreck site - local dos destroços
 xenoarchaeologist - xenoarqueóloga
-Yaw - Eixo Vertical - Guinada
 Zeroing - Ajuste de Mira
 Detach Mode - Modo de Desacoplamento
+Nacelle - Módulo - Compartimento - Pod - Gôndola Termo correto é Nacela mas quase ninguém sabe o que é isso.
+Driver Seat - Assento do Condutor (Driver seria motorista ou piloto, mas motorista fica feio e piloto é redundante com pilot)
+Utility Item - Item de Utilidade
+Underarm - Por Baixo do Braço
+Backward - Reverso - Recuar
+Forward - Avançar
+On/Off - Lig./Des.
+Freelook - Visão Livre
 
 
 
