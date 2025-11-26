@@ -34,6 +34,10 @@ Underbarrel - Slot Inferior
 On / Off - Lig. / Des.
 On/Off - Lig./Des.
 Cycle - Percorrer
+Key Bindings - Mapeamentos de Teclas
+Emotes - Gestos
+RDS - PIT
+Convés De Carga - Deck de Carga
 
 Para baixo
 ui_CIScanningRadarAngDec=Redução do ângulo de escaneamento
@@ -50,7 +54,7 @@ itemPort_cluster5=Slot de Cluster 5
 itemPort_cluster6=Slot de Cluster 6
 itemPort_cluster7=Slot de Cluster 7
 
-
+ui_ItemActions_PITWheelCategory=
 
 
 

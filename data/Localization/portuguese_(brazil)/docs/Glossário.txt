@@ -366,6 +366,11 @@ Backward - Reverso - Recuar
 Forward - Avançar
 On/Off - Lig./Des.
 Freelook - Visão Livre
+Key Bindings - Mapeamentos de Teclas
+Emotes - Gestos
+Cryptokeys - Criptochaves
+Cargo Deck - Deck de Carga
+Spaceport - Espaçoporto
 
 
 
