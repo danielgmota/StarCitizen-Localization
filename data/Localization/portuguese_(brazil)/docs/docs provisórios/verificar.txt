@@ -36,7 +36,7 @@ On/Off - Lig./Des.
 Cycle - Percorrer
 Key Bindings - Mapeamentos de Teclas
 Emotes - Gestos
-RDS - PIT
+PIT - RDS
 Convés De Carga - Deck de Carga
 
 Para baixo

@@ -371,7 +371,7 @@ Emotes - Gestos
 Cryptokeys - Criptochaves
 Cargo Deck - Deck de Carga
 Spaceport - Espaçoporto
-
+PIT  = Personal Inner Thought - RDS = Roda de Seleção
 
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
