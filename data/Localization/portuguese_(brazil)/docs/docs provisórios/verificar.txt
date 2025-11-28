@@ -36,9 +36,10 @@ On/Off - Lig./Des.
 Cycle - Percorrer
 Key Bindings - Mapeamentos de Teclas
 Emotes - Gestos
-PIT - RDS
-Convés De Carga - Deck de Carga
 
+Convés De Carga - Deck de Carga
+Convés De - Deck de
+D-Pad - Direcional
 Para baixo
 ui_CIScanningRadarAngDec=Redução do ângulo de escaneamento
 itemPort_hardpoint_Left_Wingtip_S01=
