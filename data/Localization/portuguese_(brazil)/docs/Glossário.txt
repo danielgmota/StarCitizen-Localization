@@ -14,7 +14,7 @@ Afterburner - Pós-combustão
 Afterburners - Pós-combustores
 Agricultural Supply - Suprimento Agrícola
 Aid Shelter - Abrigo de Assistência ?
-Airlock - Comporta de Ar
+Airlock - Descompressão - Câmara de Descompressão - Comporta de Ar - Eclusa
 Alloy - Liga
 Ammo Box - Caixa de Munição
 Ammo Case - Estojo de Munição
@@ -347,6 +347,7 @@ Vehicle Loadouts - Carregamentos de Veículos
 Vehicle Manager - Gerenciador de Veículos
 Very High-Risk Target - Alvo de Risco Muito Alto
 Very Low-Risk Target - Alvo de Risco Muito Baixo
+Engage - Engatar
 
 Warehouse - Armazém
 Warning - Alerta
@@ -371,9 +372,12 @@ Emotes - Gestos
 Cryptokeys - Criptochaves
 Cargo Deck - Deck de Carga
 Spaceport - Espaçoporto
-PIT  = Personal Inner Thought - RDS = Roda de Seleção
+PIT  = Personal Inner Thought - RDS = Roda de Seleção - Roda de Seleção Pessoal (RSP)
 D-Pad - Direcional
 Environment Suit - Traje Ambiental ?
+Tractor Beam - Raio Trator
+Weapon Zeroing - Calibragem de Alcance da Arma
+ADS = Aim Down Sights - 
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Claim - Solicitar - Reivindicar
