@@ -457,6 +457,7 @@ Courier - Entregador
 Defense - Defesa
 Destroyer - Destróier
 Dropship - Transporte de Tropas
+E.S.P. (Enhanced Stick Precision)
 Expedition - Expedição
 Fighter - Caça
 Freight - Frete
@@ -473,6 +474,7 @@ Heavy Refueling - Reabastecimento Pesado
 Heavy Repair - Reparador Pesado
 Heavy Salvage - Sucateiro Pesado
 Holiday Wreath - Coroa de Natal
+IFCS (Intelligent Flight Control System) - (por enquanto não foi traduzido, o pois o nome não apareceu por extenso)
 Infiltration - Infiltração
 Interceptor - Interceptador
 Interdiction - Interdição
