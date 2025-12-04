@@ -400,7 +400,6 @@ Light Armor - Armadura Leve
 Loadout - Equipamento
 Medium Armor - Armadura Média
 Slot - Slot ou Espaço?
-Underbarrel - Slot Inferior
 Undersuit - Sub-Traje
 Waders - Botas (tipo galocha)
 
@@ -420,6 +419,7 @@ Missile Rack - Rack de Mísseis
 Railgun - Canhão Elétrico
 Scattergun - Dispersora - Arma de Dispersão
 Tachyon Cannon - Canhão Táquion
+Underbarrel - Cano Inferior
 Weapon Mount - Suporte de Arma
 
 ----------------------------------------------- Frases -----------------------------------------------
