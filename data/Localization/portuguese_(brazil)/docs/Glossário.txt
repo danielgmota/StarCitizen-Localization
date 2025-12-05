@@ -401,7 +401,6 @@ Light Armor - Armadura Leve
 Loadout - Equipamento
 Medium Armor - Armadura Média
 Slot - Slot ou Espaço?
-Underbarrel - Slot Inferior
 Undersuit - Sub-Traje
 Waders - Botas (tipo galocha)
 
@@ -421,6 +420,7 @@ Missile Rack - Rack de Mísseis
 Railgun - Canhão Elétrico
 Scattergun - Dispersora - Arma de Dispersão
 Tachyon Cannon - Canhão Táquion
+Underbarrel - Cano Inferior
 Weapon Mount - Suporte de Arma
 
 ----------------------------------------------- Frases -----------------------------------------------
@@ -458,6 +458,7 @@ Courier - Entregador
 Defense - Defesa
 Destroyer - Destróier
 Dropship - Transporte de Tropas
+E.S.P. (Enhanced Stick Precision)
 Expedition - Expedição
 Fighter - Caça
 Freight - Frete
@@ -474,6 +475,7 @@ Heavy Refueling - Reabastecimento Pesado
 Heavy Repair - Reparador Pesado
 Heavy Salvage - Sucateiro Pesado
 Holiday Wreath - Coroa de Natal
+IFCS (Intelligent Flight Control System) - (por enquanto não foi traduzido, o pois o nome não apareceu por extenso)
 Infiltration - Infiltração
 Interceptor - Interceptador
 Interdiction - Interdição
