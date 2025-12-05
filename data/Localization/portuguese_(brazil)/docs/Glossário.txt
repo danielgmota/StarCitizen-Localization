@@ -378,6 +378,7 @@ Environment Suit - Traje Ambiental ?
 Tractor Beam - Raio Trator
 Weapon Zeroing - Calibragem de Alcance da Arma
 ADS = Aim Down Sights - 
+Look Ahead - Antecipação
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Claim - Solicitar - Reivindicar
