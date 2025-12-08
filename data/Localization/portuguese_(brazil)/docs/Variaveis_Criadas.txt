@@ -102,3 +102,4 @@ ui_v_weapon_gimbals_state_toggle=
 ui_v_weapon_gimbals_unlocked_cycle_source=
 ui_v_weapon_staggered_fire_off=
 ui_v_weapon_staggered_fire_on=
+ui_v_weapon_staggered_fire_toggle=
