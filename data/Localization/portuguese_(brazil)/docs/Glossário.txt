@@ -379,6 +379,7 @@ Tractor Beam - Raio Trator
 Weapon Zeroing - Calibragem de Alcance da Arma
 ADS = Aim Down Sights - 
 Look Ahead - Antecipação
+Cooldown - Recarga
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Claim - Solicitar - Reivindicar

@@ -36,6 +36,9 @@ On/Off - Lig./Des.
 Cycle - 
 ADS = Aim Down Sights - 
 Blade de Voo - Lâmina de Voo
+Combat Gauntlet
+INICIO_REMOVER=
+FIM_REMOVER=
 
 
 
