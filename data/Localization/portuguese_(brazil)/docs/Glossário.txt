@@ -8,10 +8,7 @@
 (MRT) - (ARM)
 (VHRT) - (ARMA)
 (VLRT) - (ARMB)
-Advocacy - Advocacia
-Advocacy Description - Descrição da Advocacia
-Afterburner - Pós-combustão
-Afterburners - Pós-combustores
+ADS = Aim Down Sights - Fazer Mira
 Agricultural Supply - Suprimento Agrícola
 Aid Shelter - Abrigo de Assistência ?
 Airlock - Descompressão - Câmara de Descompressão - Comporta de Ar - Eclusa
@@ -19,13 +16,14 @@ Alloy - Liga
 Ammo Box - Caixa de Munição
 Ammo Case - Estojo de Munição
 Ancillary casualties - Vítimas secundárias
+Attach Point - Ponto de Fixação
 Attachment - Acessório - Anexo - Fixação
 Attachment Point - Ponto de Fixação
-Attach Point - Ponto de Fixação
 Augmented Cockpit Display (ACD) - Visor Aumentado da Cabine (VAC)
 Auto Targeting - Seleção Automática de Alvo
 AutoLand - Auto-Pouso
 Avionics - Aviônicos
+Backward - Reverso - Recuar
 Badge - Emblema
 Ball Thruster - Propulsor Esférico
 Barrel - Cano
@@ -42,6 +40,7 @@ Buff - Melhoria
 Capital Class Vessel - Embarcação Classe Subcapital
 Cargo Bay - Compartimento de Carga
 Cargo Carrier - Transportador de Carga
+Cargo Deck - Deck de Carga
 Cargo Grid - Grade de Carga
 Character - Personagem
 Checkpoint - Ponto de Controle - Marcadores - Ponto de Verificação
@@ -64,6 +63,7 @@ Consumer Goods - Bens de Consumo
 Contract Manager - Gerenciador de Contratos
 Contractor - Contratado - Contratante
 Contractors - Contratados - Contratantes
+Cooldown - Recarga
 Cooler System - Sistema de Resfritamento
 Cooling System - Sistema de Refrigeração
 Coupled - Acoplado
@@ -78,7 +78,9 @@ Crucible - Crisol?
 cryopod - cápsula criogênica
 Cryptokey - Criptochave
 Cryptokey - Criptochave
+Cryptokeys - Criptochaves
 Cycle - Percorrer - Alternar
+D-Pad - Direcional
 Datapad - Datapad
 Dead drop - local secreto
 Debuff - Penalidade
@@ -90,6 +92,7 @@ Deliver - Entregar
 Deploy - Estender - Implantar - Baixar
 Deployables - Implantáveis
 Derelict Site - Local Abandonado
+Detach Mode - Modo de Desacoplamento
 Disabled - Desabilitado / Desativado
 Disengaging - Desengatar
 DISPATCH - DISTRIBUIÇÃO
@@ -98,15 +101,21 @@ Docked - Acoplado (Acoplar) - Ancorado - Atracado - Docado
 Docking - Acoplando - Ancoragem - Dockagem - Aterrisagem
 Docking Clamps - Garras de Acoplagem
 Docking Collar - Colar de Encaixe
+Driver Seat - Assento do Condutor (Driver seria motorista ou piloto, mas motorista fica feio e piloto é redundante com pilot)
 Drop off - Entrega/r, Descartar
+Emotes - Gestos
 Enabled - Habilitado / Ativado
 Encryption Key - Chave Criptográfica
+Engage - Engatar - Engajar
 Engage Tool - Ferramenta de Engate
 Engine - Motor
+Environment Suit - Traje Ambiental ?
 Environmental Hazard - Perigo Ambiental
 Escape Pods - Cápsulas de Fuga
 Escapee Bounty Assignment - Missão de Recompensa de Fugitivo
 Extreme-Risk Target - Alvo de Risco Extremo
+Facility - Instalação
+Farming Outpost - Posto Avançado Agrícola
 Fixed Thruster - Propulsor Fixo
 Flair Item - Item de Decoração - Item de Enfeite
 Flair Item Dashboard - Painel de Item de Decoração
@@ -116,8 +125,10 @@ Flawed - Imperfeito
 Fleet Manager - Gerenciador de Frota
 Fleet Manager Terminal - Terminal Gerenciador de Frota
 Flight Blades - Blades de Voo
+Forward - Avançar
 Free Look - Olhar Livre
 Free Look - Visão Livre
+Freelook - Visão Livre
 Fuel Intake - Entrada de Combustível
 Fuel Nozzle - Bico de Combustível
 Fuel Pod - Célula de Combustível (ou Cápsulas de Combustível?) (ou Módulo de Combustível?)
@@ -137,6 +148,7 @@ hardpoints - Pronto Rígido (Traduzir? Por enquanto não)
 hatjob - chapeleiro
 Heavy - Pesado
 High-Risk Target - Alvo de Risco Alto
+Hold - Segurar
 holster - Guardar (coldre é apenas para pistola)
 Hostile/s - Inimigo/s
 HydroFarm - Hidrofazenda
@@ -154,14 +166,15 @@ Journeyman - Proficiente ?
 Jump Drive - Motor de Salto
 Jump Point - Ponto de Salto
 jump seat - assento retrátil
+Key Bindings - Mapeamentos de Teclas
 KILLS - ABATES
 Kiosk - Quiosque
 Klescher Rehabilitation Facilities - Instalações de Reabilitação Klescher
 Landing - Pouso
+Landing Control - Controle de Pouso
 Landing Pad - Plataforma de Pouso
 Landing Services - Serviço de Pouso
 Landing System - Sistema de Pouso
-Landing Control - Controle de Pouso
 Large Multicrew Craft - Embarcação Grande Multitripulada
 Light - Leve
 Livery - Pintura
@@ -170,6 +183,7 @@ Lock Target - Travar Alvo
 Locked - Travado
 Locked Target - Alvo Travado
 Log out - Sair p/ menu
+Look Ahead - Antecipação
 Low-Risk Target - Alvo de Risco Baixo
 Magazine - Carregador
 Magazine Capacity - Capacidade do Carregador
@@ -183,33 +197,31 @@ Medical Supply - Suprimentos Médicos
 Medium - Médio
 Merits - Méritos
 MFD - DMF
+Mining Facility - Instalação de Mineração
 Moderate-Risk Target - Alvo de Risco Moderado
 Multi-Tool - Multi-Ferramenta
 Multilock - Multitrava
 Muzzle - Freio de Boca
+Nacelle - Módulo - Compartimento - Pod - Gôndola Termo correto é Nacela mas quase ninguém sabe o que é isso.
 Noise - Ruído
 Nonmetals - Não metais
 Nose Mount - Suporte do Nariz
 Nudge - Deslocar
 Off - Desligado - Desativado - Desligar
 On - Ligado - Ativado - Ligar
+On/Off - Lig./Des.
 Optics (Sx) - Mira (Sx) (Colocar Mira quando estiver na descrição do que tem na arma e não das características)
 Optics - Lente
 Optics - Óptica
-orbital sentries - sentinelas orbitais
 Orbital Laser Platform (OLP) - Plataforma Laser Orbital (PLO)
+orbital sentries - sentinelas orbitais
 Ore - Minério
+Ore Refinery - Refinaria De Minério
 Outcasts - Exilados - Párias - Foragidos - Forasteiros (ainda não temos esta informação, mas teremos de ver se não seria o nome de um grupo/facção)
 Outcasts Description - Descrição dos Exilados ?
 Outlaw's - Foras-da-Lei - Criminosos
 Outlaws - Bandidos
 Outpost - Posto Avançado
-Research Outpost - Posto Avançado de Pesquisa
-Facility - Instalação
-Farming Outpost - Posto Avançado Agrícola
-Mining Facility - Instalação de Mineração
-Refinery Outpost - Posto Avançado de Refinaria
-Ore Refinery - Refinaria De Minério
 outskirts - arredores ou periferia.
 Overhead Shields - Escudos Superiores ?
 Party - Grupo
@@ -218,6 +230,8 @@ Patrol Beacon - Alerta de Patrulha
 PDC Monitors - Monitores PDC
 Personal Inner Thought - Roda de Seleção Pessoal
 Pickup - Coleta/r, Retira/r
+PIT  = Personal Inner Thought - RDS = Roda de Seleção - Roda de Seleção Pessoal (RSP)
+Pitch - Eixo Lateral - Inclinação
 Plasma Fuel - Combustível de Plasma
 pod - cápsula
 Power - Energia
@@ -225,6 +239,7 @@ Power Plant/PowerPlant - Gerador de Energia
 Power Source - Fonte de Energia
 Power Supply - Suprimento de Energia
 Precision Targeting - Mirar com Precisão
+Press - Pressionar
 Proximity Flight Assist - Assistente de Proximidade
 Pyro Gateway - Portal Pyro
 Quantum Beacon - Alerta Quântico
@@ -244,10 +259,12 @@ Recall - Recuperar - Recuperação
 Reclamation & Disposal - Recuperação e Descarte <=== Nome de uma instituição. Creio que entra na regra de não traduzir
 Recover - Recupere
 Recycled Material Composite (RMC) - Composto de Material Reciclado (CMR)
+Refinery Outpost - Posto Avançado de Refinaria
 Relocate - Realocar
 Remaining Sites of Hostiles - Locais Restantes de Inimigos
 Rendezvous Beacon - Alerta de Encontro
 Requeue - Reenfileiramento
+Research Outpost - Posto Avançado de Pesquisa
 Respawn - Renascer - Ressurgimento
 Restock - Restoque
 Restocking - Reestocando / Remuniciando
@@ -257,9 +274,7 @@ Rock - Rocha
 ROE - RDE (relativo a Regras de Engajamento (Rules of Engagement))
 Roll - Rolagem - Rolamento
 Rotate Pitch - Rotacionar Eixo Lateral
-Pitch - Eixo Lateral - Inclinação
 Rotate Yaw - Rotacionar Eixo Vertical
-Yaw - Eixo Vertical - Guinada
 Run - Corrida - Entrega (Quando está no contexto de entregas de mercadorias.)
 Rush Contract - Contrato Urgente
 Salvage Beam - Feixe de Sucateamento
@@ -290,6 +305,7 @@ Skimmer - Drone
 Skyline - Skyline
 Small Multicrew Craft - Embarcação Pequena Multitripulada
 Sodium - Sódio
+Spaceport - Espaçoporto
 Spawn - Nascer - Nascimento -Surgimento
 spool - preparação
 spooled - preparado - alinhado - carregado (termo usado para o carregamento do alinhamento da Viagem Quântica)
@@ -313,6 +329,7 @@ systems-grok - Gênio em sistemas
 Tacit Supressor - Supressor Tácito
 Takedown - Derrubada
 Tank - Regata (quando se refere a vestimenta)
+Tap - Toque
 Taranite - Taranita
 Target - Alvo
 Targeting - Aquisição de Alvo
@@ -330,56 +347,34 @@ Tin - Estanho
 Tin Ore - Minério de Estanho
 Titanium - Titânio
 Toggle - Alternar
-Hold - Segurar
-Press - Pressionar
-Tap - Toque
 Tracker Beginner's Permit - Permissão de Rastreador Iniciante
+Tractor Beam - Raio Trator
 Tritium - Trítio
 Tungsten - Tungstênio
 Unbound - Desvinculado
+Underarm - Por Baixo do Braço
 Undock - Desacoplar - Desancorar - Decolagem
 Uplink - Uplink
 Upload - Carregamento
 Uranium - Urânio
+Utility Item - Item de Utilidade
 Utility Mount Cap - Tampa de Montagem Utilitária
 Vehicle Loadout Manager - Gerenciador de Equipamento dos Veículos - Gerenciador de Carregamento de Veículos
 Vehicle Loadouts - Carregamentos de Veículos
 Vehicle Manager - Gerenciador de Veículos
 Very High-Risk Target - Alvo de Risco Muito Alto
 Very Low-Risk Target - Alvo de Risco Muito Baixo
-Engage - Engatar
-
 Warehouse - Armazém
 Warning - Alerta
 Waste - Resíduos
+Weapon Zeroing - Calibragem de Alcance da Arma
 Wearables - Vestíveis
 WetWork - Banho de Sangue
 wreck - destroços
 wreck site - local dos destroços
 xenoarchaeologist - xenoarqueóloga
+Yaw - Eixo Vertical - Guinada
 Zeroing - Ajuste de Mira
-Detach Mode - Modo de Desacoplamento
-Nacelle - Módulo - Compartimento - Pod - Gôndola Termo correto é Nacela mas quase ninguém sabe o que é isso.
-Driver Seat - Assento do Condutor (Driver seria motorista ou piloto, mas motorista fica feio e piloto é redundante com pilot)
-Utility Item - Item de Utilidade
-Underarm - Por Baixo do Braço
-Backward - Reverso - Recuar
-Forward - Avançar
-On/Off - Lig./Des.
-Freelook - Visão Livre
-Key Bindings - Mapeamentos de Teclas
-Emotes - Gestos
-Cryptokeys - Criptochaves
-Cargo Deck - Deck de Carga
-Spaceport - Espaçoporto
-PIT  = Personal Inner Thought - RDS = Roda de Seleção - Roda de Seleção Pessoal (RSP)
-D-Pad - Direcional
-Environment Suit - Traje Ambiental ?
-Tractor Beam - Raio Trator
-Weapon Zeroing - Calibragem de Alcance da Arma
-ADS = Aim Down Sights - 
-Look Ahead - Antecipação
-Cooldown - Recarga
 
 ----------------------------------------------- Terminais do Gerenciador de Frota -----------------------------------------------
 Claim - Solicitar - Reivindicar
@@ -486,7 +481,7 @@ Light Fighter - Caça Leve
 Light Freight - Frete Leve
 Light Mining - Mineração Leve
 Light Salvage - Sucateiro Leve
-Luxury -  Luxo
+Luxury - Luxo
 Medical - Médico
 Medium Data - Dados Médios
 Medium Fighter - Caça Médio
@@ -532,9 +527,8 @@ Versatile - Versátil
 
 ----------------------------------------------- Planetas/Cidades/Locais -----------------------------------------------
 ArcCorp - ArcCorp
-Area18 - Área18
+Area18 - Area18
 Baijini Point - Baijini Point
-Lorville - Lorville
 Lorville - Lorville
 Orison - Orison
 
