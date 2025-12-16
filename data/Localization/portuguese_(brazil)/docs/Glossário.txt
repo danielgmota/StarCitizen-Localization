@@ -37,6 +37,7 @@ Bounty Assignment - Missão de Recompensa
 Bounty Hunters Guild - Guilda dos Caçadores de Recompensas
 Bounty Hunting - Caça à Recompensa - Coleta de Recompensas(para missões)
 Buff - Melhoria
+Canister - Cânister
 Capital Class Vessel - Embarcação Classe Subcapital
 Cargo Bay - Compartimento de Carga
 Cargo Carrier - Transportador de Carga
