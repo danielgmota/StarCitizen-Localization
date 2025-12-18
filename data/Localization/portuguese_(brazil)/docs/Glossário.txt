@@ -65,6 +65,7 @@ Contract Manager - Gerenciador de Contratos
 Contractor - Contratado - Contratante
 Contractors - Contratados - Contratantes
 Cooldown - Recarga
+Cooler - Resfriador
 Cooler System - Sistema de Resfritamento
 Cooling System - Sistema de Refrigeração
 Coupled - Acoplado

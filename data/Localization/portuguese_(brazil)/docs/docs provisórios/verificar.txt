@@ -28,25 +28,23 @@ HydroFarm - Fazenda HidropÔnica
 Mining Area
 
 Entrou no EspaÇo Monitorado
-Attachment - 
 Slot - Espaço
-Underbarrel - Slot Inferior
-On / Off - Lig. / Des.
-On/Off - Lig./Des.
-Cycle - 
-ADS = Aim Down Sights - 
+
+ADS = Aim Down Sights > Usar Mira / Mirar Pela Alça de Mira (significa Mirar Pela Alça de Mira (Referindo-se ao ato, ação, de alinhar a mira da arma com os olhos)
 Blade de Voo - Lâmina de Voo
-Combat Gauntlet
 INICIO_REMOVER=
 FIM_REMOVER=
 
 
 
 Para baixo
-ui_CIScanningRadarAngDec=Redução do ângulo de escaneamento
+
 itemPort_hardpoint_Left_Wingtip_S01=
 itemPort_hardpoint_blade_wing_left=
 ui_CITargetReticleMode=
+ui_controlhint_fire_chargebeam=
+ui_interactor_AAA_secdock_a_dockingport=
+NTLockdown_FleetDestroy_Antagonist_Primary_obj_short=
 
 
 itemPort_cluster1=Slot de Cluster 1
@@ -59,5 +57,7 @@ itemPort_cluster7=Slot de Cluster 7
 
 ui_ItemActions_PITWheelCategory=
 
+Acima e Abaixo
+item_NameIdris_Cooler=
 
 
