@@ -5,6 +5,9 @@
 #####
 
 Map_Header_Pins=
+NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_007=
+hardpoint_remote_turret_bottom=
+hardpoint_remote_turret_top=
 interiormap_common_transit_platform=
 item_s42_lightswitch=
 itemPort_NameBombRackLeft=
@@ -66,6 +69,16 @@ item_qt_drive_jump_module_required=
 item_s42_lightswitch=
 marok=
 pause_options_flight_options_extended_info_enabled=
+port_DeskFlair01=
+port_DeskFlair02=
+port_DeskFlair03=
+port_DeskFlair04=
+port_NameComputer=
+port_NameTurretAft=
+port_NameTurretPort=
+port_ShelfFlair01=
+port_ShelfFlair02=
+port_ShelfFlair03=
 ui_CICameraOrbit=
 ui_CIFPSAmmoRepool=
 ui_CIFPSAttack2=
