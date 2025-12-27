@@ -5,6 +5,12 @@
 #####
 
 Map_Header_Pins=
+NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_001=
+NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_002=
+NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_003=
+NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_004=
+NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_005=
+NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_006=
 NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_007=
 hardpoint_remote_turret_bottom=
 hardpoint_remote_turret_top=
