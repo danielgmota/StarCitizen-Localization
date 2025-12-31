@@ -73,6 +73,7 @@ item_SubTypeTorpedo=
 item_TypeTractorBeam=
 item_qt_drive_jump_module_required=
 item_s42_lightswitch=
+map_header_pins=
 marok=
 pause_options_flight_options_extended_info_enabled=
 port_DeskFlair01=
