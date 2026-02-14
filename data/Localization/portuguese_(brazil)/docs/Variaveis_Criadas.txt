@@ -70,6 +70,7 @@ itemPort_port_ShelfFlair03=
 itemPort_port_PDCTurret=
 item_SubTypeTorpedo=
 item_TypeTractorBeam=
+item_TypeUtilityTurret=
 item_qt_drive_jump_module_required=
 item_s42_lightswitch=
 map_header_pins=
