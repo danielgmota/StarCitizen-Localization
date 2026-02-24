@@ -549,6 +549,7 @@ Zenith - Superior/Acima
 #
 Conni Ling = contado da Ling Family Hauling - Mulher
 Corbin Cassady = contato da Frontier Fighters - Homem
+Lima Endicott = contato da Citizens For Prosperity - Mulher
 Madge Halford = fundadora da Citizens for Prosperity - Mulher
 Rowena Dulli = (da CDF e Advocacy) - Mulher
 Smokey = contato da Rough & Ready - Homem
