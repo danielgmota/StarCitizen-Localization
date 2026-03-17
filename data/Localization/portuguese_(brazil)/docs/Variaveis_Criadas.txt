@@ -82,7 +82,6 @@ port_DeskFlair03=
 port_DeskFlair04=
 port_NameComputer=
 port_NameMissileRackLeftWing=
-port_NameMissileRackRightWing=
 port_NameTurretAft=
 port_NameTurretPort=
 port_ShelfFlair01=
