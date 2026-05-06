@@ -117,5 +117,5 @@ ui_v_ads_hold=
 ui_v_ads_stable_max_zoom_hold=
 ui_v_ads_toggle=
 
-RSTR_UI_TT_EXPAND_COLLAPSE=
+
 item_TypeDockingAni...
