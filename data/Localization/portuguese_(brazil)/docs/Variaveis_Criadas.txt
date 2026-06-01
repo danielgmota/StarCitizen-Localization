@@ -12,6 +12,7 @@ NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_005=
 NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_006=
 NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_007=
 RSTR_UI_TT_EXPAND_COLLAPSE=
+UI_MF_Danger=
 hardpoint_remote_turret_bottom=
 hardpoint_remote_turret_top=
 interiormap_common_transit_platform=
