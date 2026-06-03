@@ -123,6 +123,7 @@ port_NameTurretPort=
 port_ShelfFlair01=
 port_ShelfFlair02=
 port_ShelfFlair03=
+ui_CIFPSIncreaseMiningThrottle=
 ui_CIRefuelMode=
 ui_interactor_use_security_seat_pu=
 ui_v_ads_cycle_tracking=
