@@ -4,6 +4,7 @@
 # Devem ser removidas daqui quando a CIG lembrar de as criar no global.ini original.
 #####
 
+Hints_Refueling_TargetShip=
 NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_001=
 NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_002=
 NPC_Archetypes-Female-Human-Civilians-Reststop-Hauler_Reststop_003=
@@ -68,6 +69,7 @@ itemPort_hardpoint_power_plant_l=
 itemPort_hardpoint_power_plant_left=
 itemPort_hardpoint_power_plant_left_cl=
 itemPort_hardpoint_power_plant_r=
+itemPort_hardpoint_power_plant_right=
 itemPort_hardpoint_power_plant_right_cl=
 itemport_hardpoint_power_plant_s1=
 itemPort_hardpoint_radar=
@@ -96,18 +98,11 @@ itemPort_hardpoint_shield_generator03=
 itemPort_hardpoint_shield_generator04=
 itemPort_hardpoint_ulility_mount=
 itemPort_hardpoint_utility_mount=
-itemPort_turret_weapon=
 itemPort_NameBombRackLeft=
 itemPort_NameBombRackRight=
 itemPort_NameBombTurret=
-itemPort_port_DeskFlair01=
-itemPort_port_DeskFlair02=
-itemPort_port_DeskFlair03=
-itemPort_port_DeskFlair04=
 itemPort_port_PDCTurret=
-itemPort_port_ShelfFlair01=
-itemPort_port_ShelfFlair02=
-itemPort_port_ShelfFlair03=
+itemPort_turret_weapon=
 map_header_pins=
 marok=
 notification_party_member_connected=
@@ -116,6 +111,8 @@ port_DeskFlair01=
 port_DeskFlair02=
 port_DeskFlair03=
 port_DeskFlair04=
+port_Flair03=
+port_Flair04=
 port_NameComputer=
 port_NameMissileRackLeftWing=
 port_NameTurretAft=
@@ -124,12 +121,15 @@ port_ShelfFlair01=
 port_ShelfFlair02=
 port_ShelfFlair03=
 ui_CIFPSIncreaseMiningThrottle=
-ui_CIRefuelMode=
 ui_interactor_use_security_seat_pu=
 ui_v_ads_cycle_tracking=
 ui_v_ads_hold=
 ui_v_ads_stable_max_zoom_hold=
 ui_v_ads_toggle=
-ui_v_set_refuel_mode=
 
+--------
+item_Descbehr_rifle_ballistic_1=???
+item_SubTypeJumpDrive=???
+itemSubTypeMidRangeRadar=???
+itemSubTypeShortRangeRadar=???
 item_TypeDockingAni...
