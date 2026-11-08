@@ -17,6 +17,8 @@ UI_MF_Danger=
 hardpoint_remote_turret_bottom=
 hardpoint_remote_turret_top=
 interiormap_common_transit_platform=
+item_NameMRCK_S05_RSI_Perseus_Torpedo_L=
+item_NameMRCK_S05_RSI_Perseus_Torpedo_R=
 item_Namegrin_tool_01_salvage_mag_empty=
 item_SubTypeTorpedo=
 item_TypeUtilityTurret=
@@ -122,10 +124,6 @@ port_ShelfFlair02=
 port_ShelfFlair03=
 ui_CIFPSIncreaseMiningThrottle=
 ui_interactor_use_security_seat_pu=
-ui_v_ads_cycle_tracking=
-ui_v_ads_hold=
-ui_v_ads_stable_max_zoom_hold=
-ui_v_ads_toggle=
 
 --------
 item_Descbehr_rifle_ballistic_1=???
