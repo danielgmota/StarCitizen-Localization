@@ -17,6 +17,7 @@ UI_MF_Danger=
 hardpoint_remote_turret_bottom=
 hardpoint_remote_turret_top=
 interiormap_common_transit_platform=
+item_Descbehr_rifle_ballistic_1=
 item_NameMRCK_S05_RSI_Perseus_Torpedo_L=
 item_NameMRCK_S05_RSI_Perseus_Torpedo_R=
 item_Namegrin_tool_01_salvage_mag_empty=
@@ -99,7 +100,6 @@ itemPort_hardpoint_shield_generator02=
 itemPort_hardpoint_shield_generator03=
 itemPort_hardpoint_shield_generator04=
 itemPort_hardpoint_ulility_mount=
-itemPort_hardpoint_utility_mount=
 itemPort_NameBombRackLeft=
 itemPort_NameBombRackRight=
 itemPort_NameBombTurret=
@@ -126,7 +126,8 @@ ui_CIFPSIncreaseMiningThrottle=
 ui_interactor_use_security_seat_pu=
 
 --------
-item_Descbehr_rifle_ballistic_1=???
+Falta verificar:
+--------
 item_SubTypeJumpDrive=???
 itemSubTypeMidRangeRadar=???
 itemSubTypeShortRangeRadar=???
